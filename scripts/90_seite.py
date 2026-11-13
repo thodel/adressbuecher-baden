@@ -372,7 +372,7 @@ function cell(k, col, v, r) {
   if (col === 'zeitreise') {
     const g = GEO[r[d.cols.indexOf('municipality')] + '|' + r[d.cols.indexOf('street_key')]] || GEO[r[d.cols.indexOf('municipality')] + '|'];
     if (!g) return '<td></td>';
-    const exact = !!GEO[r[d.cols.indexOf('municipality')] + '|' + r[d.cols.indexOf('street_key')]];
+    const exact = !!r[d.cols.indexOf('street_key')] && !!GEO[r[d.cols.indexOf('municipality')] + '|' + r[d.cols.indexOf('street_key')]];
     return `<td><a href="https://map.geo.admin.ch/#/map?lang=de&center=${g[0]},${g[1]}&z=${exact ? 11 : 9}&crosshair=marker&bgLayer=void&layers=ch.swisstopo.zeitreihen@year=${esc(r[1])}" target="_blank" rel="noopener" title="${exact ? 'Strasse' : 'Gemeinde'} auf der Siegfriedkarte ${esc(r[1])} (swisstopo Zeitreise)">${exact ? 'Strasse' : 'Ort'} ${esc(r[1])} ↗</a></td>`;
   }
   if (col === 'qa_flags') return `<td>${v ? v.split(' ').map(x => `<span class="qa" title="${esc(QA[x] || x)}">${esc(x)}</span>`).join('') : ''}</td>`;
