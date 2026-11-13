@@ -5,7 +5,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from convert import muni_at, own_surname, place_of  # noqa: E402
+from convert import clean_street, muni_at, own_surname, place_of  # noqa: E402
 
 
 class PlaceOf(unittest.TestCase):
@@ -39,6 +39,14 @@ class MuniAt(unittest.TestCase):
     def test_1900(self):
         self.assertEqual(muni_at("1900", 44, 1), "Baden")
         self.assertEqual(muni_at("1900", 58, 4), "Ennetbaden")
+
+
+class Street(unittest.TestCase):
+    def test_place_and_number_are_dropped(self):
+        self.assertEqual(clean_street("Bruggerstrasse 25, Baden H.", "25"), "Bruggerstrasse")
+        self.assertEqual(clean_street("Römerstrasse, Baden", "9"), "Römerstrasse")
+        self.assertEqual(clean_street("Würenlos", ""), "")
+        self.assertEqual(clean_street("Hasel, Bruggerstraße", "802"), "Hasel, Bruggerstraße")
 
 
 class Surname(unittest.TestCase):

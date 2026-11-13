@@ -1238,7 +1238,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-034-062,1910,34,einwohner,62,62,person,,0,Baumer,,Germann,,Jakob,,,,Mechaniker,,,1,,Bruggerstrasse,27,,Baden,"qwen3.8-27b, Bild 2x",medium,,"Baumer-Germann, Jakob, Mechaniker, Bruggerstrasse 27",Baden,surname_split
 1910-einwohner-034-063,1910,34,einwohner,63,63,person,,0,Baumgartner,,,,Jos. Gottlieb,,,,Schreiner,,,1,,Obere Gasse,33,,Baden,"qwen3.8-27b, Bild 2x",high,,"Baumgartner, Jos. Gottlieb, Schreiner, Obere Gasse 33",Baden,
 1910-einwohner-034-064,1910,34,einwohner,64,64,person,,1,Baumgartner,1,Rohr,,Ernst Heinrich,,,,Stanzer,,,1,,Ob. Gasse,23,,Baden,"qwen3.8-27b, Bild 2x",high,,"— -Rohr, Ernst Heinrich, Stanzer, Ob. Gasse 23",Baden,
-1910-einwohner-034-065,1910,34,einwohner,65,65,person,,1,Baumgartner,1,Schulthess,,Ad,,,,Badhotel Schweizerhof,,,1,,Kurplatz H.,,1,Baden,"qwen3.8-27b, Bild 2x",high,,"— -Schulthess, Ad., Badhotel Schweizerhof, Kurplatz H. ☎ 72",Baden,
+1910-einwohner-034-065,1910,34,einwohner,65,65,person,,1,Baumgartner,1,Schulthess,,Ad,,,,Badhotel Schweizerhof,,,1,,Kurplatz,,1,Baden,"qwen3.8-27b, Bild 2x",high,,"— -Schulthess, Ad., Badhotel Schweizerhof, Kurplatz H. ☎ 72",Baden,
 1910-einwohner-034-066,1910,34,einwohner,66,66,person,,1,Baumgartner,1,,,W,,,,Kontrolleur,,,1,,Bruggerstrasse,5,,Baden,"qwen3.8-27b, Bild 2x",high,,"— W., Kontrolleur, Bruggerstrasse 5",Baden,
 1910-einwohner-034-067,1910,34,einwohner,67,67,person,,0,Baur,,,,"Ernst, Arthur",,,,Techniker,,,1,,Obere Bahnhofstrasse,11,,Baden,"qwen3.8-27b, Bild 2x",high,,"Baur, Ernst, Arthur, Techniker, Obere Bahnhofstrasse 11",Baden,
 1910-einwohner-035-001,1910,35,einwohner,1,1,person,,0,Baur,,,,Heinrich,,,,Handlanger,,,1,,Kirchplatz,3,,,"qwen3.8-27b, Bild 2x",high,,"Baur, Heinrich, Handlanger, Kirchplatz 3",Baden,
@@ -1370,10 +1370,10 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-036-066,1910,36,einwohner,66,66,person,,0,Bori,,Nieriker,,Rosina,,Witwe,,Privat,,,1,,Mellingerstrasse,11,,,"qwen3.8-27b, Bild 2x",high,,"Bori-Nieriker, Rosina, Witwe, Privat, Mellingerstrasse 11",Baden,
 1910-einwohner-037-001,1910,37,einwohner,1,1,person,,0,Bormuth,,Flick,,Georg,,,,Restaurant Gotthard,,,1,,Bruggerstrasse,,1,,"qwen3.8-27b, Bild 2x",high,,"Bormuth-Flick, Georg, Restaurant Gotthard, Bruggerstrasse ☎ 271",Baden,dehyphen triple surname_split
 1910-einwohner-037-002,1910,37,einwohner,2,2,person,,0,Borner,,Dätwyler,,Adolf,,,,Handlanger,,,1,,Halde,7,,,"qwen3.8-27b, Bild 2x",medium,,"Borner-Dätwyler, Adolf, Handlanger, Halde 7",Baden,surname_split
-1910-einwohner-037-003,1910,37,einwohner,3,3,person,,0,Borsinger,,Beck,,Jos,,,,Badhotels Verena- u. Limmathof,,,1,,H.,"70, 64",1,,"qwen3.8-27b, Bild 2x",high,,"Borsinger-Beck, Jos., Badhotels Verena- u. Limmathof H. ☎ für Verenahof 70, ☎ für Limmathof 64",Baden,dehyphen surname_split
+1910-einwohner-037-003,1910,37,einwohner,3,3,person,,0,Borsinger,,Beck,,Jos,,,,Badhotels Verena- u. Limmathof,,,1,,,"70, 64",1,,"qwen3.8-27b, Bild 2x",high,,"Borsinger-Beck, Jos., Badhotels Verena- u. Limmathof H. ☎ für Verenahof 70, ☎ für Limmathof 64",Baden,dehyphen surname_split
 1910-einwohner-037-004,1910,37,einwohner,4,4,person,,1,Borsinger,1,Beck,,"Müller, Mathilde",,Witwe,,Privat,,,1,,Römerstrasse,9,,,"qwen3.8-27b, Bild 2x",medium,,"— Müller, Mathilde; Witwe, Privat, Römerstrasse 9",Baden,surname_split
 1910-einwohner-037-005,1910,37,einwohner,5,5,person,,1,Borsinger,1,Beck,,"Specker, Rosa",,Witwe,,Privat,,,1,,Badstrasse,59,,,"qwen3.8-27b, Bild 2x",high,,"— Specker, Rosa, Witwe, Privat, Badstrasse 59",Baden,dehyphen surname_split
-1910-einwohner-037-006,1910,37,einwohner,6,6,person,,1,Borsinger,1,Beck,,"Walser, Max",,,,Badhotel zur Blume,,,1,,Kurplatz H.,69,1,,"qwen3.8-27b, Bild 2x",medium,,"— Walser, Max, Badhotel zur Blume, Kurplatz H. ☎ 69",Baden,surname_split
+1910-einwohner-037-006,1910,37,einwohner,6,6,person,,1,Borsinger,1,Beck,,"Walser, Max",,,,Badhotel zur Blume,,,1,,Kurplatz,69,1,,"qwen3.8-27b, Bild 2x",medium,,"— Walser, Max, Badhotel zur Blume, Kurplatz H. ☎ 69",Baden,surname_split
 1910-einwohner-037-007,1910,37,einwohner,7,7,person,,0,Borta,,Kleiner,,Joachim,,,,Mechaniker,,,1,,"Klösterli, Mellingerstrasse",,,,"qwen3.8-27b, Bild 2x",medium,,"Borta-Kleiner, Joachim, Mechaniker, Klösterli, Mellingerstrasse",Baden,surname_split
 1910-einwohner-037-008,1910,37,einwohner,8,8,person,,1,Borta,1,Kleiner,,Vittorio,,,,Mechaniker,,,1,,Bruggerstr.,74a,,,"qwen3.8-27b, Bild 2x",high,,"— Vittorio, Mechaniker, Bruggerstr. 74a",Baden,triple surname_split
 1910-einwohner-037-009,1910,37,einwohner,9,9,person,,0,Boschiero,,Dall'armi,,Angelo,,,,Schneider,,,1,,Halde,9,,,"qwen3.8-27b, Bild 2x",medium,,"Boschiero-Dall'armi, Angelo, Schneider, Halde 9",Baden,surname_split
@@ -1400,11 +1400,11 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-037-030,1910,37,einwohner,30,30,person,,1,Brändli,1,Hürzeler,,"Stöckli, Bruno",,,,Ingenieur,,,1,,Zürcherstrasse,87,,,"qwen3.8-27b, Bild 2x",high,,"— Stöckli, Bruno, Ingenieur, Zürcherstrasse 87",Baden,dehyphen surname_split
 1910-einwohner-037-031,1910,37,einwohner,31,31,person,,0,Brandeis,,Bloch,,Isaac,,,,,,,1,,Badstrasse,24,,,"qwen3.8-27b, Bild 2x",medium,,"Brandeis-Bloch, Isaac, Badstrasse 24",Baden,surname_split
 1910-einwohner-037-032,1910,37,einwohner,32,32,person,,0,Brandeis,,Weil,,Ester,,Witwe,,Privat,,,1,,Badstrasse,24,,,"qwen3.8-27b, Bild 2x",medium,,"Brandeis-Weil, Ester, Witwe, Privat, Badstrasse 24",Baden,surname_split
-1910-einwohner-037-033,1910,37,einwohner,33,33,person,,1,Brandeis,1,Weil,,"Söhne, J",,,,"Firma, Mercerie u. Passementerie",,,1,,Badstrasse 14 H.,14,1,,"qwen3.8-27b, Bild 2x",high,,"— Söhne, J., Firma, Mercerie u. Passementerie, Badstrasse 14 H. ☎ 49",Baden,street_rare dehyphen surname_split
+1910-einwohner-037-033,1910,37,einwohner,33,33,person,,1,Brandeis,1,Weil,,"Söhne, J",,,,"Firma, Mercerie u. Passementerie",,,1,,Badstrasse,14,1,,"qwen3.8-27b, Bild 2x",high,,"— Söhne, J., Firma, Mercerie u. Passementerie, Badstrasse 14 H. ☎ 49",Baden,street_rare dehyphen surname_split
 1910-einwohner-037-034,1910,37,einwohner,34,34,person,,0,Brandenberger,,,,Ernst,,,,Techniker,,,1,,Bruggerstrasse,20,,,"qwen3.8-27b, Bild 2x",high,,"Brandenberger, Ernst, Techniker, Bruggerstrasse 20",Baden,dehyphen
 1910-einwohner-037-035,1910,37,einwohner,35,35,person,,0,Brandenburger,,,,Karl,,,,Schreiner,,,1,,Bruggerstrasse,65,,,"qwen3.8-27b, Bild 2x",high,,"Brandenburger, Karl, Schreiner, Bruggerstrasse 65",Baden,dehyphen
 1910-einwohner-037-036,1910,37,einwohner,36,36,person,,0,Brandt,,,,Georg,,,,Elektrotechniker,,,1,,Haselstrasse,19a,,,"qwen3.8-27b, Bild 2x",high,,"Brandt, Georg, Elektrotechniker, Haselstrasse 19a",Baden,dehyphen
-1910-einwohner-037-037,1910,37,einwohner,37,37,person,,0,Brauerrei Müller,,,,,,,,Eigentümer Hans Müller,,,1,,Haselstrasse H.,128,1,,"qwen3.8-27b, Bild 2x",high,,"Brauerrei Müller, vormals J. Weber, Eigentümer Hans Müller, Haselstrasse H. ☎ 128",Baden,dehyphen
+1910-einwohner-037-037,1910,37,einwohner,37,37,person,,0,Brauerrei Müller,,,,,,,,Eigentümer Hans Müller,,,1,,Haselstrasse,128,1,,"qwen3.8-27b, Bild 2x",high,,"Brauerrei Müller, vormals J. Weber, Eigentümer Hans Müller, Haselstrasse H. ☎ 128",Baden,dehyphen
 1910-einwohner-037-038,1910,37,einwohner,38,38,person,,0,Braun,,,,Valentin Johann,,,,Coiffeur,,,1,,Metzggasse,,,,"qwen3.8-27b, Bild 2x",high,,"Braun, Valentin Johann, Coiffeur, Metzggasse",Baden,dehyphen
 1910-einwohner-037-039,1910,37,einwohner,39,39,person,,1,Braun,1,,,Wilhelm,,,,Uhrenmacher,,,1,,Theaterpl.,6,,,"qwen3.8-27b, Bild 2x",high,,"— Wilhelm, Uhrenmacher, Theaterpl. 6",Baden,
 1910-einwohner-037-040,1910,37,einwohner,40,40,person,,0,Braunschweig,,Dreifuss,,Jakob Mich,,,,Privat,,,1,,Rathausgasse,20,,,"qwen3.8-27b, Bild 2x",medium,,"Braunschweig-Dreifuss, Jakob Mich., Privat, Rathausgasse 20",Baden,surname_split
@@ -1420,7 +1420,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-037-050,1910,37,einwohner,50,50,person,,1,Briner,1,Lips,,Rudolf Robert,,,,Schlosser,,,1,,Kronengasse,8,,,"qwen3.8-27b, Bild 2x",high,,"— Rudolf Robert, Schlosser, Kronengasse 8",Baden,dehyphen surname_split
 1910-einwohner-037-051,1910,37,einwohner,51,51,person,,0,Bringolf,,,,Georg,,,,Mechaniker,,,1,,Vordere Mäderstrasse,1,,,"qwen3.8-27b, Bild 2x",high,,"Bringolf, Georg, Mechaniker, Vordere Mäderstrasse 1",Baden,
 1910-einwohner-037-052,1910,37,einwohner,52,52,person,,0,Brodowsky,,Tryinski,,Charles,,,,Ingenieur,,,1,,Haselstrasse,7,,,"qwen3.8-27b, Bild 2x",medium,,"Brodowsky-Tryinski, Charles, Ingenieur, Haselstrasse 7",Baden,surname_split
-1910-einwohner-037-053,1910,37,einwohner,53,53,firma,,0,"Brown, Boveri & Cie.",,,,A. G,,,,"Maschinenfabriken, Elektrotechnische Werkstätten, Eisenbahnbau",,,1,,Haselstrasse H.,"6, 147, 178, 355",1,,"qwen3.8-27b, Bild 2x",high,,"Brown, Boveri & Cie., A. G., Maschinenfabriken, Elektrotechnische Werkstätten, Eisenbahnbau, Haselstrasse H. ☎ 6, 147, 178, 355",Baden,dehyphen
+1910-einwohner-037-053,1910,37,einwohner,53,53,firma,,0,"Brown, Boveri & Cie.",,,,A. G,,,,"Maschinenfabriken, Elektrotechnische Werkstätten, Eisenbahnbau",,,1,,Haselstrasse,"6, 147, 178, 355",1,,"qwen3.8-27b, Bild 2x",high,,"Brown, Boveri & Cie., A. G., Maschinenfabriken, Elektrotechnische Werkstätten, Eisenbahnbau, Haselstrasse H. ☎ 6, 147, 178, 355",Baden,dehyphen
 1910-einwohner-037-054,1910,37,einwohner,54,54,person,,0,Brown,,Kronmeier,,Herbert,,,,Ingenieur,,,1,,Römerstrasse,,1,,"qwen3.8-27b, Bild 2x",medium,,"Brown-Kronmeier, Herbert, Ingenieur, Römerstrasse ☎ 362",Baden,surname_split
 1910-einwohner-037-055,1910,37,einwohner,55,55,person,,1,Brown,1,Kronmeier,,"Moser, Erich",,,,Ingenieur,,,1,,Bahnhofweg,8,1,,"qwen3.8-27b, Bild 2x",high,,"— Moser, Erich, Ingenieur, Bahnhofweg 8 ☎ 299",Baden,dehyphen surname_split
 1910-einwohner-037-056,1910,37,einwohner,56,56,person,,1,Brown,1,Kronmeier,,"Nathan, Charles E. L",,,,Ingenieur,,,1,,"Villa Römerburg, Römerstrasse",34,1,,"qwen3.8-27b, Bild 2x",medium,,"— Nathan, Charles E. L., Ingenieur, Villa Römerburg, Römerstrasse 34 ☎ 107",Baden,surname_split
@@ -1684,8 +1684,8 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-041-066,1910,41,einwohner,66,66,person,,0,Fäs,,Hartmann,,"Siegfried, Traug",,,,Bahnbeamter,,,1,,Dynamostrasse,39,,,"qwen3.8-27b, Bild 2x",high,,"Fäs-Hartmann, Siegfried, Traug., Bahnbeamter, Dynamostrasse 39",Baden,
 1910-einwohner-042-001,1910,42,einwohner,1,1,person,,0,Falk,,Beyer,,Hermann,,,,Verwalter,,,1,,Bad-strasse,7,,Baden,"qwen3.8-27b, Bild 2x",high,,"Falk-Beyer, Hermann, Verwalter, Bad-strasse 7",Baden,hyphen surname_split
 1910-einwohner-042-002,1910,42,einwohner,2,2,person,,1,Falk,1,Beyer,,"Imbach, Henriette Dorothea",,Frau,,Privat,,,1,,,,,Baden,"qwen3.8-27b, Bild 2x",medium,,"— Imbach, Henriette Dorothea, Frau, Privat",Baden,surname_split
-1910-einwohner-042-003,1910,42,einwohner,3,3,firma,,0,Falkenbräu Baden,,,,,,,,"Bierbrauerei, Eigentümer: Gebrüder Welti",,,1,,H.,,1,Baden,"qwen3.8-27b, Bild 2x",high,,"Falkenbräu Baden, Bierbrauerei, Eigentümer: Gebrüder Welti H. ☎ 37",Baden,
-1910-einwohner-042-004,1910,42,einwohner,4,4,person,,0,Falken,,,,Gottfried,,,,Gasthaus z. Rohr-Schwarz,,,1,,Vorstadt H.,,1,Baden,"qwen3.8-27b, Bild 2x",medium,,"Falken, Gasthaus z. Rohr-Schwarz, Gottfried, Vorstadt H. ☎ 295",Baden,street_rare
+1910-einwohner-042-003,1910,42,einwohner,3,3,firma,,0,Falkenbräu Baden,,,,,,,,"Bierbrauerei, Eigentümer: Gebrüder Welti",,,1,,,,1,Baden,"qwen3.8-27b, Bild 2x",high,,"Falkenbräu Baden, Bierbrauerei, Eigentümer: Gebrüder Welti H. ☎ 37",Baden,
+1910-einwohner-042-004,1910,42,einwohner,4,4,person,,0,Falken,,,,Gottfried,,,,Gasthaus z. Rohr-Schwarz,,,1,,Vorstadt,,1,Baden,"qwen3.8-27b, Bild 2x",medium,,"Falken, Gasthaus z. Rohr-Schwarz, Gottfried, Vorstadt H. ☎ 295",Baden,street_rare
 1910-einwohner-042-005,1910,42,einwohner,5,5,person,,0,Fasler,,Debrunner,,Peter,,,,Arbeiter im Dynamo,,,1,,Haselstrasse,19a,,Baden,"qwen3.8-27b, Bild 2x",medium,,"Fasler-Debrunner, Peter, Arbeiter im Dynamo, Haselstrasse 19a",Baden,surname_split
 1910-einwohner-042-006,1910,42,einwohner,6,6,person,,1,Fasler,1,Debrunner,,"Furter, Friedr. Georg",,,,Bahnangestellter,,,1,,Bruggerstrasse,60,,Baden,"qwen3.8-27b, Bild 2x",high,,"— Furter, Friedr. Georg, Bahnangestellter, Bruggerstrasse 60",Baden,triple surname_split
 1910-einwohner-042-007,1910,42,einwohner,7,7,person,,0,Fastenrath,,Schmidt,,Friedr. Wilhelm,,,,"Cigarren-Comestibles-undFrüchte-geschäft, (Pariserladen)",,,1,,Schlossberg,,1,Baden,"qwen3.8-27b, Bild 2x",high,,"Fastenrath-Schmidt, Friedr. Wilhelm, Cigarren-Comestibles-undFrüchte-geschäft, (Pariserladen), Schlossberg ☎ 266",Baden,hyphen surname_split
@@ -1738,7 +1738,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-042-054,1910,42,einwohner,54,54,person,,0,Flühmann,,,,Samuel,,,,Handlanger,,,1,,Bruggerstrasse,8,,Baden,"qwen3.8-27b, Bild 2x",high,,"Flühmann, Samuel, Handlanger, Bruggerstrasse 8",Baden,triple
 1910-einwohner-042-055,1910,42,einwohner,55,55,person,,0,Fluri,,,,Otto,,,,Schleifermeister,,,1,,Römerstrasse,63,,Baden,"qwen3.8-27b, Bild 2x",high,,"Fluri, Otto, Schleifermeister, Römerstrasse 63",Baden,
 1910-einwohner-042-056,1910,42,einwohner,56,56,person,,0,Fontana,,,,Emilio,,,,Mosaist,,,1,,Wiesenstr.,22,,Baden,"qwen3.8-27b, Bild 2x",high,,"Fontana, Emilio, Mosaist, Wiesenstr. 22",Baden,
-1910-einwohner-042-057,1910,42,einwohner,57,57,firma,,1,Fontana,1,,,"& Cie., E",,,,"Firma, Spezialgeschäft für Steinholzindustrie und Mosaik-und Terrazzoböden",,,1,,Geschäftshaus Wiesenstrasse H.,,,Baden,"qwen3.8-27b, Bild 2x",high,,"— & Cie., E., Firma, Spezialgeschäft für Steinholzindustrie und Mosaik-und Terrazzoböden, Geschäftshaus Wiesenstrasse H.",Baden,street_rare hyphen
+1910-einwohner-042-057,1910,42,einwohner,57,57,firma,,1,Fontana,1,,,"& Cie., E",,,,"Firma, Spezialgeschäft für Steinholzindustrie und Mosaik-und Terrazzoböden",,,1,,Geschäftshaus Wiesenstrasse,,,Baden,"qwen3.8-27b, Bild 2x",high,,"— & Cie., E., Firma, Spezialgeschäft für Steinholzindustrie und Mosaik-und Terrazzoböden, Geschäftshaus Wiesenstrasse H.",Baden,street_rare hyphen
 1910-einwohner-042-058,1910,42,einwohner,58,58,person,,0,Fornerod,,,,Charles Emil,,,,Ingenieur,,,1,,Haselstrasse,,,Baden,"qwen3.8-27b, Bild 2x",high,,"Fornerod, Charles Emil, Ingenieur, Haselstrasse",Baden,
 1910-einwohner-042-059,1910,42,einwohner,59,59,person,,0,Forrer,,,,Heinrich,,,,Elektrotechniker,,,1,,Vordere Mäderstrasse,8,,Baden,"qwen3.8-27b, Bild 2x",high,,"Forrer, Heinrich, Elektrotechniker, Vordere Mäderstrasse 8",Baden,
 1910-einwohner-042-060,1910,42,einwohner,60,60,person,,0,Forter,,Bühler,,Max,,,,Ingen.,,,1,,Badstr.,33,,Baden,"qwen3.8-27b, Bild 2x",medium,,"Forter-Bühler, Max, Ingen., Badstr. 33",Baden,surname_split
@@ -1855,7 +1855,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-044-046,1910,44,einwohner,46,46,person,,0,Gertsch,,,,Rudolf,,,,Schlosser,,,1,,Gartenstrasse,14,,Baden,"qwen3.8-27b, Bild 2x",high,,"Gertsch, Rudolf, Schlosser, Gartenstrasse 14",Baden,
 1910-einwohner-044-047,1910,44,einwohner,47,47,person,,0,Gessler,,Widmer,,Jak. Aug,,,,"Gasthaus, z. Löwen",,,1,,Haselstrasse,,1,Baden,"qwen3.8-27b, Bild 2x",high,,"Gessler-Widmer, Jak. Aug., Gasthaus, z. Löwen, Haselstrasse ☎ 18",Baden,
 1910-einwohner-044-048,1910,44,einwohner,48,48,person,,0,Gessner,,Henschel,,Walter Franz,,,,Kaufmann,,,1,,Wettingerstrasse,33,,Baden,"qwen3.8-27b, Bild 2x",high,,"Gessner-Henschel, Walter Franz, Kaufmann, Wettingerstrasse 33",Baden,
-1910-einwohner-044-049,1910,44,einwohner,49,49,firma,,0,Gewerbekasse Baden,,,,,,,,Bahnhofsplatz,,,1,,H.,,1,Baden,"qwen3.8-27b, Bild 2x",high,,Gewerbekasse Baden (Genossenschaft) Bahnhofsplatz H. ☎ 143,Baden,
+1910-einwohner-044-049,1910,44,einwohner,49,49,firma,,0,Gewerbekasse Baden,,,,,,,,Bahnhofsplatz,,,1,,,,1,Baden,"qwen3.8-27b, Bild 2x",high,,Gewerbekasse Baden (Genossenschaft) Bahnhofsplatz H. ☎ 143,Baden,
 1910-einwohner-044-050,1910,44,einwohner,50,50,person,,0,Gibossi,,Pradelli,,Carlo,,,,Handl.,,,1,,Meierhof,,,Baden,"qwen3.8-27b, Bild 2x",high,,"Gibossi-Pradelli, Carlo, Handl., Meierhof",Baden,
 1910-einwohner-044-051,1910,44,einwohner,51,51,person,,0,Giedemann,,Renold,,Hermann,,,,Metzgermeister,,,1,,Wettingerstrasse,7,1,Baden,"qwen3.8-27b, Bild 2x",high,,"Giedemann-Renold, Hermann, Metzgermeister, Wettingerstrasse 7 ☎ 272",Baden,
 1910-einwohner-044-052,1910,44,einwohner,52,52,person,,0,Giger,,,,Jos. Louis,,,,Fabrikarbeit.,,,1,,Martinsbergstrasse,16,,Baden,"qwen3.8-27b, Bild 2x",high,,"Giger, Jos. Louis, Fabrikarbeit., Martinsbergstrasse 16",Baden,
@@ -1961,7 +1961,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-046-025,1910,46,einwohner,25,25,person,,1,Guggenheim,1,Bollag,,Leopold,,,,Kaufmann,,,1,,Zürcherstrasse,10,,,"qwen3.8-27b, Bild 2x",high,,"— -Bollag, Leopold, Kaufmann, Zürcherstrasse 10",Baden,
 1910-einwohner-046-026,1910,46,einwohner,26,26,person,,1,Guggenheim,1,Dorn,,Wilhelm,,,,Kaufmann,,,1,,Bruggerstrasse,5,,,"qwen3.8-27b, Bild 2x",high,,"— -Dorn, Wilhelm, Kaufmann, Bruggerstrasse 5",Baden,
 1910-einwohner-046-027,1910,46,einwohner,27,27,person,,1,Guggenheim,1,Einstein,,Emil,,,,Kaufmann,,,1,,Bahnhofplatz,4,,,"qwen3.8-27b, Bild 2x",high,,"— -Einstein, Emil, Kaufmann, Bahnhofplatz 4",Baden,
-1910-einwohner-046-028,1910,46,einwohner,28,28,firma,,1,Guggenheim,1,Einstein & Cie.,,,,,,"Firma, Manufacturwarengeschäft",,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",high,,"— -Einstein & Cie., Firma, Manufacturwarengeschäft H. ☎",Baden,
+1910-einwohner-046-028,1910,46,einwohner,28,28,firma,,1,Guggenheim,1,Einstein & Cie.,,,,,,"Firma, Manufacturwarengeschäft",,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"— -Einstein & Cie., Firma, Manufacturwarengeschäft H. ☎",Baden,
 1910-einwohner-046-029,1910,46,einwohner,29,29,person,,0,Guggenheim,,,,Emil,,,,Kaufmann,,,1,,Mellingerstrasse,16,,,"qwen3.8-27b, Bild 2x",high,,"— Emil, Kaufmann, Mellingerstrasse 16",Baden,
 1910-einwohner-046-030,1910,46,einwohner,30,30,person,,0,Guggenheim,,,,Georges,,,,Reisender,,,1,,Bruggerstr.,28,,,"qwen3.8-27b, Bild 2x",high,,"— Georges, Reisender, Bruggerstr. 28",Baden,
 1910-einwohner-046-031,1910,46,einwohner,31,31,person,,1,Guggenheim,1,Guggenheim,,Jul,,,,Hotelier,,,1,,Theaterplatz,H.,1,,"qwen3.8-27b, Bild 2x",high,,"— -Guggenheim, Jul., Hotelier, Centralhof, Theaterplatz H. ☎ 239",Baden,
@@ -2027,7 +2027,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-047-028,1910,47,einwohner,28,28,person,,0,Häusermann,,Frühauß,,Traugott,,,,Wagnermeister,,,1,,Martinsbergstrasse,8,,,"qwen3.8-27b, Bild 2x",high,,"Häusermann-Frühauß, Traugott, Wagnermeister, Martinsbergstrasse 8",Baden,
 1910-einwohner-047-029,1910,47,einwohner,29,29,person,,0,Häusler,,,,Cölestin,,,,Hilfsarbeiter,,,1,,Vordere Mäderstrasse,6,,,"qwen3.8-27b, Bild 2x",high,,"Häusler, Cölestin, Hilfsarbeiter, Vordere Mäderstrasse 6",Baden,
 1910-einwohner-047-030,1910,47,einwohner,30,30,person,,1,Häusler,1,Kreutzer,,Friedr. Jakob,,,,Kreisförster,,,1,,Halde,36,,,"qwen3.8-27b, Bild 2x",high,,"— -Kreutzer, Friedr. Jakob, Kreisförster, Halde 36",Baden,
-1910-einwohner-047-031,1910,47,einwohner,31,31,person,,0,Hafen,,Müsli,,Wilh,,,,Hotelier,,,1,,Gra. Hotel H.,,1,,"qwen3.8-27b, Bild 2x",medium,,"Hafen-Müsli, Wilh., Hotelier, Gra. Hotel H. ☎ 75",Baden,street_rare
+1910-einwohner-047-031,1910,47,einwohner,31,31,person,,0,Hafen,,Müsli,,Wilh,,,,Hotelier,,,1,,Gra. Hotel,,1,,"qwen3.8-27b, Bild 2x",medium,,"Hafen-Müsli, Wilh., Hotelier, Gra. Hotel H. ☎ 75",Baden,street_rare
 1910-einwohner-047-032,1910,47,einwohner,32,32,person,,1,Hafen,1,,,Max,,Sohn,,Hotelier,,,1,,Grand Hotel,,,,"qwen3.8-27b, Bild 2x",high,,"— Max, Sohn, Hotelier, Grand Hotel",Baden,
 1910-einwohner-047-033,1910,47,einwohner,33,33,person,,1,Hafen,1,,,Wilh,,Sohn,,Director,,,1,,Grand Hotel,,,,"qwen3.8-27b, Bild 2x",high,,"— Wilh., Sohn, Director im Grand Hotel",Baden,
 1910-einwohner-047-034,1910,47,einwohner,34,34,person,,0,Hafner,,,,Eugen,,,,Kommis,,,1,,Halde,1,,,"qwen3.8-27b, Bild 2x",high,,"Hafner, Eugen, Kommis, Halde 1",Baden,
@@ -2335,7 +2335,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-052-021,1910,52,einwohner,21,21,person,,0,Karli,,,,Albert,,,,röm. kath. Stadtpfarrer u. Dekan,,,1,,Kirchplatz,15,1,,"qwen3.8-27b, Bild 2x",high,,"Karli, Albert, röm. kath. Stadtpfarrer u. Dekan, Kirchplatz 15 ☎",Baden,
 1910-einwohner-052-022,1910,52,einwohner,22,22,person,,1,Karli,1,Sägesser,,Gottlieb,,,,Anreisser,,,1,,Gstühlplatz,24a,,,"qwen3.8-27b, Bild 2x",high,,"-Sägesser, Gottlieb, Anreisser, Gstühlplatz 24a",Baden,alliance_from_text
 1910-einwohner-052-023,1910,52,einwohner,23,23,firma,,0,Karrer,,,,Emil,,,,Kontrolleur bei der Gewerbekasse,,,1,,Theaterplatz,,,,"qwen3.8-27b, Bild 2x",high,,"Karrer, Emil, Kontrolleur bei der Gewerbekasse, Theaterplatz",Baden,
-1910-einwohner-052-024,1910,52,einwohner,24,24,firma,,0,Kasinogesellschaft Baden,,,,,,,,,,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",high,,Kasinogesellschaft Baden H. ☎ 88,Baden,
+1910-einwohner-052-024,1910,52,einwohner,24,24,firma,,0,Kasinogesellschaft Baden,,,,,,,,,,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,Kasinogesellschaft Baden H. ☎ 88,Baden,
 1910-einwohner-052-025,1910,52,einwohner,25,25,person,,0,Kaspar,,,,Arnold,,,,Postpacker,,,1,,Mellingerstrasse,48,,,"qwen3.8-27b, Bild 2x",high,,"Kaspar, Arnold, Postpacker, Mellingerstrasse 48",Baden,
 1910-einwohner-052-026,1910,52,einwohner,26,26,person,,1,Kaspar,1,Stutz,,Heinrich,,,,Fabrikarbeiter,,,1,,Grabenstrasse,4,,,"qwen3.8-27b, Bild 2x",high,,"-Stutz, Heinrich, Fabrikarbeiter, Grabenstrasse 4",Baden,alliance_from_text
 1910-einwohner-052-027,1910,52,einwohner,27,27,person,,1,Kaspar,1,Voser,,Georg,,,,Schneider,,,1,,Obere Gasse,11,,,"qwen3.8-27b, Bild 2x",high,,"-Voser, Georg, Schneider, Obere Gasse 11",Baden,alliance_from_text
@@ -2591,7 +2591,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-056-027,1910,56,einwohner,27,27,person,,0,Liggenstorfer,,Ehrensperger,,Elisabeth,,Witwe,,,,,1,,Bruggerstr.,10,1,,"qwen3.8-27b, Bild 2x",high,,"Liggenstorfer-Ehrensperger, Elisabeth, Witwe, Bruggerstr. 10 ☎ 200",Baden,
 1910-einwohner-056-028,1910,56,einwohner,28,28,person,,1,Liggenstorfer,1,,,Jakob,,,,Metzgermeister,,,1,,Bruggerstrasse,10,1,,"qwen3.8-27b, Bild 2x",high,,"— Jakob, Metzgermeister, Bruggerstrasse 10 ☎ 200",Baden,
 1910-einwohner-056-029,1910,56,einwohner,29,29,person,,0,Lilljequist,,,,Hans Erik,,,,Volontär,,,1,,Bruggerstrasse,22,,,"qwen3.8-27b, Bild 2x",high,,"Lilljequist, Hans Erik, Volontär, Bruggerstrasse 22",Baden,
-1910-einwohner-056-030,1910,56,einwohner,30,30,person,,0,Limmathof,,,,J. Borsinger,,,,"Badhotel, Besitzer",,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",high,,"Limmathof, Badhotel, J. Borsinger, Besitzer H. ☎ 64",Baden,
+1910-einwohner-056-030,1910,56,einwohner,30,30,person,,0,Limmathof,,,,J. Borsinger,,,,"Badhotel, Besitzer",,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Limmathof, Badhotel, J. Borsinger, Besitzer H. ☎ 64",Baden,
 1910-einwohner-056-031,1910,56,einwohner,31,31,person,,0,Lindecker,,Leuenberger,,Carl,,,,Kaufmann,,,1,,Zürcherstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Lindecker-Leuenberger, Carl, Kaufmann, Zürcherstrasse",Baden,
 1910-einwohner-056-032,1910,56,einwohner,32,32,person,,0,Linder,,,,Xaver,,,,Coiffeur,,,1,,Vordere Metzggasse,8,,,"qwen3.8-27b, Bild 2x",high,,"Linder, Xaver, Coiffeur, Vordere Metzggasse 8",Baden,
 1910-einwohner-056-033,1910,56,einwohner,33,33,person,,0,Link,,Grässl,,,,Witwe,,,,,1,,Kreuzlibergstr.,4,,,"qwen3.8-27b, Bild 2x",high,,"Link-Grässl, Witwe, Kreuzlibergstr. 4",Baden,
@@ -2832,7 +2832,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-060-018,1910,60,einwohner,18,18,person,,1,Morf,1,Hirt,,Konrad,,,,Fuhrhalter,,,1,,Kronengasse,15,,,"qwen3.8-27b, Bild 2x",high,,"— -Hirt, Konrad, Fuhrhalter, Kronengasse 15",Baden,alliance_from_forename surname_split
 1910-einwohner-060-019,1910,60,einwohner,19,19,person,,0,Morgenthaler,,,,Friedrich,,,,Hilfsarbeiter,,,1,,Kronengasse,20,,,"qwen3.8-27b, Bild 2x",high,,"Morgenthaler, Friedrich, Hilfsarbeiter, Kronengasse 20",Baden,
 1910-einwohner-060-020,1910,60,einwohner,20,20,person,,1,Morgenthaler,1,Messerli,,Rudolf,,,,Elektrotechniker,,,1,,Brennweg,,,,"qwen3.8-27b, Bild 2x",high,,"— -Messerli, Rudolf, Elektrotechniker, Brennweg",Baden,alliance_from_forename
-1910-einwohner-060-021,1910,60,einwohner,21,21,person,,0,Mori,,Rohr,,Jean,,,,Metzger,,,1,,Ennetbaden,H.,1,,"qwen3.8-27b, Bild 2x",medium,,"Mori-Rohr, Jean, Metzger, Ennetbaden H. ☎ 118",Baden,surname_split
+1910-einwohner-060-021,1910,60,einwohner,21,21,person,,0,Mori,,Rohr,,Jean,,,,Metzger,,,1,,,H.,1,,"qwen3.8-27b, Bild 2x",medium,,"Mori-Rohr, Jean, Metzger, Ennetbaden H. ☎ 118",Baden,surname_split
 1910-einwohner-060-022,1910,60,einwohner,22,22,person,,0,Moser,,,,Friedrich Ad,,,,Postaspirant,,,1,,Dynamostrasse,33,,,"qwen3.8-27b, Bild 2x",high,,"Moser, Friedrich Ad., Postaspirant, Dynamostrasse 33",Baden,
 1910-einwohner-060-023,1910,60,einwohner,23,23,person,,1,Moser,1,Auer,,Kasimir,,,,Kommis,,,1,,Zürcherstrasse,103,,,"qwen3.8-27b, Bild 2x",high,,"— -Auer, Kasimir, Kommis, Zürcherstrasse 103",Baden,alliance_from_forename
 1910-einwohner-060-024,1910,60,einwohner,24,24,person,,1,Moser,1,,,Johanna,,Witwe,,Privat,,,1,,Mellingerstrasse,31,,,"qwen3.8-27b, Bild 2x",high,,"— Johanna, Witwe, Privat, Mellingerstrasse 31",Baden,
@@ -2943,9 +2943,9 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-062-002,1910,62,einwohner,2,2,person,,1,Obrist,1,,,Johannes,,,,Elektriker,,,1,,Schönaustr.,11,,,"qwen3.8-27b, Bild 2x",high,,"— Johannes, Elektriker, Schönaustr. 11",Baden,
 1910-einwohner-062-003,1910,62,einwohner,3,3,person,,1,Obrist,1,Kaufmann,,"Heinrich, sen",,,,Kupferschmied,,,1,,Halde,25,,,"qwen3.8-27b, Bild 2x",high,,"— -Kaufmann, Heinrich, sen., Kupferschmied, Halde 25",Baden,
 1910-einwohner-062-004,1910,62,einwohner,4,4,person,,1,Obrist,1,,,Maria Louise,,,,Lehrerin,,,1,,Badstr.,6,,,"qwen3.8-27b, Bild 2x",high,,"— Maria Louise, Lehrerin, Badstr. 6",Baden,
-1910-einwohner-062-005,1910,62,einwohner,5,5,person,,0,Ochsen,,,,,,,,"Gasthaus zum, Rich. Diebold, Besitzer",,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",high,,"Ochsen, Gasthaus zum, Rich. Diebold, Besitzer H. ☎ 77",Baden,
+1910-einwohner-062-005,1910,62,einwohner,5,5,person,,0,Ochsen,,,,,,,,"Gasthaus zum, Rich. Diebold, Besitzer",,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Ochsen, Gasthaus zum, Rich. Diebold, Besitzer H. ☎ 77",Baden,
 1910-einwohner-062-006,1910,62,einwohner,6,6,person,,0,Odier,,,,François Max,,,,Ingenieur,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Odier, François Max, Ingenieur",Baden,
-1910-einwohner-062-007,1910,62,einwohner,7,7,firma,,0,Oederlin & Cie.,,,,E,,,,"Firma, Metallgiesserei",,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",high,,"Oederlin & Cie., E., Firma, Metallgiesserei H. ☎ 76",Baden,
+1910-einwohner-062-007,1910,62,einwohner,7,7,firma,,0,Oederlin & Cie.,,,,E,,,,"Firma, Metallgiesserei",,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Oederlin & Cie., E., Firma, Metallgiesserei H. ☎ 76",Baden,
 1910-einwohner-062-008,1910,62,einwohner,8,8,person,,0,Oeschger,,Alig,,Wilhelm,,,,Heizer,,,1,,Thalacker,74b,,,"qwen3.8-27b, Bild 2x",medium,,"Oeschger-Alig, Wilhelm, Heizer, Thalacker 74b",Baden,street_rare
 1910-einwohner-062-009,1910,62,einwohner,9,9,person,,0,Oesterle,,,,Michael,,,,Hausdiener,,,1,,Römerstrasse,30,,,"qwen3.8-27b, Bild 2x",high,,"Oesterle, Michael, Hausdiener, Römerstrasse 30",Baden,
 1910-einwohner-062-010,1910,62,einwohner,10,10,person,,0,Oesterlein,,,,Wilhelm Jos,,,,Ingenieur,,,1,,Kurplatz,2,,,"qwen3.8-27b, Bild 2x",high,,"Oesterlein, Wilhelm Jos., Ingenieur, Kurplatz 2",Baden,
@@ -3026,7 +3026,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-063-020,1910,63,einwohner,20,20,person,,0,Pünter,,Hoch,,Emanuel,,,,Metzgermeister,,,1,,Schönaustrasse,15,1,,"qwen3.8-27b, Bild 2x",medium,,"Pünter-Hoch, Emanuel, Metzgermeister, Schönaustrasse 15 ☎ 219",Baden,surname_split
 1910-einwohner-063-021,1910,63,einwohner,21,21,person,,0,Pungs,,,,Leo,,,,Ingenieur,,,1,,Mellingerstr.,31,,,"qwen3.8-27b, Bild 2x",high,,"Pungs, Leo, Ingenieur, Mellingerstr. 31",Baden,
 1910-einwohner-063-022,1910,63,einwohner,22,22,person,,0,Quadri,,,,Carlo,,,,Schlosser,,,1,,Wettingerstrasse,29,,,"qwen3.8-27b, Bild 2x",high,,"Quadri, Carlo, Schlosser, Wettingerstrasse 29",Baden,
-1910-einwohner-063-023,1910,63,einwohner,23,23,person,,0,Quellenhof,,Hotel,,R. W. Amsler,,,,Besitzer,,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",medium,,"Quellenhof-Hotel, vorm. Hotel Schiff, R. W. Amsler, Besitzer H. ☎ 66",Baden,surname_split
+1910-einwohner-063-023,1910,63,einwohner,23,23,person,,0,Quellenhof,,Hotel,,R. W. Amsler,,,,Besitzer,,,1,,,,1,,"qwen3.8-27b, Bild 2x",medium,,"Quellenhof-Hotel, vorm. Hotel Schiff, R. W. Amsler, Besitzer H. ☎ 66",Baden,surname_split
 1910-einwohner-063-024,1910,63,einwohner,24,24,person,,0,Racle,,,,Ed. Edm,,,,Kaufmann,,,1,,Bruggerstrasse,2,,,"qwen3.8-27b, Bild 2x",high,,"Racle, Ed. Edm., Kaufmann, Bruggerstrasse 2",Baden,
 1910-einwohner-063-025,1910,63,einwohner,25,25,person,,0,Räbsamen,,,,Joh. Anton,,,,Bohrer,,,1,,Vordere Mäderstrasse,1,,,"qwen3.8-27b, Bild 2x",high,,"Räbsamen, Joh. Anton, Bohrer, Vordere Mäderstrasse 1",Baden,
 1910-einwohner-063-026,1910,63,einwohner,26,26,person,,0,Rall,,Ehrensberger,,Jak. Friedr,,,,Magaziner,,,1,,Rütistrasse,4,,,"qwen3.8-27b, Bild 2x",medium,,"Rall-Ehrensberger, Jak. Friedr., Magaziner, Rütistrasse 4",Baden,surname_split
@@ -3140,10 +3140,10 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-065-011,1910,65,einwohner,11,11,person,,0,Schifferli,,Räber,,Josef,,,,Landwirt,,,1,,Langenmoos,,,,"qwen3.8-27b, Bild 2x",high,,"Schifferli-Räber, Josef, Landwirt, Langenmoos",Bergdietikon,street_rare surname_split
 1910-einwohner-065-012,1910,65,einwohner,12,12,person,,1,Schifferli,1,Räber,,"Sami, Josef",,,,Fuhrhalter und Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",medium,,"— Sami, Josef, Fuhrhalter und Landwirt, Baltenschwil",Bergdietikon,surname_split
 1910-einwohner-065-013,1910,65,einwohner,13,13,person,,0,Schmid,,Locher,,Jacob,,,,"Gemeindeammann, Landwirt",,,1,,Gwinden,,,,"qwen3.8-27b, Bild 2x",medium,,"Schmid-Locher, Jacob, Gemeindeammann, Landwirt, Gwinden",Bergdietikon,surname_split
-1910-einwohner-065-014,1910,65,einwohner,14,14,person,,0,Schüpp,,,,Arnold,,,,,,,1,,"Bergli, Baltenschwil",,,,"qwen3.8-27b, Bild 2x",high,,"Schüpp, Arnold, Bergli, Baltenschwil",Bergdietikon,
+1910-einwohner-065-014,1910,65,einwohner,14,14,person,,0,Schüpp,,,,Arnold,,,,,,,1,,Bergli,,,,"qwen3.8-27b, Bild 2x",high,,"Schüpp, Arnold, Bergli, Baltenschwil",Bergdietikon,
 1910-einwohner-065-015,1910,65,einwohner,15,15,person,,1,Schüpp,1,,,Felix,,,,Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Felix, Landwirt, Kindhausen",Bergdietikon,
 1910-einwohner-065-016,1910,65,einwohner,16,16,person,,1,Schüpp,1,,,Salomon,,,,Schreiner,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Salomon, Schreiner, Baltenschwil",Bergdietikon,
-1910-einwohner-065-017,1910,65,einwohner,17,17,person,,1,Schüpp,1,Widmer,,Jacob,,,,Landwirt,,,1,,"Ried, Kindhausen",,,,"qwen3.8-27b, Bild 2x",high,,"— -Widmer, Jacob, Landwirt, Ried, Kindhausen",Bergdietikon,alliance_from_forename
+1910-einwohner-065-017,1910,65,einwohner,17,17,person,,1,Schüpp,1,Widmer,,Jacob,,,,Landwirt,,,1,,Ried,,,,"qwen3.8-27b, Bild 2x",high,,"— -Widmer, Jacob, Landwirt, Ried, Kindhausen",Bergdietikon,alliance_from_forename
 1910-einwohner-065-018,1910,65,einwohner,18,18,person,,1,Schüpp,1,Ballin,,Johann,,,,Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— -Ballin, Johann, Landwirt, Kindhausen",Bergdietikon,alliance_from_forename
 1910-einwohner-065-019,1910,65,einwohner,19,19,person,,0,Sigel,,,,Josef,,,,Schuhmacher,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Sigel, Josef, Schuhmacher, Baltenschwil",Bergdietikon,
 1910-einwohner-065-020,1910,65,einwohner,20,20,person,,1,Sigel,1,Rüegg,,K,,,,Webermeister,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— -Rüegg, K., Webermeister, Baltenschwil",Bergdietikon,alliance_from_forename
@@ -3151,7 +3151,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-065-022,1910,65,einwohner,22,22,person,,0,Somerhalder,,Schmid,,Rud,,,,Werkmeister,,,1,,Wiesental,,,,"qwen3.8-27b, Bild 2x",medium,,"Somerhalder-Schmid, Rud., Werkmeister, Wiesental",Bergdietikon,surname_split
 1910-einwohner-065-023,1910,65,einwohner,23,23,person,,0,Suter,,Peier,,Karl,,,,Steinhauer,,,1,,,,,,"qwen3.8-27b, Bild 2x",medium,,"Suter-Peier, Karl Steinhauer, Baltenschwil",Bergdietikon,surname_split
 1910-einwohner-065-024,1910,65,einwohner,24,24,person,,0,Treier,,Schmid,,Josef,,,,Posthalter,,,1,,Wiesental,,,,"qwen3.8-27b, Bild 2x",medium,,"Treier-Schmid, Josef, Posthalter, Wiesental",Bergdietikon,surname_split
-1910-einwohner-065-025,1910,65,einwohner,25,25,person,,0,Walther,,,,Fritz,,,,,,,1,,"zur alten Post, Baltenschwil",,,,"qwen3.8-27b, Bild 2x",high,,"Walther, Fritz, zur alten Post, Baltenschwil",Bergdietikon,
+1910-einwohner-065-025,1910,65,einwohner,25,25,person,,0,Walther,,,,Fritz,,,,,,,1,,zur alten Post,,,,"qwen3.8-27b, Bild 2x",high,,"Walther, Fritz, zur alten Post, Baltenschwil",Bergdietikon,
 1910-einwohner-065-026,1910,65,einwohner,26,26,firma,,0,Wanner,,,,"Gebr., Jac. und Joh",,,,Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Wanner, Gebr., Jac. und Joh., Landwirt, Baltenschwil",Bergdietikon,
 1910-einwohner-065-027,1910,65,einwohner,27,27,person,,0,Widmer,,,,Arnold,,,,Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Widmer, Arnold, Landwirt, Kindhausen",Bergdietikon,
 1910-einwohner-065-028,1910,65,einwohner,28,28,person,,1,Widmer,1,Wiederkehr,,Josef,,,,Landwirt,,,1,,Gwinden,,,,"qwen3.8-27b, Bild 2x",high,,"— -Wiederkehr, Josef, Landwirt, Gwinden",Bergdietikon,alliance_from_forename
@@ -3162,7 +3162,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-065-034,1910,65,einwohner,34,34,person,,0,Bart,,,,Johann,,,,Jäger,,,1,,,,,Birmenstorf,"qwen3.8-27b, Bild 2x",high,,"Bart, Johann, Jäger",Birmenstorf (AG),
 1910-einwohner-065-035,1910,65,einwohner,35,35,person,,1,Bart,1,,,Johann,,,,Privatier,,,1,,Oberhard,,,Birmenstorf,"qwen3.8-27b, Bild 2x",medium,,"— Johann, Privatier auf Oberhard",Birmenstorf (AG),street_rare
 1910-einwohner-065-036,1910,65,einwohner,36,36,person,,1,Bart,1,,,"Wwe., Marie",,Wwe.,,alt Lehrers,,,1,,,,,Birmenstorf,"qwen3.8-27b, Bild 2x",high,,"— Wwe., Marie, alt Lehrers",Birmenstorf (AG),
-1910-einwohner-065-037,1910,65,einwohner,37,37,person,,0,Biland,,,,Adolf,,,,Ziegeleibesitzer,,,1,,H.,,1,Birmenstorf,"qwen3.8-27b, Bild 2x",high,,"Biland, Adolf, Ziegeleibesitzer, H. ☎",Birmenstorf (AG),
+1910-einwohner-065-037,1910,65,einwohner,37,37,person,,0,Biland,,,,Adolf,,,,Ziegeleibesitzer,,,1,,,,1,Birmenstorf,"qwen3.8-27b, Bild 2x",high,,"Biland, Adolf, Ziegeleibesitzer, H. ☎",Birmenstorf (AG),
 1910-einwohner-065-038,1910,65,einwohner,38,38,person,,1,Biland,1,,,Arnold,,,,Landwirt,,,1,,,,,Birmenstorf,"qwen3.8-27b, Bild 2x",high,,"— Arnold, Landwirt",Birmenstorf (AG),
 1910-einwohner-065-039,1910,65,einwohner,39,39,person,,1,Biland,1,,,August (Schreinners),,,,Landwirt,,,1,,,,,Birmenstorf,"qwen3.8-27b, Bild 2x",high,,"— August (Schreinners), Landwirt",Birmenstorf (AG),
 1910-einwohner-065-040,1910,65,einwohner,40,40,person,,1,Biland,1,,,Beat,,,,Maurer,,,1,,,,,Birmenstorf,"qwen3.8-27b, Bild 2x",high,,"— Beat, Maurer",Birmenstorf (AG),
@@ -3237,7 +3237,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-066-024,1910,66,einwohner,24,24,person,,0,Küng,,,,Blasius,,,,Spengler,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Küng, Blasius, Spengler",Birmenstorf (AG),
 1910-einwohner-066-025,1910,66,einwohner,25,25,person,,0,Kuhn,,,,Marie,,Jungfrau,,Privatière,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Kuhn, Marie, Jungfrau, Privatière",Birmenstorf (AG),
 1910-einwohner-066-026,1910,66,einwohner,26,26,person,,0,Lehmann,,,,Fritz,,,,Mühlebes.,,,1,,Lindmühle,,,,"qwen3.8-27b, Bild 2x",medium,,"Lehmann, Fritz, Mühlebes., Lindmühle",Birmenstorf (AG),street_rare
-1910-einwohner-066-027,1910,66,einwohner,27,27,firma,,1,Lehmann,1,Gebrüder,,Adolf u. Rudolf,,,,Handelsmühlenbes.,,,1,,z. Lindmühle H.,,1,,"qwen3.8-27b, Bild 2x",high,,"— -Gebrüder, Adolf u. Rudolf, Handelsmühlenbes. z. Lindmühle H. ☎",Birmenstorf (AG),street_rare alliance_from_forename
+1910-einwohner-066-027,1910,66,einwohner,27,27,firma,,1,Lehmann,1,Gebrüder,,Adolf u. Rudolf,,,,Handelsmühlenbes.,,,1,,z. Lindmühle,,1,,"qwen3.8-27b, Bild 2x",high,,"— -Gebrüder, Adolf u. Rudolf, Handelsmühlenbes. z. Lindmühle H. ☎",Birmenstorf (AG),street_rare alliance_from_forename
 1910-einwohner-066-028,1910,66,einwohner,28,28,person,,0,Meier,,,,Alfred,,,,Konsumverkäufer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Meier, Alfred, Konsumverkäufer",Birmenstorf (AG),
 1910-einwohner-066-029,1910,66,einwohner,29,29,person,,1,Meier,1,,,Alfred,,,,Fabrikarbeiter,,,1,,Kornels,,,,"qwen3.8-27b, Bild 2x",high,,"— Alfred, Fabrikarbeiter, Kornels",Birmenstorf (AG),
 1910-einwohner-066-030,1910,66,einwohner,30,30,person,,1,Meier,1,,,Arnold,,,,Dinamowärter,,,1,,Kornels,,,,"qwen3.8-27b, Bild 2x",high,,"— Arnold, Dinamowärter, Kornels",Birmenstorf (AG),
@@ -3376,7 +3376,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-067-060,1910,67,einwohner,60,60,person,,1,Zehnder,1,,,Louis,,,,Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Louis, Landwirt",Birmenstorf (AG),
 1910-einwohner-067-061,1910,67,einwohner,61,61,person,,1,Zehnder,1,,,Magdalena,,Wwe,,Landarbeiterin,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Magdalena, Wwe, Landarbeiterin",Birmenstorf (AG),
 1910-einwohner-067-062,1910,67,einwohner,62,62,person,,1,Zehnder,1,Marie,,Verena,,Wwe,,Landarbeiterin,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— -Marie, Verena, Wwe, Landarbeiterin",Birmenstorf (AG),alliance_from_forename
-1910-einwohner-067-063,1910,67,einwohner,63,63,person,,1,Zehnder,1,,,Max,,,,Besitzer der Quellen des natürlichen Birmenstorfer Bitterwasser.,,,1,,H.,,,,"qwen3.8-27b, Bild 2x",high,,"— Max, Besitzer der Quellen des natürlichen Birmenstorfer Bitterwasser. H.",Birmenstorf (AG),
+1910-einwohner-067-063,1910,67,einwohner,63,63,person,,1,Zehnder,1,,,Max,,,,Besitzer der Quellen des natürlichen Birmenstorfer Bitterwasser.,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Max, Besitzer der Quellen des natürlichen Birmenstorfer Bitterwasser. H.",Birmenstorf (AG),
 1910-einwohner-067-064,1910,67,einwohner,64,64,person,,1,Zehnder,1,,,Otto,,,,"(Piffers), Ziegeleiarbeiter",,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Otto (Piffers), Ziegeleiarbeiter",Birmenstorf (AG),
 1910-einwohner-067-065,1910,67,einwohner,65,65,person,,1,Zehnder,1,,,Pauline,,Wwe,,Landarbeiterin,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Pauline, Wwe, Landarbeiterin",Birmenstorf (AG),
 1910-einwohner-067-066,1910,67,einwohner,66,66,person,,1,Zehnder,1,,,Robert,,,,Landwirt,,,1,,auf Muntwyl,,,,"qwen3.8-27b, Bild 2x",medium,,"— Robert, Landwirt auf Muntwyl",Birmenstorf (AG),street_rare
@@ -3395,7 +3395,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-067-079,1910,67,einwohner,79,79,person,,1,Zimmermann,1,,,Eduard,,,,"Sohn, z. Bären",,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Eduard, Sohn, z. Bären",Birmenstorf (AG),
 1910-einwohner-067-080,1910,67,einwohner,80,80,person,,1,Zimmermann,1,,,Emil,,,,Sattlermeister,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Emil, Sattlermeister",Birmenstorf (AG),
 1910-einwohner-067-081,1910,67,einwohner,81,81,person,,1,Zimmermann,1,,,Gottlieb,,,,"alt Ammans, Landwirt",,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Gottlieb, alt Ammans, Landwirt",Birmenstorf (AG),
-1910-einwohner-067-082,1910,67,einwohner,82,82,person,,1,Zimmermann,1,,,Gottfried,,,,Zimmermeister,,,1,,H.,,,,"qwen3.8-27b, Bild 2x",high,,"— Gottfried, Zimmermeister, H.",Birmenstorf (AG),
+1910-einwohner-067-082,1910,67,einwohner,82,82,person,,1,Zimmermann,1,,,Gottfried,,,,Zimmermeister,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Gottfried, Zimmermeister, H.",Birmenstorf (AG),
 1910-einwohner-067-083,1910,67,einwohner,83,83,person,,1,Zimmermann,1,,,Josef,,,,Schmiedmeister,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Schmiedmeister",Birmenstorf (AG),
 1910-einwohner-067-084,1910,67,einwohner,84,84,person,,1,Zimmermann,1,,,Kasper,,,,"(Metzgers), Landwirt",,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Kasper (Metzgers), Landwirt",Birmenstorf (AG),
 1910-einwohner-067-085,1910,67,einwohner,85,85,person,,1,Zimmermann,1,,,Kasper,,,,Posthalter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Kasper, Posthalter",Birmenstorf (AG),
@@ -3757,7 +3757,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-071-079,1910,71,einwohner,79,79,person,,0,Eggerking,,,,Friedrich,,,,Techniker,,,1,,Oberdorf,,,Ennetbaden,"qwen3.8-27b, Bild 2x",high,,"Eggerking, Friedrich, Techniker, Oberdorf",Ennetbaden,
 1910-einwohner-072-001,1910,72,einwohner,1,1,person,,0,Ehrsam,,,,Benjamin,,,,Magaziner,,,1,,Rössligasse,,,,"qwen3.8-27b, Bild 2x",high,,"Ehrsam, Benjamin, Magaziner, Rössligasse",Ennetbaden,
 1910-einwohner-072-002,1910,72,einwohner,2,2,person,,0,Elink,,Scheuermann,,,,,,Ingenieur,,,1,,Kasinostrasse,,,,"qwen3.8-27b, Bild 2x",medium,,"Elink-Scheuermann, Ingenieur, Kasinostrasse",Ennetbaden,surname_split
-1910-einwohner-072-003,1910,72,einwohner,3,3,person,,0,Engel,,,,,,,,"Gasthaus z. Badhotel, Roth-Merz, Besitzer",,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",high,,"Engel, Gasthaus z. Badhotel, Roth-Merz, Besitzer H. ☎",Ennetbaden,
+1910-einwohner-072-003,1910,72,einwohner,3,3,person,,0,Engel,,,,,,,,"Gasthaus z. Badhotel, Roth-Merz, Besitzer",,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Engel, Gasthaus z. Badhotel, Roth-Merz, Besitzer H. ☎",Ennetbaden,
 1910-einwohner-072-004,1910,72,einwohner,4,4,person,,0,Faas,,,,Wilh,,,,Zuschneider,,,1,,Neue Ehreningerstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Faas, Wilh., Zuschneider, Neue Ehreningerstr.",Ennetbaden,
 1910-einwohner-072-005,1910,72,einwohner,5,5,person,,1,Faas,1,,,"Ww., Joh. Adam",,Ww.,,,,,1,,Kasinostr.,,,,"qwen3.8-27b, Bild 2x",high,,"— Ww., Joh. Adam, Kasinostr.",Ennetbaden,
 1910-einwohner-072-006,1910,72,einwohner,6,6,person,,0,Faes,,,,Adolf,,,,Mechaniker,,,1,,Schlössligut,,,,"qwen3.8-27b, Bild 2x",high,,"Faes, Adolf, Mechaniker, Schlössligut",Ennetbaden,
@@ -3790,7 +3790,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-072-033,1910,72,einwohner,33,33,person,,1,Gautschi,1,,,Rudolf,,,,Hilfsarbeiter,,,1,,Kasinostr.,,,,"qwen3.8-27b, Bild 2x",high,,"— Rudolf, Hilfsarbeiter, Kasinostr.",Ennetbaden,
 1910-einwohner-072-034,1910,72,einwohner,34,34,person,,0,Gehrig,,,,Alfred,,,,Fabrikarbeiter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Gehrig, Alfred, Fabrikarbeiter",Ennetbaden,
 1910-einwohner-072-035,1910,72,einwohner,35,35,person,,0,Geissberg,,,,Adolf,,,,"Gasthaus z., Lüscher-Elsner",,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Geissberg, Gasthaus z., Lüscher-Elsner, Adolf",Ennetbaden,
-1910-einwohner-072-036,1910,72,einwohner,36,36,person,,0,Gidion,,,,Samuel,,,,Viehhändler,,,1,,Sonnenbergstrasse H.,,,,"qwen3.8-27b, Bild 2x",medium,,"Gidion, Samuel, Viehhändler, Sonnenbergstrasse H.",Ennetbaden,street_rare
+1910-einwohner-072-036,1910,72,einwohner,36,36,person,,0,Gidion,,,,Samuel,,,,Viehhändler,,,1,,Sonnenbergstrasse,,,,"qwen3.8-27b, Bild 2x",medium,,"Gidion, Samuel, Viehhändler, Sonnenbergstrasse H.",Ennetbaden,street_rare
 1910-einwohner-072-037,1910,72,einwohner,37,37,person,,0,Goelz,,,,Karl,,,,Gärtner,,,1,,Limmatau,,,,"qwen3.8-27b, Bild 2x",high,,"Goelz, Karl, Gärtner, Limmatau",Ennetbaden,
 1910-einwohner-072-038,1910,72,einwohner,38,38,person,,0,Gretener,,,,Robert,,,,Schlosser,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Gretener, Robert, Schlosser",Ennetbaden,
 1910-einwohner-072-039,1910,72,einwohner,39,39,person,,0,Gubler,,,,Hermann,,,,Maschinenzeichner,,,1,,Grendelstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Gubler, Hermann, Maschinenzeichner, Grendelstr.",Ennetbaden,
@@ -3808,7 +3808,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-072-051,1910,72,einwohner,51,51,person,,0,Hegi,,,,Hans,,,,Spengler,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Hegi, Hans, Spengler",Ennetbaden,
 1910-einwohner-072-052,1910,72,einwohner,52,52,person,,0,Heinrich,,,,Albert,,,,Schreiner,,,1,,Grendelstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Heinrich, Albert, Schreiner, Grendelstr.",Ennetbaden,
 1910-einwohner-072-053,1910,72,einwohner,53,53,person,,0,Heitz,,,,Hrch,,,,Schlosser,,,1,,Sonnenbergstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Heitz, Hrch., Schlosser, Sonnenbergstr.",Ennetbaden,
-1910-einwohner-072-054,1910,72,einwohner,54,54,person,,1,Heitz,1,Kern,,H,,,,Badhotel zum Rebstock,,,1,,Badstrasse H.,,1,,"qwen3.8-27b, Bild 2x",high,,"— -Kern, H., Badhotel zum Rebstock, Badstrasse H. ☎",Ennetbaden,alliance_from_forename
+1910-einwohner-072-054,1910,72,einwohner,54,54,person,,1,Heitz,1,Kern,,H,,,,Badhotel zum Rebstock,,,1,,Badstrasse,,1,,"qwen3.8-27b, Bild 2x",high,,"— -Kern, H., Badhotel zum Rebstock, Badstrasse H. ☎",Ennetbaden,alliance_from_forename
 1910-einwohner-072-055,1910,72,einwohner,55,55,person,,0,Heller,,,,Geschwister,,,,,,,1,,Badstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Heller, Geschwister, Badstrasse",Ennetbaden,
 1910-einwohner-072-056,1910,72,einwohner,56,56,person,,0,Herr,,,,Walter,,,,Zeichner,,,1,,Sonnenbergstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Herr, Walter, Zeichner, Sonnenbergstr.",Ennetbaden,
 1910-einwohner-072-057,1910,72,einwohner,57,57,person,,0,Herzog,,,,Anna,,Ww.,,,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Herzog, Anna, Ww.",Ennetbaden,
@@ -3824,11 +3824,11 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-072-067,1910,72,einwohner,67,67,person,,1,Herzog,1,,,Nieriker,,Ww.,,,,,1,,Kasinostr.,,,,"qwen3.8-27b, Bild 2x",high,,"— Nieriker, Ww., Kasinostr.",Ennetbaden,
 1910-einwohner-072-068,1910,72,einwohner,68,68,person,,1,Herzog,1,,,Robert,,,,Schlosser,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Robert, Schlosser",Ennetbaden,
 1910-einwohner-072-069,1910,72,einwohner,69,69,person,,1,Herzog,1,,,Robert,,,,Schneidermeister,,,1,,Oberdorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Robert, Schneidermeister, Oberdorf",Ennetbaden,
-1910-einwohner-072-070,1910,72,einwohner,70,70,person,,1,Herzog,1,Wetzel,,Gotthard,,,,"Vize-Ammann, Kolonialwarenhandlung und Manufakturwaren",,,1,,Badstrasse H.,,1,,"qwen3.8-27b, Bild 2x",high,,"— -Wetzel, Gotthard, Vize-Ammann, Kolonialwarenhandlung und Manufakturwaren, Badstrasse H. ☎",Ennetbaden,alliance_from_forename
+1910-einwohner-072-070,1910,72,einwohner,70,70,person,,1,Herzog,1,Wetzel,,Gotthard,,,,"Vize-Ammann, Kolonialwarenhandlung und Manufakturwaren",,,1,,Badstrasse,,1,,"qwen3.8-27b, Bild 2x",high,,"— -Wetzel, Gotthard, Vize-Ammann, Kolonialwarenhandlung und Manufakturwaren, Badstrasse H. ☎",Ennetbaden,alliance_from_forename
 1910-einwohner-072-071,1910,72,einwohner,71,71,firma,,1,Herzog,1,,,"& Cie., Ernst",,,,Firma Fabrik chem. Produkte,,,1,,Grendelstr.,,,,"qwen3.8-27b, Bild 2x",high,,"— & Cie., Ernst, Firma Fabrik chem. Produkte, Grendelstr.",Ennetbaden,
 1910-einwohner-072-072,1910,72,einwohner,72,72,person,,0,Hinnen,,,,Erwin,,,,Techniker,,,1,,Sonnenbergstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Hinnen, Erwin, Techniker, Sonnenbergstrasse",Ennetbaden,
 1910-einwohner-072-073,1910,72,einwohner,73,73,person,,0,Hintermann,,,,Jacob,,,,Schlosser,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Hintermann, Jacob, Schlosser",Ennetbaden,
-1910-einwohner-072-074,1910,72,einwohner,74,74,person,,0,Hirschen,,,,Dr. F. Ulatowski,Dr.,,,Badhotel mit Dependance,,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",high,,"Hirschen, Badhotel mit Dependance, Dr. F. Ulatowski H. ☎",Ennetbaden,
+1910-einwohner-072-074,1910,72,einwohner,74,74,person,,0,Hirschen,,,,Dr. F. Ulatowski,Dr.,,,Badhotel mit Dependance,,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Hirschen, Badhotel mit Dependance, Dr. F. Ulatowski H. ☎",Ennetbaden,
 1910-einwohner-072-075,1910,72,einwohner,75,75,person,,0,Hirt,,,,Joh,,,,Architekt,,,1,,Sonnenberg,,,,"qwen3.8-27b, Bild 2x",high,,"Hirt, Joh., Architekt, Sonnenberg",Ennetbaden,
 1910-einwohner-072-076,1910,72,einwohner,76,76,person,,0,Hitz,,,,Fridolin,,,,Fabrikarbeiter,,,1,,Grindelstrasse,,,,"qwen3.8-27b, Bild 2x",medium,,"Hitz, Fridolin, Fabrikarbeiter, Grindelstrasse",Ennetbaden,street_rare
 1910-einwohner-072-077,1910,72,einwohner,77,77,person,,0,Hoffmann,,,,Karl,,,,Monteur,,,1,,Sonnenbergstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Hoffmann, Karl, Monteur, Sonnenbergstrasse",Ennetbaden,
@@ -3870,7 +3870,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-073-029,1910,73,einwohner,29,29,person,,0,Krebs,,Weber,,,,,,Giesser,,,1,,Rössligasse,,,,"qwen3.8-27b, Bild 2x",high,,"Krebs-Weber, Giesser, Rössligasse",Ennetbaden,
 1910-einwohner-073-030,1910,73,einwohner,30,30,person,,0,Künzi,,,,Ernst,,,,Techniker,,,1,,Hertenstein,,,,"qwen3.8-27b, Bild 2x",high,,"Künzi, Ernst, Techniker, Hertenstein",Ennetbaden,
 1910-einwohner-073-031,1910,73,einwohner,31,31,person,,0,Künzli,,,,Joh. Baptist,,,,Reisender,,,1,,Grendelstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Künzli, Joh. Baptist, Reisender, Grendelstrasse",Ennetbaden,
-1910-einwohner-073-032,1910,73,einwohner,32,32,person,,0,Küpfer,,,,Konrad,,,,Badhotel z. Schwanen,,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",high,,"Küpfer, Konrad, Badhotel z. Schwanen H. ☎",Ennetbaden,
+1910-einwohner-073-032,1910,73,einwohner,32,32,person,,0,Küpfer,,,,Konrad,,,,Badhotel z. Schwanen,,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Küpfer, Konrad, Badhotel z. Schwanen H. ☎",Ennetbaden,
 1910-einwohner-073-033,1910,73,einwohner,33,33,person,,0,Kuhn,,,,Jul,,,,Malermstr.,,,1,,Sonnenbergstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Kuhn, Jul., Malermstr., Sonnenbergstr.",Ennetbaden,
 1910-einwohner-073-034,1910,73,einwohner,34,34,person,,0,Kuhnt,,,,Karl,,,,Magaziner,,,1,,Alte Ehrendingerstr.,,,,"qwen3.8-27b, Bild 2x",medium,,"Kuhnt, Karl, Magaziner, Alte Ehrendingerstr.",Ennetbaden,street_rare
 1910-einwohner-073-035,1910,73,einwohner,35,35,person,,0,Kuster,,,,Joh,,,,Wirt,,,1,,Kasinostrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Kuster, Joh., Wirt, Salmenbräu, Kasinostrasse",Ennetbaden,
@@ -3941,7 +3941,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-074-015,1910,74,einwohner,15,15,person,,0,Pressig,,,,Emil,,,,Fabrikarbeiter,,,1,,Kasinostrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Pressig, Emil, Fabrikarbeiter, Kasinostrasse",Ennetbaden,
 1910-einwohner-074-016,1910,74,einwohner,16,16,person,,0,Prestin,,,,Anna,,Ww.,,,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Prestin, Anna, Ww.",Ennetbaden,
 1910-einwohner-074-017,1910,74,einwohner,17,17,person,,0,Prosieky,,,,Adolf,,,,"Galvanoplast. Atelier, Vernickler",,,1,,Sonnenbergstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Prosieky, Adolf, Galvanoplast. Atelier, Vernickler, Sonnenbergstr.",Ennetbaden,
-1910-einwohner-074-018,1910,74,einwohner,18,18,person,,0,Rebstock,,,,,,,,Hotel z.,,,1,,Hans Heitz-Kern H.,,1,,"qwen3.8-27b, Bild 2x",medium,,"Rebstock, Hotel z., Hans Heitz-Kern H. ☎",Ennetbaden,street_rare
+1910-einwohner-074-018,1910,74,einwohner,18,18,person,,0,Rebstock,,,,,,,,Hotel z.,,,1,,Hans Heitz-Kern,,1,,"qwen3.8-27b, Bild 2x",medium,,"Rebstock, Hotel z., Hans Heitz-Kern H. ☎",Ennetbaden,street_rare
 1910-einwohner-074-019,1910,74,einwohner,19,19,person,,0,Reiber,,,,Wilh,,,,Maler,,,1,,Rössligasse,,,,"qwen3.8-27b, Bild 2x",high,,"Reiber, Wilh., Maler, Rössligasse",Ennetbaden,
 1910-einwohner-074-020,1910,74,einwohner,20,20,person,,0,Resser,,,,"Ida, Emma",,,,Kellnerin,,,1,,Hotel Jura,,,,"qwen3.8-27b, Bild 2x",medium,,"Resser, Ida, Emma, Kellnerin (Hotel Jura)",Ennetbaden,street_rare
 1910-einwohner-074-021,1910,74,einwohner,21,21,person,,0,Reusser,,,,Fritz,,,,Fabrikarbeiter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Reusser, Fritz, Fabrikarbeiter",Ennetbaden,
@@ -3983,12 +3983,12 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-074-057,1910,74,einwohner,57,57,person,,1,Schneider,1,,,Conrad,,,,Mechaniker,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"- Conrad, Mechaniker",Ennetbaden,
 1910-einwohner-074-058,1910,74,einwohner,58,58,person,,1,Schneider,1,,,Eugen,,,,Architect,,,1,,Badstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"- Eugen, Architect, Badstrasse",Ennetbaden,
 1910-einwohner-074-059,1910,74,einwohner,59,59,person,,1,Schneider,1,,,Siegfried,,,,Substitut und Vertreter der Basler Feuerversicherungsgesellschaft,,,1,,Grendelstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"- Siegfried, Substitut und Vertreter der Basler Feuerversicherungsgesellschaft, Grendelstrasse",Ennetbaden,
-1910-einwohner-074-060,1910,74,einwohner,60,60,person,,0,Schnyder,,,,Karl,,,,Schlossermeister,,,1,,Kasinostrasse H.,,1,,"qwen3.8-27b, Bild 2x",medium,,"Schnyder, Karl, Schlossermeister, Kasinostrasse H. ☎",Ennetbaden,street_rare
+1910-einwohner-074-060,1910,74,einwohner,60,60,person,,0,Schnyder,,,,Karl,,,,Schlossermeister,,,1,,Kasinostrasse,,1,,"qwen3.8-27b, Bild 2x",medium,,"Schnyder, Karl, Schlossermeister, Kasinostrasse H. ☎",Ennetbaden,street_rare
 1910-einwohner-074-061,1910,74,einwohner,61,61,person,,0,Schuchmann,,,,Friedrich,,,,Maurerpolier,,,1,,Grendelstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Schuchmann, Friedrich, Maurerpolier, Grendelstrasse",Ennetbaden,
 1910-einwohner-074-062,1910,74,einwohner,62,62,person,,0,Schürmann,,,,Arnold,,,,Fabrikarbeiter,,,1,,Rössligasse,,,,"qwen3.8-27b, Bild 2x",high,,"Schürmann, Arnold, Fabrikarbeiter, Rössligasse",Ennetbaden,
 1910-einwohner-074-063,1910,74,einwohner,63,63,person,,0,Schüttel,,,,Albert,,,,Bäckerei,,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Schüttel, Albert, Bäckerei ☎",Ennetbaden,
 1910-einwohner-074-064,1910,74,einwohner,64,64,person,,0,Schuler,,,,Joh. Jacob,,,,Zeichner,,,1,,Sonnenbergstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Schuler, Joh. Jacob, Zeichner, Sonnenbergstrasse",Ennetbaden,
-1910-einwohner-074-065,1910,74,einwohner,65,65,person,,0,Schwanen,,,,,,,,z. (Badhotel),,,1,,Conrad Küpfer H.,,1,,"qwen3.8-27b, Bild 2x",medium,,"Schwanen, z. (Badhotel), Conrad Küpfer H. ☎",Ennetbaden,street_rare
+1910-einwohner-074-065,1910,74,einwohner,65,65,person,,0,Schwanen,,,,,,,,z. (Badhotel),,,1,,Conrad Küpfer,,1,,"qwen3.8-27b, Bild 2x",medium,,"Schwanen, z. (Badhotel), Conrad Küpfer H. ☎",Ennetbaden,street_rare
 1910-einwohner-074-066,1910,74,einwohner,66,66,person,,0,Schwaninger,,,,Joh. Albert,,,,Schlossermeister,,,1,,Ehrendingerstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Schwaninger, Joh. Albert, Schlossermeister, Ehrendingerstrasse",Ennetbaden,
 1910-einwohner-074-067,1910,74,einwohner,67,67,person,,0,Schwitter,,,,Emil,,,,Kutscher,,,1,,im Hotel Adler,,,,"qwen3.8-27b, Bild 2x",high,,"Schwitter, Emil, Kutscher (im Hotel Adler)",Ennetbaden,
 1910-einwohner-074-068,1910,74,einwohner,68,68,person,,0,Seiler,,Deppeler,,,,,,"Lehrer, Vertreter der Versicherungsgesellsch. „Phoenix“",,,1,,Grendelstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Seiler-Deppeler, Lehrer, Vertreter der Versicherungsgesellsch. „Phoenix“, Grendelstrasse",Ennetbaden,
@@ -3997,7 +3997,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-074-071,1910,74,einwohner,71,71,person,,0,Sinoli,,,,Jacob,,,,Fabriksschmid,,,1,,Oberdorf,,,,"qwen3.8-27b, Bild 2x",high,,"Sinoli, Jacob, Fabriksschmid, Oberdorf",Ennetbaden,
 1910-einwohner-074-072,1910,74,einwohner,72,72,person,,0,Sommer,,,,Joh,,,,Techniker,,,1,,Grendelstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Sommer, Joh., Techniker, Grendelstr.",Ennetbaden,
 1910-einwohner-074-073,1910,74,einwohner,73,73,person,,0,Sommerhalder,,,,Fritz,,,,Schlosser,,,1,,Kasinostrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Sommerhalder, Fritz, Schlosser, Kasinostrasse",Ennetbaden,
-1910-einwohner-074-074,1910,74,einwohner,74,74,person,,0,Sonne,,,,,,,,Gasthaus z.,,,1,,"Franz Widmer, Besitzer H.",,1,,"qwen3.8-27b, Bild 2x",medium,,"Sonne, Gasthaus z., Franz Widmer, Besitzer H. ☎",Ennetbaden,street_rare
+1910-einwohner-074-074,1910,74,einwohner,74,74,person,,0,Sonne,,,,,,,,Gasthaus z.,,,1,,"Franz Widmer, Besitzer",,1,,"qwen3.8-27b, Bild 2x",medium,,"Sonne, Gasthaus z., Franz Widmer, Besitzer H. ☎",Ennetbaden,street_rare
 1910-einwohner-075-001,1910,75,einwohner,1,1,person,,0,Peterhans,,,,Rosa,,Wwe,,,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Peterhans, Rosa, Jakobs Wwe",Fislisbach,
 1910-einwohner-075-002,1910,75,einwohner,2,2,person,,1,Peterhans,1,,,Rudolf,,,,Wickler,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Rudolf, Wickler",Fislisbach,
 1910-einwohner-075-003,1910,75,einwohner,3,3,person,,1,Peterhans,1,,,Severin,,,,Bienenzüchter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Severin, Bienenzüchter",Fislisbach,
@@ -4018,7 +4018,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-075-018,1910,75,einwohner,18,18,person,,1,Schibli,1,,,Engelbert,,,,Gipser,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Engelbert, Gipser",Fislisbach,
 1910-einwohner-075-019,1910,75,einwohner,19,19,person,,1,Schibli,1,,,Ernst,,,,Schriftsetzer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Ernst, Schriftsetzer",Fislisbach,
 1910-einwohner-075-020,1910,75,einwohner,20,20,person,,1,Schibli,1,Fridolin,,Weibel,,,,Viehinspektor,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— -Fridolin, Weibel, Viehinspektor",Fislisbach,alliance_from_forename
-1910-einwohner-075-021,1910,75,einwohner,21,21,firma,,1,Schibli,1,,,Gebrüder,,,,Schuhfabrik,,,1,,H.,,,,"qwen3.8-27b, Bild 2x",high,,"— Gebrüder, Schuhfabrik, H.",Fislisbach,
+1910-einwohner-075-021,1910,75,einwohner,21,21,firma,,1,Schibli,1,,,Gebrüder,,,,Schuhfabrik,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Gebrüder, Schuhfabrik, H.",Fislisbach,
 1910-einwohner-075-022,1910,75,einwohner,22,22,person,,1,Schibli,1,,,Gottlieb,,,,Gipser,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Gottlieb, Gipser",Fislisbach,
 1910-einwohner-075-023,1910,75,einwohner,23,23,person,,1,Schibli,1,,,Gottlieb,,,,Maurermeister,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Gottlieb, Maurermeister",Fislisbach,
 1910-einwohner-075-024,1910,75,einwohner,24,24,person,,1,Schibli,1,,,Gustav,,,,Schlosser,,,1,,Adolfs,,,,"qwen3.8-27b, Bild 2x",high,,"— Gustav, Schlosser, Adolfs",Fislisbach,
@@ -4353,16 +4353,16 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-078-056,1910,78,einwohner,56,56,person,,1,Anner,1,,,Wilh,,,,Mechaniker u. Velohandlung,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"— Wilh, Mechaniker u. Velohandlung",Gebenstorf,
 1910-einwohner-078-057,1910,78,einwohner,57,57,person,,0,Baer,,,,Albert,,,,Spengler,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Baer, Albert, Spengler",Gebenstorf,
 1910-einwohner-078-058,1910,78,einwohner,58,58,person,,0,Barth,,,,Johann,,,,,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Barth, Johann",Gebenstorf,
-1910-einwohner-078-059,1910,78,einwohner,59,59,person,,0,Baumann,,,,Samuel,,,,Bäckermst.,,,1,,H.,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Baumann, Samuel (Vater) Bäckermst., H.",Gebenstorf,
-1910-einwohner-078-060,1910,78,einwohner,60,60,person,,1,Baumann,1,,,Samuel,,,,Wirt,,,1,,H.,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"— Samuel (Sohn), Wirt, H.",Gebenstorf,
+1910-einwohner-078-059,1910,78,einwohner,59,59,person,,0,Baumann,,,,Samuel,,,,Bäckermst.,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Baumann, Samuel (Vater) Bäckermst., H.",Gebenstorf,
+1910-einwohner-078-060,1910,78,einwohner,60,60,person,,1,Baumann,1,,,Samuel,,,,Wirt,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"— Samuel (Sohn), Wirt, H.",Gebenstorf,
 1910-einwohner-078-061,1910,78,einwohner,61,61,person,,0,Beyer,,,,Ernst,,,,Coiffeur,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Beyer, Ernst, Coiffeur",Gebenstorf,
 1910-einwohner-078-062,1910,78,einwohner,62,62,person,,0,Bircher,,,,Carl,,,,Schlosser,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Bircher, Carl, Schlosser",Gebenstorf,
-1910-einwohner-078-063,1910,78,einwohner,63,63,firma,,0,Bronzewarenfabrik A.-G.,,,,,,,,,,,1,,"Limmathal, H.",,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Bronzewarenfabrik A.-G., Limmathal, H.",Gebenstorf,
+1910-einwohner-078-063,1910,78,einwohner,63,63,firma,,0,Bronzewarenfabrik A.-G.,,,,,,,,,,,1,,Limmathal,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Bronzewarenfabrik A.-G., Limmathal, H.",Gebenstorf,
 1910-einwohner-078-064,1910,78,einwohner,64,64,person,,0,Buckhard,,,,Hermann,,,,Portier,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Buckhard, Hermann, Portier",Gebenstorf,
 1910-einwohner-078-065,1910,78,einwohner,65,65,person,,1,Buckhard,1,,,Philipp,,,,Zimmermann,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"— Philipp, Zimmermann",Gebenstorf,
 1910-einwohner-078-066,1910,78,einwohner,66,66,person,,0,Bühler,,,,Emil,,,,Schleifer,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Bühler, Emil, Schleifer",Gebenstorf,
 1910-einwohner-078-067,1910,78,einwohner,67,67,person,,0,Cerutti,,,,Pasquale,,,,Polierer,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Cerutti, Pasquale, Polierer",Gebenstorf,
-1910-einwohner-078-068,1910,78,einwohner,68,68,firma,,0,Konsumverein Vogelsang,,,,,,,,,,,1,,H.,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Konsumverein Vogelsang, H.",Gebenstorf,
+1910-einwohner-078-068,1910,78,einwohner,68,68,firma,,0,Konsumverein Vogelsang,,,,,,,,,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Konsumverein Vogelsang, H.",Gebenstorf,
 1910-einwohner-078-069,1910,78,einwohner,69,69,person,,0,Egloff,,,,Johann,,,,Maler,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Egloff, Johann, Maler",Gebenstorf,
 1910-einwohner-078-070,1910,78,einwohner,70,70,person,,0,Ehrenspurger,,,,Ernst,,,,Former,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Ehrenspurger, Ernst, Former",Gebenstorf,
 1910-einwohner-078-071,1910,78,einwohner,71,71,person,,0,Ekhardt,,,,Gust. Adolf,,,,Schlossermeister,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Ekhardt, Gust. Adolf, Schlossermeister",Gebenstorf,
@@ -4383,7 +4383,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-078-086,1910,78,einwohner,86,86,person,,0,Killer,,,,Abraham,,,,Landwirt,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Killer, Abraham, Landwirt",Gebenstorf,
 1910-einwohner-078-087,1910,78,einwohner,87,87,person,,1,Killer,1,,,Heinrich,,,,Bahnhüter,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"— Heinrich, Bahnhüter",Gebenstorf,
 1910-einwohner-078-088,1910,78,einwohner,88,88,person,,1,Killer,1,Johann,,Abraham,,,,Gaser,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"— -Johann, Abraham, Gaser",Gebenstorf,alliance_from_forename
-1910-einwohner-078-089,1910,78,einwohner,89,89,firma,,0,Konsumgenossenschaft Vogelsang,,,,,,,,gemischte Warenhandlung,,,1,,H.,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Konsumgenossenschaft Vogelsang, gemischte Warenhandlung, H.",Gebenstorf,
+1910-einwohner-078-089,1910,78,einwohner,89,89,firma,,0,Konsumgenossenschaft Vogelsang,,,,,,,,gemischte Warenhandlung,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Konsumgenossenschaft Vogelsang, gemischte Warenhandlung, H.",Gebenstorf,
 1910-einwohner-078-090,1910,78,einwohner,90,90,person,,0,Küng,,,,Wilhelm,,,,Metalldrucker,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Küng, Wilhelm, Metalldrucker",Gebenstorf,
 1910-einwohner-078-091,1910,78,einwohner,91,91,person,,0,Laible,,,,Otto Theodor,,,,Gürtlermeister,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Laible, Otto Theodor, Gürtlermeister",Gebenstorf,
 1910-einwohner-078-092,1910,78,einwohner,92,92,person,,0,Lauper,,,,Carl Franz Joseph,,,,Werkführer,,,1,,,,,Vogelsang,"qwen3.8-27b, Bild 2x",high,,"Lauper, Carl Franz Joseph Werkführer",Gebenstorf,
@@ -4501,7 +4501,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-080-024,1910,80,einwohner,24,24,person,,0,Hauser,,,,P,,,,"Fürsprecher, Notar und Pfarrer",,,1,,,,,I. Künten.,"qwen3.8-27b, Bild 2x",high,,"Hauser, P., Fürsprecher, Notar und Pfarrer",Künten,
 1910-einwohner-080-025,1910,80,einwohner,25,25,person,,1,Regina,1,Regina,,,,,,Haushälterin,,,1,,,,,I. Künten.,"qwen3.8-27b, Bild 2x",high,,"- Regina, Haushälterin",Künten,alliance_from_text
 1910-einwohner-080-026,1910,80,einwohner,26,26,person,,0,Hürlimann,,,,Pia,,,,Lehrerin,,,1,,Sulz-Künten,,,I. Künten.,"qwen3.8-27b, Bild 2x",medium,,"Hürlimann, Pia, Lehrerin, Sulz-Künten",Künten,street_rare
-1910-einwohner-080-027,1910,80,einwohner,27,27,firma,,0,Käsereigenossenschaft,,,,,,,,,,,1,,Künten H.,,,I. Künten.,"qwen3.8-27b, Bild 2x",medium,,"Käsereigenossenschaft, Künten H.",Künten,street_rare
+1910-einwohner-080-027,1910,80,einwohner,27,27,firma,,0,Käsereigenossenschaft,,,,,,,,,,,1,,,,,I. Künten.,"qwen3.8-27b, Bild 2x",medium,,"Käsereigenossenschaft, Künten H.",Künten,street_rare
 1910-einwohner-080-028,1910,80,einwohner,28,28,person,,0,Lüthi,,,,Marzell,,,,Landwirt,,,1,,,,,I. Künten.,"qwen3.8-27b, Bild 2x",high,,"Lüthi, Marzell, Landwirt",Künten,
 1910-einwohner-080-029,1910,80,einwohner,29,29,person,,0,Meier,,,,Adelina,,,,Briefträgerin,,,1,,,,,I. Künten.,"qwen3.8-27b, Bild 2x",high,,"Meier, Adelina, Briefträgerin",Künten,
 1910-einwohner-080-030,1910,80,einwohner,30,30,person,,1,Arnold,1,Arnold,,,,,,"Landwirt, Vizeammann",,,1,,,,,I. Künten.,"qwen3.8-27b, Bild 2x",high,,"- Arnold, Landwirt, Vizeammann",Künten,alliance_from_text
@@ -4642,12 +4642,12 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-081-083,1910,81,einwohner,83,83,person,,1,Meier,1,Huber,,Albin,,,,Landwirt,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— -Huber, Albin, Landwirt",Mägenwil,
 1910-einwohner-081-084,1910,81,einwohner,84,84,person,,0,Michel,,Wirt,,Johann,,,,Reisender,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"Michel-Wirt, Johann, Reisender",Mägenwil,
 1910-einwohner-081-085,1910,81,einwohner,85,85,person,,0,Notter,,Frei,,Jos,,,,Wirt und Reisender,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"Notter-Frei, Jos., Wirt und Reisender",Mägenwil,
-1910-einwohner-081-086,1910,81,einwohner,86,86,person,,0,Rohr,,,,A,,,,"Notar, Informations- und Inkassobureau, Gemeindeschreiber",,,1,,H.,,1,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"Rohr, A., Notar, Informations- und Inkassobureau, Gemeindeschreiber H. ☎",Mägenwil,
+1910-einwohner-081-086,1910,81,einwohner,86,86,person,,0,Rohr,,,,A,,,,"Notar, Informations- und Inkassobureau, Gemeindeschreiber",,,1,,,,1,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"Rohr, A., Notar, Informations- und Inkassobureau, Gemeindeschreiber H. ☎",Mägenwil,
 1910-einwohner-081-087,1910,81,einwohner,87,87,person,,1,Rohr,1,Attiker,,Hermanu,,,,Förster,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— -Attiker, Hermanu, Förster",Mägenwil,
 1910-einwohner-081-088,1910,81,einwohner,88,88,person,,1,Rohr,1,Barfuss,,Hans,,,,Steinbrucharbeiter,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— -Barfuss, Hans, Steinbrucharbeiter",Mägenwil,
 1910-einwohner-081-089,1910,81,einwohner,89,89,person,,1,Rohr,1,,,Daniel,,,,Steinbrucharbeiter,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— Daniel, Steinbrucharbeiter",Mägenwil,
 1910-einwohner-081-090,1910,81,einwohner,90,90,person,,1,Rohr,1,Huber,,Arnold,,,,Landwirt,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— -Huber, Arnold, Landwirt",Mägenwil,
-1910-einwohner-081-091,1910,81,einwohner,91,91,person,,1,Rohr,1,Huber,,Jean,,,,Bierbrauerei und Wirtschaft,,,1,,H.,,1,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— -Huber, Jean, Bierbrauerei und Wirtschaft H. ☎",Mägenwil,
+1910-einwohner-081-091,1910,81,einwohner,91,91,person,,1,Rohr,1,Huber,,Jean,,,,Bierbrauerei und Wirtschaft,,,1,,,,1,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— -Huber, Jean, Bierbrauerei und Wirtschaft H. ☎",Mägenwil,
 1910-einwohner-081-092,1910,81,einwohner,92,92,person,,1,Rohr,1,,,Leonz,,,,Landarbeiter,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— Leonz, Landarbeiter",Mägenwil,
 1910-einwohner-081-093,1910,81,einwohner,93,93,person,,1,Rohr,1,Leuthard,,Johann,,,,Weinhandlung,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— -Leuthard, Johann, Weinhandlung",Mägenwil,
 1910-einwohner-081-094,1910,81,einwohner,94,94,person,,1,Rohr,1,,,Jakob,,,,Landwirt,,,1,,,,,Mägenwil,"qwen3.8-27b, Bild 2x",high,,"— Jakob, Landwirt",Mägenwil,
@@ -4739,7 +4739,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-083-003,1910,83,einwohner,3,3,person,,1,Egloff,1,,,Eugen,,,,Spengler,,,1,,Antoni Vorstadt,,,,"qwen3.8-27b, Bild 2x",high,,"— Eugen, Spengler, Antoni Vorstadt",Mellingen,
 1910-einwohner-083-004,1910,83,einwohner,4,4,person,,1,Egloff,1,,,Jacob,,,,Dynamoarbeiter,,,1,,Hirscheng.,,,,"qwen3.8-27b, Bild 2x",high,,"— Jacob, Dynamoarbeiter, Hirscheng.",Mellingen,
 1910-einwohner-083-005,1910,83,einwohner,5,5,person,,1,Egloff,1,,,Kresenzia,,,,Arbeitslehrerin,,,1,,Hirschengasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Kresenzia, Arbeitslehrerin, Hirschengasse",Mellingen,
-1910-einwohner-083-006,1910,83,einwohner,6,6,firma,,0,Elektrizitätswerk Mellingen,,,,,,,,,,,1,,H.,,,,"qwen3.8-27b, Bild 2x",high,,"Elektrizitätswerk Mellingen, H.",Mellingen,
+1910-einwohner-083-006,1910,83,einwohner,6,6,firma,,0,Elektrizitätswerk Mellingen,,,,,,,,,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Elektrizitätswerk Mellingen, H.",Mellingen,
 1910-einwohner-083-007,1910,83,einwohner,7,7,person,,0,Erne,,,,Jos,,,,Lehrer,,,1,,Spitalweg,,,,"qwen3.8-27b, Bild 2x",high,,"Erne, Jos., Lehrer, Spitalweg",Mellingen,
 1910-einwohner-083-008,1910,83,einwohner,8,8,person,,0,Felber,,,,Josef,,,,Landwirt,,,1,,Antoni Vorstadt,,,,"qwen3.8-27b, Bild 2x",high,,"Felber, Josef, Landwirt, Antoni Vorstadt",Mellingen,
 1910-einwohner-083-009,1910,83,einwohner,9,9,person,,0,Fior,,,,Armin,,,,Metzger,,,1,,Grosse Kirchg.,,,,"qwen3.8-27b, Bild 2x",medium,,"Fior, Armin, Metzger, Grosse Kirchg.",Mellingen,street_rare
@@ -4764,14 +4764,14 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-083-028,1910,83,einwohner,28,28,person,,1,Frey,1,Leute,,J,,,,Küfer,,,1,,Scheunengasse,,,,"qwen3.8-27b, Bild 2x",high,,"— -Leute, J., Küfer, Scheunengasse",Mellingen,
 1910-einwohner-083-029,1910,83,einwohner,29,29,person,,1,Frey,1,,,Marin,,,,Metzger,,,1,,Hauptstr.,,,,"qwen3.8-27b, Bild 2x",high,,"— Marin, Metzger, Hauptstr.",Mellingen,
 1910-einwohner-083-030,1910,83,einwohner,30,30,person,,0,Fiederer,,,,Fried,,,,Fabrikarbeiter,,,1,,Grosse Kirchgasse,,,,"qwen3.8-27b, Bild 2x",high,,"Fiederer, Fried., Fabrikarbeiter, Grosse Kirchgasse",Mellingen,
-1910-einwohner-083-031,1910,83,einwohner,31,31,firma,,0,Gehrig & Cie.,,,,,,,,"Kartonagefabrik, Buchdruckerei und Lythographie",,,1,,"Postplatz, H.",,1,,"qwen3.8-27b, Bild 2x",high,,"Gehrig & Cie., Kartonagefabrik, Buchdruckerei und Lythographie, Postplatz, H. ☎",Mellingen,
+1910-einwohner-083-031,1910,83,einwohner,31,31,firma,,0,Gehrig & Cie.,,,,,,,,"Kartonagefabrik, Buchdruckerei und Lythographie",,,1,,Postplatz,,1,,"qwen3.8-27b, Bild 2x",high,,"Gehrig & Cie., Kartonagefabrik, Buchdruckerei und Lythographie, Postplatz, H. ☎",Mellingen,
 1910-einwohner-083-032,1910,83,einwohner,32,32,firma,,1,Gehrig & Cie.,1,,,Walter,,,,Lithograph,,,1,,Kirchplatz,,,,"qwen3.8-27b, Bild 2x",high,,"— Walter, Lithograph, Kirchplatz",Mellingen,
 1910-einwohner-083-033,1910,83,einwohner,33,33,person,,0,Geissberger,,,,Ida,,,,Wirtin Frohsinn,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Geissberger, Ida, Wirtin Frohsinn, Bahnhofstr.",Mellingen,
 1910-einwohner-083-034,1910,83,einwohner,34,34,person,,0,Gersbach,,,,Leo,,,,Drechsler,,,1,,Scheuneng.,,,,"qwen3.8-27b, Bild 2x",high,,"Gersbach, Leo, Drechsler, Scheuneng.",Mellingen,
 1910-einwohner-083-035,1910,83,einwohner,35,35,person,,0,Graf,,,,Niklaus,,,,Ziegeleiarbeiter,,,1,,Bahnhofstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Graf, Niklaus, Ziegeleiarbeiter, Bahnhofstrasse",Mellingen,
 1910-einwohner-083-036,1910,83,einwohner,36,36,person,,1,Graf,1,,,Wilhelm,,,,Arbeiter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Wilhelm, Arbeiter",Mellingen,
 1910-einwohner-083-037,1910,83,einwohner,37,37,person,,0,Gredinger,,,,Aug,,,,Privat.,,,1,,Gr. Kirchgasse,,,,"qwen3.8-27b, Bild 2x",high,,"Gredinger, Aug., Privat., Gr. Kirchgasse",Mellingen,
-1910-einwohner-083-038,1910,83,einwohner,38,38,person,,1,Gredinger,1,,,Joseph,,,,Schuhhandlung und Gerberei,,,1,,"Spitalweg, H.",,,,"qwen3.8-27b, Bild 2x",high,,"— Joseph, Schuhhandlung und Gerberei, Spitalweg, H.",Mellingen,
+1910-einwohner-083-038,1910,83,einwohner,38,38,person,,1,Gredinger,1,,,Joseph,,,,Schuhhandlung und Gerberei,,,1,,Spitalweg,,,,"qwen3.8-27b, Bild 2x",high,,"— Joseph, Schuhhandlung und Gerberei, Spitalweg, H.",Mellingen,
 1910-einwohner-083-039,1910,83,einwohner,39,39,person,,1,Gredinger,1,,,Nanette,,,,Privatière,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",high,,"— Nanette, Privatière, Bahnhofstr.",Mellingen,
 1910-einwohner-083-040,1910,83,einwohner,40,40,person,,1,Gredinger,1,,,Olga,,,,Stickerin,,,1,,Gr. Kirchgasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Olga, Stickerin, Gr. Kirchgasse",Mellingen,
 1910-einwohner-083-041,1910,83,einwohner,41,41,person,,0,Gretener,,Mollet,,Elis,,,,Schmieds,,,1,,Hirschengasse,,,,"qwen3.8-27b, Bild 2x",high,,"Gretener-Mollet, Elis, Schmieds, Hirschengasse",Mellingen,
@@ -4783,7 +4783,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-083-047,1910,83,einwohner,47,47,person,,0,Halter,,,,"sen., Albert",,,,Drechsler,,,1,,Grosse Kirchgasse,,,,"qwen3.8-27b, Bild 2x",high,,"Halter, sen., Albert, Drechsler, Grosse Kirchgasse",Mellingen,
 1910-einwohner-083-048,1910,83,einwohner,48,48,person,,1,Halter,1,,,"jun., Albert",,,,Bureauangestellter,,,1,,Gr. Kirchgasse,,,,"qwen3.8-27b, Bild 2x",high,,"— jun., Albert, Bureauangestellter, Gr. Kirchgasse",Mellingen,
 1910-einwohner-083-049,1910,83,einwohner,49,49,person,,1,Halter,1,,,Josef,,,,,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Bahnhofstr.",Mellingen,
-1910-einwohner-083-050,1910,83,einwohner,50,50,person,,1,Halter,1,,,J,,,,"Nachfolger von C. Halter und Sohn, Litzen- und Strohwarenfabrikation",,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",high,,"— J., Nachfolger von C. Halter und Sohn, Litzen- und Strohwarenfabrikation, H. ☎",Mellingen,
+1910-einwohner-083-050,1910,83,einwohner,50,50,person,,1,Halter,1,,,J,,,,"Nachfolger von C. Halter und Sohn, Litzen- und Strohwarenfabrikation",,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"— J., Nachfolger von C. Halter und Sohn, Litzen- und Strohwarenfabrikation, H. ☎",Mellingen,
 1910-einwohner-083-051,1910,83,einwohner,51,51,person,,1,Halter,1,Meier,,Ulrich,,,,Seiler,,,1,,Stetterstr.,,,,"qwen3.8-27b, Bild 2x",high,,"— -Meier, Ulrich, Seiler, Stetterstr.",Mellingen,
 1910-einwohner-083-052,1910,83,einwohner,52,52,person,,1,Halter,1,Rodel,,August,,,,Seiler,,,1,,Stetterstr.,,,,"qwen3.8-27b, Bild 2x",high,,"— -Rodel, August, Seiler, Stetterstr.",Mellingen,
 1910-einwohner-083-053,1910,83,einwohner,53,53,person,,0,Härdi,,,,Adolf,,,,Kartonnagearbeiter,,,1,,Hirschengasse,,,,"qwen3.8-27b, Bild 2x",high,,"Härdi, Adolf, Kartonnagearbeiter, Hirschengasse",Mellingen,
@@ -4792,7 +4792,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-083-056,1910,83,einwohner,56,56,person,,0,Heimgartner,,Frey,,,,Wwe,,Gemüsehändlerin,,,1,,Hauptgasse,,,,"qwen3.8-27b, Bild 2x",high,,"Heimgartner-Frey, Wwe, Gemüsehändlerin, Hauptgasse",Mellingen,
 1910-einwohner-083-057,1910,83,einwohner,57,57,person,,0,Hirt,,,,Adolf,,,,Bez.-Lehrer,,,1,,Gr. Kirchgasse,,,,"qwen3.8-27b, Bild 2x",high,,"Hirt, Adolf, Bez.-Lehrer, Gr. Kirchgasse",Mellingen,
 1910-einwohner-083-058,1910,83,einwohner,58,58,person,,1,Hirt,1,,,Johann,,,,Pächter,,,1,,Bruggerstr.,,,,"qwen3.8-27b, Bild 2x",high,,"— Johann, Pächter, Bruggerstr.",Mellingen,
-1910-einwohner-083-059,1910,83,einwohner,59,59,person,,1,Hirt,1,Müller,,Verena,,Wwe,,Handlg.,,,1,,H.,,,,"qwen3.8-27b, Bild 2x",high,,"— -Müller, Verena, Wwe, Handlg., H.",Mellingen,
+1910-einwohner-083-059,1910,83,einwohner,59,59,person,,1,Hirt,1,Müller,,Verena,,Wwe,,Handlg.,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— -Müller, Verena, Wwe, Handlg., H.",Mellingen,
 1910-einwohner-083-060,1910,83,einwohner,60,60,person,,0,Hochstrasser,,,,Hch,,,,Fabriknst.,,,1,,Hirschengasse,,,,"qwen3.8-27b, Bild 2x",high,,"Hochstrasser, Hch., Fabriknst., Hirschengasse",Mellingen,
 1910-einwohner-083-061,1910,83,einwohner,61,61,person,,0,Hobler,,,,Jacob,,,,Schneider,,,1,,Hauptstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Hobler, Jacob, Schneider, Hauptstr.",Mellingen,
 1910-einwohner-083-062,1910,83,einwohner,62,62,person,,0,Hofstetler,,,,Niklaus,,,,Arbeiter,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Hofstetler, Niklaus, Arbeiter, Bahnhofstr.",Mellingen,
@@ -4804,7 +4804,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-083-068,1910,83,einwohner,68,68,person,,1,Huber,1,,,Ma,,Wwe,,Wirtschaft z. scharfen Eck,,,1,,Hauptstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Ma., Wwe, Wirtschaft z. scharfen Eck, Hauptstrasse",Mellingen,
 1910-einwohner-083-069,1910,83,einwohner,69,69,person,,0,Hübscher,,,,Friedrich,,,,Dinamoarbeiter,,,1,,Scheunengasse,,,,"qwen3.8-27b, Bild 2x",high,,"Hübscher, Friedrich, Dinamoarbeiter, Scheunengasse",Mellingen,
 1910-einwohner-083-070,1910,83,einwohner,70,70,person,,0,Hümbelin,,,,Peter,,,,"Arzt, Stadtammann",,,1,,Postplatz,,1,,"qwen3.8-27b, Bild 2x",high,,"Hümbelin, Peter, Arzt, Stadtammann, Postplatz ☎",Mellingen,
-1910-einwohner-083-071,1910,83,einwohner,71,71,person,,1,Hümbelin,1,,,Karl,,,,Rechtsagentur und Inkassogeschäft,,,1,,"Kl. Kirchgasse, H.",,,,"qwen3.8-27b, Bild 2x",high,,"— Karl, Rechtsagentur und Inkassogeschäft, Kl. Kirchgasse, H.",Mellingen,
+1910-einwohner-083-071,1910,83,einwohner,71,71,person,,1,Hümbelin,1,,,Karl,,,,Rechtsagentur und Inkassogeschäft,,,1,,Kl. Kirchgasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Karl, Rechtsagentur und Inkassogeschäft, Kl. Kirchgasse, H.",Mellingen,
 1910-einwohner-083-072,1910,83,einwohner,72,72,person,,1,Hümbelin,1,,,Louise,,,,Modistin,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Louise, Modistin",Mellingen,
 1910-einwohner-083-073,1910,83,einwohner,73,73,person,,0,Hüsser,,,,Jos,,,,Kohlenhandlg.,,,1,,Postplatz,,,,"qwen3.8-27b, Bild 2x",high,,"Hüsser, Jos., Kohlenhandlg., Postplatz",Mellingen,
 1910-einwohner-083-074,1910,83,einwohner,74,74,person,,0,Hufschmid,,,,Ad. Gustav,,,,Fuhrmann,,,1,,Hirschengasse,,,,"qwen3.8-27b, Bild 2x",high,,"Hufschmid, Ad. Gustav, Fuhrmann, Hirschengasse",Mellingen,
@@ -4892,7 +4892,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-084-074,1910,84,einwohner,74,74,person,,0,Schmid,,Geissmann,,Jean,,,,,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",medium,,"Schmid-Geissmann, Jean, Bahnhofstr.",Mellingen,surname_split
 1910-einwohner-084-075,1910,84,einwohner,75,75,person,,1,Schmid-Geissmann-Hochstrasser,1,Hochstrasser,,Katharina,,,,Hutma-cherin,,,1,,Grosse Kirchgasse,,,,"qwen3.8-27b, Bild 2x",medium,,"— -Hochstrasser, Katharina, Hutma-cherin, Grosse Kirchgasse",Mellingen,hyphen
 1910-einwohner-084-076,1910,84,einwohner,76,76,person,,1,Schmid-Geissmann-Hochstrasser,1,Hochstrasser,,Joh,,,,Bez.-Lehrer,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",high,,"— Joh., Bez.-Lehrer, Bahnhofstr.",Mellingen,
-1910-einwohner-084-077,1910,84,einwohner,77,77,firma,,1,Schmid-Geissmann-Hochstrasser & Kappeler & Cie.,1,Kappeler & Cie.,,,,,,Litzen- und Stroh-warenfabrik,,,1,,H.,,1,,"qwen3.8-27b, Bild 2x",medium,,"— Kappeler & Cie., Litzen- und Stroh-warenfabrik, H. ☎",Mellingen,hyphen
+1910-einwohner-084-077,1910,84,einwohner,77,77,firma,,1,Schmid-Geissmann-Hochstrasser & Kappeler & Cie.,1,Kappeler & Cie.,,,,,,Litzen- und Stroh-warenfabrik,,,1,,,,1,,"qwen3.8-27b, Bild 2x",medium,,"— Kappeler & Cie., Litzen- und Stroh-warenfabrik, H. ☎",Mellingen,hyphen
 1910-einwohner-085-001,1910,85,einwohner,1,1,firma,,0,Schmitz,,,,& Cie,,,,Seidenwinderei,,,1,,Bahnhofstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Schmitz & Cie., Seidenwinderei, Bahnhofstrasse",Mellingen,
 1910-einwohner-085-002,1910,85,einwohner,2,2,person,,0,Schneider,,,,Wwe,,Wwe,,Privatière,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Schneider, Wwe, Privatière, Bahnhofstr.",Mellingen,
 1910-einwohner-085-003,1910,85,einwohner,3,3,person,,0,Schuermann,,,,Martin,,,,Dynamoarbeiter,,,1,,Hauptstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Schuermann, Martin, Dynamoarbeiter, Hauptstrasse",Mellingen,
@@ -4956,7 +4956,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-085-061,1910,85,einwohner,61,61,person,,1,Wydmmer,1,,,Wilh,,,,"Garnhandlung, Landwirt",,,1,,Hirschengasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Wilh., Garnhandlung, Landwirt, Hirschengasse",Mellingen,
 1910-einwohner-085-062,1910,85,einwohner,62,62,person,,0,Wyler,,,,Samuel,,,,Schuhhandlung,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Wyler, Samuel, Schuhhandlung",Mellingen,
 1910-einwohner-085-063,1910,85,einwohner,63,63,person,,0,Wyss,,,,Xaver,,,,Privatier,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Wyss, Xaver, Privatier, Bahnhofstr.",Mellingen,
-1910-einwohner-085-064,1910,85,einwohner,64,64,person,,0,Zeder,,,,Josef,,,,"z. Linde, Wirt und Metzgerei",,,1,,H.,,,,"qwen3.8-27b, Bild 2x",high,,"Zeder, Josef, z. Linde, Wirt und Metzgerei, H.",Mellingen,
+1910-einwohner-085-064,1910,85,einwohner,64,64,person,,0,Zeder,,,,Josef,,,,"z. Linde, Wirt und Metzgerei",,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Zeder, Josef, z. Linde, Wirt und Metzgerei, H.",Mellingen,
 1910-einwohner-085-065,1910,85,einwohner,65,65,person,,0,Zeier,,,,Albert,,,,Landwirt,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Zeier, Albert, Landwirt, Bahnhofstr.",Mellingen,
 1910-einwohner-085-066,1910,85,einwohner,66,66,person,,1,Zeier,1,,,Eugen,,,,Fuhrmann,,,1,,Antoni Vorstadt,,,,"qwen3.8-27b, Bild 2x",high,,"— Eugen, Fuhrmann, Antoni Vorstadt",Mellingen,
 1910-einwohner-085-067,1910,85,einwohner,67,67,person,,0,Zeindler,,,,Christian,,,,Arbeiter,,,1,,Scheunengasse,,,,"qwen3.8-27b, Bild 2x",high,,"Zeindler, Christian, Arbeiter, Scheunengasse",Mellingen,
@@ -5397,7 +5397,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-090-073,1910,90,einwohner,73,73,person,,1,Würsch,1,Rimann,,Jos,,,,Mechaniker,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— -Rimann, Jos., Mechaniker",Oberrohrdorf,alliance_from_forename
 1910-einwohner-090-074,1910,90,einwohner,74,74,person,,0,Zehnder,,Wettstein,,Louis,,,,Friedensrichter,,,1,,,,,,"qwen3.8-27b, Bild 2x",medium,,"Zehnder-Wettstein, Louis, Friedensrichter",Oberrohrdorf,surname_split
 1910-einwohner-090-075,1910,90,einwohner,75,75,person,,0,Zeindler,,Rimann,,Jos. Emil,,,,Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",medium,,"Zeindler-Rimann, Jos. Emil, Landwirt",Oberrohrdorf,surname_split
-1910-einwohner-090-078,1910,90,einwohner,78,78,firma,,0,Anner,,,,Heinrich,,,,Metallwarenfabrik und Mechanische Werkstätten,,,1,,Kirchdorf H.,,,Obersiggenthal.,"qwen3.8-27b, Bild 2x",medium,,"Anner, Heinrich, Metallwarenfabrik und Mechanische Werkstätten, Kirchdorf H.",Obersiggenthal,street_rare
+1910-einwohner-090-078,1910,90,einwohner,78,78,firma,,0,Anner,,,,Heinrich,,,,Metallwarenfabrik und Mechanische Werkstätten,,,1,,,,,Obersiggenthal.,"qwen3.8-27b, Bild 2x",medium,,"Anner, Heinrich, Metallwarenfabrik und Mechanische Werkstätten, Kirchdorf H.",Obersiggenthal,street_rare
 1910-einwohner-090-079,1910,90,einwohner,79,79,person,,1,Anner,1,Wagner,,Lisette,,Wwe.,,,,,1,,,,,Obersiggenthal.,"qwen3.8-27b, Bild 2x",high,,"— -Wagner, Lisette, Wwe., Kirchdorf",Obersiggenthal,alliance_from_forename
 1910-einwohner-090-080,1910,90,einwohner,80,80,person,,0,Arnitz,,,,Franz Jos,,,,Giesser,,,1,,,,,Obersiggenthal.,"qwen3.8-27b, Bild 2x",high,,"Arnitz, Franz Jos., Giesser, Unter-Nussbaumen",Obersiggenthal,
 1910-einwohner-090-081,1910,90,einwohner,81,81,person,,1,Arnitz,1,,,August,,,,Schreiner,,,1,,Kirchdoof,,,Obersiggenthal.,"qwen3.8-27b, Bild 2x",medium,,"— August, Schreiner, Kirchdoof",Obersiggenthal,street_rare
@@ -5630,7 +5630,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-093-071,1910,93,einwohner,71,71,person,,0,Mülli,,,,Johann,,,,Fortbildungsdreher,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Mülli, Johann, Fortbildungsdreher, Rieden",Obersiggenthal,
 1910-einwohner-093-072,1910,93,einwohner,72,72,person,,0,Muggler,,,,Karl,,,,Mechaniker,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Muggler, Karl, Mechaniker, Ober-Nussbaumen",Obersiggenthal,
 1910-einwohner-093-073,1910,93,einwohner,73,73,person,,0,Oederlin,,Roth,,Edmund,,,,Fabrikant,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Oederlin-Roth, Edmund, Fabrikant, Rieden",Obersiggenthal,
-1910-einwohner-093-074,1910,93,einwohner,74,74,firma,,1,Oederlin,1,Roth,,"& Cie., E",,,,Metallwarenfabrik,,,1,,Rieden H.,,1,,"qwen3.8-27b, Bild 2x",medium,,"— & Cie., E., Metallwarenfabrik, Rieden H. ☎",Obersiggenthal,street_rare
+1910-einwohner-093-074,1910,93,einwohner,74,74,firma,,1,Oederlin,1,Roth,,"& Cie., E",,,,Metallwarenfabrik,,,1,,,,1,,"qwen3.8-27b, Bild 2x",medium,,"— & Cie., E., Metallwarenfabrik, Rieden H. ☎",Obersiggenthal,street_rare
 1910-einwohner-093-075,1910,93,einwohner,75,75,person,,0,Ris,,,,Heinrich,,,,Schreiner,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Ris, Heinrich, Schreiner, Kirchdorf",Obersiggenthal,
 1910-einwohner-093-076,1910,93,einwohner,76,76,person,,0,Rohr,,,,Ernst,,,,Kaufmann,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Rohr, Ernst, Kaufmann, Unter-Nussbaumen",Obersiggenthal,
 1910-einwohner-093-077,1910,93,einwohner,77,77,person,,0,Rotzinger,,,,Joseph,,,,Gemeinderat,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Rotzinger, Joseph, Gemeinderat, Kirchdorf",Obersiggenthal,
@@ -5840,7 +5840,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-096-049,1910,96,einwohner,49,49,person,,0,Boll,,,,Lorenz,,,,Landwirt,,,1,,Bollhof,,,Spreitenbach,"qwen3.8-27b, Bild 2x",high,,"Boll, Lorenz, Landwirt, Bollhof",Spreitenbach,
 1910-einwohner-096-050,1910,96,einwohner,50,50,person,,1,Boll-Muntwyler,1,Muntwyler,,Anton,,,,Landwirt,,,1,,Bollhof,,,Spreitenbach,"qwen3.8-27b, Bild 2x",high,,"-Muntwyler, Anton, Landwirt, Bollhof",Spreitenbach,
 1910-einwohner-096-051,1910,96,einwohner,51,51,person,,0,Bumbacher,,Peier,,Kaspar,,,,Müller,,,1,,,,,Spreitenbach,"qwen3.8-27b, Bild 2x",medium,,"Bumbacher-Peier, Kaspar, Müller",Spreitenbach,surname_split
-1910-einwohner-096-052,1910,96,einwohner,52,52,person,,1,Bumbacher-Wiederkehr,1,Wiederkehr,,Kaspar,,,,Weinhandlung und Brennerei,,,1,,H.,,,Spreitenbach,"qwen3.8-27b, Bild 2x",high,,"-Wiederkehr, Kaspar, Weinhandlung und Brennerei H.",Spreitenbach,
+1910-einwohner-096-052,1910,96,einwohner,52,52,person,,1,Bumbacher-Wiederkehr,1,Wiederkehr,,Kaspar,,,,Weinhandlung und Brennerei,,,1,,,,,Spreitenbach,"qwen3.8-27b, Bild 2x",high,,"-Wiederkehr, Kaspar, Weinhandlung und Brennerei H.",Spreitenbach,
 1910-einwohner-096-053,1910,96,einwohner,53,53,person,,1,Bumbacher-Wiederkehr,1,Wiederkehr,,Melchior,,,,Landwirt,,,1,,,,,Spreitenbach,"qwen3.8-27b, Bild 2x",high,,"-Wiederkehr, Melchior, Landwirt",Spreitenbach,
 1910-einwohner-096-054,1910,96,einwohner,54,54,person,,0,Burner,,,,Johann,,,,Gemeindeweibel,,,1,,,,,Spreitenbach,"qwen3.8-27b, Bild 2x",high,,"Burner, Johann, Gemeindeweibel",Spreitenbach,
 1910-einwohner-096-055,1910,96,einwohner,55,55,person,,1,Burner-Schaufelberger,1,Schaufelberger,,Arnold,,,,Landwirt,,,1,,,,,Spreitenbach,"qwen3.8-27b, Bild 2x",high,,"-Schaufelberger, Arnold, Landwirt",Spreitenbach,
@@ -5987,7 +5987,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-098-038,1910,98,einwohner,38,38,person,,1,Wiederkehr,1,,,Xaver,,,,Bahnwärter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Xaver, Bahnwärter",Spreitenbach,
 1910-einwohner-098-039,1910,98,einwohner,39,39,person,,1,Wiederkehr,1,Zeier,,Engelbert,,,,Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— -Zeier, Engelbert, Landwirt",Spreitenbach,alliance_from_forename
 1910-einwohner-098-040,1910,98,einwohner,40,40,person,,0,Zünd,,,,Johann,,,,Schreiner,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Zünd, Johann, Schreiner",Spreitenbach,
-1910-einwohner-098-042,1910,98,einwohner,42,42,person,,0,Billete,,Kölla,,E,,,,Seidenzwirner ei,,,1,,H.,,1,Stetten,"qwen3.8-27b, Bild 2x",high,,"Billete-Kölla, E., Seidenzwirner ei, H. ☎",Stetten (AG),
+1910-einwohner-098-042,1910,98,einwohner,42,42,person,,0,Billete,,Kölla,,E,,,,Seidenzwirner ei,,,1,,,,1,Stetten,"qwen3.8-27b, Bild 2x",high,,"Billete-Kölla, E., Seidenzwirner ei, H. ☎",Stetten (AG),
 1910-einwohner-098-043,1910,98,einwohner,43,43,person,,0,Bochsler,,,,Joh,,,,Schmied und Mechaniker,,,1,,Mitteldorf,,,Stetten,"qwen3.8-27b, Bild 2x",high,,"Bochsler, Joh., Schmied und Mechaniker, Mitteldorf",Stetten (AG),
 1910-einwohner-098-044,1910,98,einwohner,44,44,person,,0,Fischer,,,,Alfons,,,,Bankangestellter,,,1,,,,,Stetten,"qwen3.8-27b, Bild 2x",high,,"Fischer, Alfons, Bankangestellter",Stetten (AG),
 1910-einwohner-098-045,1910,98,einwohner,45,45,person,,1,Fischer,1,,,Aloys,,,,Landwirt,,,1,,Oberdorf,,,Stetten,"qwen3.8-27b, Bild 2x",high,,"— Aloys, Landwirt, Oberdorf",Stetten (AG),
@@ -6070,8 +6070,8 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-099-049,1910,99,einwohner,49,49,person,,1,Schneider,1,Fischer,,Peter,,,,Metzger u. Landwirt,,,1,,Unterdorf,,,,"qwen3.8-27b, Bild 2x",medium,,"— Peter, Metzger u. Landwirt, Unterdorf",Stetten (AG),surname_split
 1910-einwohner-099-050,1910,99,einwohner,50,50,person,,0,Schürmann,,,,Vinzenz,,,,Landwirt und Schweinezüchtereie,,,1,,Oberdorf,,,,"qwen3.8-27b, Bild 2x",high,,"Schürmann, Vinzenz, Landwirt und Schweinezüchtereie, Oberdorf",Stetten (AG),
 1910-einwohner-099-051,1910,99,einwohner,51,51,person,,0,Wietlispack,,Gut,,Johann,,,,Metallarbeiter,,,1,,,,,,"qwen3.8-27b, Bild 2x",medium,,"Wietlispack-Gut, Johann, Metallarbeiter",Stetten (AG),surname_split
-1910-einwohner-099-053,1910,99,einwohner,53,53,person,,0,A. G. vormals E. Kappeler,,Bebié,,,,,,Baumwollspinnerei,,,1,,H.,,1,1. Turgi,"qwen3.8-27b, Bild 2x",medium,,"A. G. vormals E. Kappeler-Bebié, Baumwollspinnerei H. ☎",Turgi,surname_split
-1910-einwohner-099-054,1910,99,einwohner,54,54,person,,0,A. G. für Elektro-Chemische Industrie,,,,,,,,,,,1,,H.,,,1. Turgi,"qwen3.8-27b, Bild 2x",high,,A. G. für Elektro-Chemische Industrie H.,Turgi,
+1910-einwohner-099-053,1910,99,einwohner,53,53,person,,0,A. G. vormals E. Kappeler,,Bebié,,,,,,Baumwollspinnerei,,,1,,,,1,1. Turgi,"qwen3.8-27b, Bild 2x",medium,,"A. G. vormals E. Kappeler-Bebié, Baumwollspinnerei H. ☎",Turgi,surname_split
+1910-einwohner-099-054,1910,99,einwohner,54,54,person,,0,A. G. für Elektro-Chemische Industrie,,,,,,,,,,,1,,,,,1. Turgi,"qwen3.8-27b, Bild 2x",high,,A. G. für Elektro-Chemische Industrie H.,Turgi,
 1910-einwohner-099-055,1910,99,einwohner,55,55,person,,0,Ammann,,,,Ulrich,,,,Maurer,,,1,,,,,1. Turgi,"qwen3.8-27b, Bild 2x",high,,"Ammann, Ulrich, Maurer",Turgi,
 1910-einwohner-099-056,1910,99,einwohner,56,56,person,,0,Bachmann,,,,Oskar,,,,Schleifermeister,,,1,,,,,1. Turgi,"qwen3.8-27b, Bild 2x",high,,"Bachmann, Oskar, Schleifermeister",Turgi,
 1910-einwohner-099-057,1910,99,einwohner,57,57,person,,0,Bächli,,,,Karl,,,,Kutscher,,,1,,,,,1. Turgi,"qwen3.8-27b, Bild 2x",high,,"Bächli. Karl, Kutscher",Turgi,
@@ -6416,7 +6416,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-103-045,1910,103,einwohner,45,45,person,,0,Umbricht,,,,Siegfried,,,,Schlosser,,,1,,,,,1. Ober-Siggingen.,"qwen3.8-27b, Bild 2x",high,,"Umbricht, Siegfried, Schlosser",Untersiggenthal,
 1910-einwohner-103-046,1910,103,einwohner,46,46,person,,0,Valer,,,,Martin,,,,Lehrer,,,1,,,,,1. Ober-Siggingen.,"qwen3.8-27b, Bild 2x",high,,"Valer, Martin, Lehrer",Untersiggenthal,
 1910-einwohner-103-047,1910,103,einwohner,47,47,person,,0,Widmer,,Müller,,Johann,,,,Giesser,,,1,,,,,1. Ober-Siggingen.,"qwen3.8-27b, Bild 2x",medium,,"Widmer-Müller, Johann, Giesser",Untersiggenthal,surname_split
-1910-einwohner-103-048,1910,103,einwohner,48,48,firma,,0,Wuest & Steiner,,,,,,,,"Firma, Buchdruckerei-Utensilien-Fabrikation",,,1,,H.,,1,1. Ober-Siggingen.,"qwen3.8-27b, Bild 2x",high,,"Wuest & Steiner, Firma, Buchdruckerei-Utensilien-Fabrikation H. ☎",Untersiggenthal,
+1910-einwohner-103-048,1910,103,einwohner,48,48,firma,,0,Wuest & Steiner,,,,,,,,"Firma, Buchdruckerei-Utensilien-Fabrikation",,,1,,,,1,1. Ober-Siggingen.,"qwen3.8-27b, Bild 2x",high,,"Wuest & Steiner, Firma, Buchdruckerei-Utensilien-Fabrikation H. ☎",Untersiggenthal,
 1910-einwohner-103-049,1910,103,einwohner,49,49,person,,0,Zehnder,,,,Alois,,,,Oeler,,,1,,,,,1. Ober-Siggingen.,"qwen3.8-27b, Bild 2x",high,,"Zehnder, Alois, Oeler",Untersiggenthal,
 1910-einwohner-103-050,1910,103,einwohner,50,50,person,,0,Beier,,,,Eduard,,,,Landwirt,,,1,,,,,2. Unter-Siggingen.,"qwen3.8-27b, Bild 2x",high,,"Beier, Eduard, Landwirt",Untersiggenthal,
 1910-einwohner-103-051,1910,103,einwohner,51,51,person,,0,Beier,,Meier,,Josefina,,Witwe,,,,,1,,,,,2. Unter-Siggingen.,"qwen3.8-27b, Bild 2x",medium,,"Beier-Meier, Josefina, Witwe",Untersiggenthal,surname_split
@@ -6609,18 +6609,18 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-105-041,1910,105,einwohner,41,41,person,,1,Angst,1,Peter,,H,,Witwe,,Wirtin,,,1,,zum Schartenfels,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— H., Witwe, Wirtin zum Schartenfels",Wettingen,street_rare surname_split
 1910-einwohner-105-042,1910,105,einwohner,42,42,person,,0,Aschauer,,,,Johann,,,,Schuhmacher,,,1,,"Dorf, Bifangstrasse",,,Wettingen,"qwen3.8-27b, Bild 2x",medium,,"Aschauer, Johann, Schuhmacher, Dorf, Bifangstrasse",Wettingen,street_rare
 1910-einwohner-105-043,1910,105,einwohner,43,43,person,,0,Bachmann,,,,Emil,,,,Schlosser,,,1,,488 Austr.,,,Wettingen,"qwen3.8-27b, Bild 2x",medium,,"Bachmann, Emil, Schlosser, 488 Austr.",Wettingen,street_rare
-1910-einwohner-105-044,1910,105,einwohner,44,44,person,,1,Bachmann,1,,,Peter,,,,Wirt,,,1,,"zum Maiengrün, Langenstein",,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— Peter, Wirt zum Maiengrün, Langenstein",Wettingen,
+1910-einwohner-105-044,1910,105,einwohner,44,44,person,,1,Bachmann,1,,,Peter,,,,Wirt,,,1,,zum Maiengrün,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— Peter, Wirt zum Maiengrün, Langenstein",Wettingen,
 1910-einwohner-105-045,1910,105,einwohner,45,45,person,,0,Badertscher,,,,Albert,,,,Zugführer,,,1,,Kloster,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Badertscher, Albert, Zugführer, Kloster",Wettingen,
 1910-einwohner-105-046,1910,105,einwohner,46,46,person,,0,Bächli,,Kloter,,Karl,,,,Privatier,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",medium,,"Bächli-Kloter, Karl, Privatier",Wettingen,surname_split
 1910-einwohner-105-047,1910,105,einwohner,47,47,person,,0,Bäggli,,,,Eduard,,,,Heizer,,,1,,Langstr.,449,,Wettingen,"qwen3.8-27b, Bild 2x",medium,,"Bäggli, Eduard, Heizer, Langstr. 449, Wettingen",Wettingen,street_rare
 1910-einwohner-105-048,1910,105,einwohner,48,48,person,,1,Bäggli,1,,,Eduard,,,,Schlosser,,,1,,Kloster,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— Eduard, Schlosser, Kloster",Wettingen,
 1910-einwohner-105-049,1910,105,einwohner,49,49,person,,1,Bäggli,1,,,Johann,,,,Heizer,,,1,,Kloster,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— Johann, Heizer, Kloster",Wettingen,
-1910-einwohner-105-050,1910,105,einwohner,50,50,person,,0,Bangeter,,,,Friedr,,,,Wirt,,,1,,"zur Schönegg, Wettingen",,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bangeter, Friedr., Wirt zur Schönegg, Wettingen",Wettingen,
+1910-einwohner-105-050,1910,105,einwohner,50,50,person,,0,Bangeter,,,,Friedr,,,,Wirt,,,1,,zur Schönegg,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bangeter, Friedr., Wirt zur Schönegg, Wettingen",Wettingen,
 1910-einwohner-105-051,1910,105,einwohner,51,51,person,,0,Bardelli,,,,Josef,,,,Cementier,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bardelli, Josef, Cementier, Langenstein",Wettingen,
 1910-einwohner-105-052,1910,105,einwohner,52,52,person,,0,Baumann,,,,Georg,,,,Zimmermann,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Baumann, Georg, Zimmermann, Langenstein",Wettingen,
 1910-einwohner-105-053,1910,105,einwohner,53,53,person,,1,Baumann,1,,,Gottfr,,,,Taglöhner,,,1,,Kloster,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— Gottfr., Taglöhner, Kloster",Wettingen,
 1910-einwohner-105-054,1910,105,einwohner,54,54,person,,0,Baumgartner,,,,Friedrich,,,,Schlosser,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Baumgartner, Friedrich, Schlosser, Langenstein",Wettingen,
-1910-einwohner-105-055,1910,105,einwohner,55,55,person,,0,Bauer,,,,Xaver,,,,Wirt,,,1,,"zum Zentral, Wettingen",,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bauer, Xaver, Wirt zum Zentral, Wettingen",Wettingen,
+1910-einwohner-105-055,1910,105,einwohner,55,55,person,,0,Bauer,,,,Xaver,,,,Wirt,,,1,,zum Zentral,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bauer, Xaver, Wirt zum Zentral, Wettingen",Wettingen,
 1910-einwohner-105-056,1910,105,einwohner,56,56,person,,0,Beck,,,,Hermann,,,,Lehrer,,,1,,Dorf,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Beck, Hermann, Lehrer, Dorf",Wettingen,
 1910-einwohner-105-057,1910,105,einwohner,57,57,person,,0,Beeler,,,,Caspar,,,,Privatier,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Beeler, Caspar, Privatier, Langenstein",Wettingen,
 1910-einwohner-105-058,1910,105,einwohner,58,58,person,,0,Beloni,,,,Angelo,,,,Erdarbeiter,,,1,,Dorf,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Beloni, Angelo, Erdarbeiter, Dorf",Wettingen,
@@ -6629,18 +6629,18 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-105-061,1910,105,einwohner,61,61,person,,1,Benz,1,,,Joh,,,,Bahnbeamter,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— Joh., Bahnbeamter",Wettingen,
 1910-einwohner-105-062,1910,105,einwohner,62,62,person,,1,Benz,1,,,Josef,,,,Schuhmacher,,,1,,Dorf,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— Josef, Schuhmacher, Dorf",Wettingen,
 1910-einwohner-105-063,1910,105,einwohner,63,63,person,,0,Bernasconi,,,,Josef,,,,Schreiner,,,1,,Kloster,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bernasconi, Josef, Schreiner, Kloster",Wettingen,
-1910-einwohner-105-064,1910,105,einwohner,64,64,person,,0,Berner,,,,Heinrich,,,,Maler,,,1,,"Langstrasse, Wettingen",,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Berner, Heinrich, Maler, Langstrasse, Wettingen",Wettingen,
-1910-einwohner-105-065,1910,105,einwohner,65,65,person,,0,Bertschinger,,,,Otto,,,,Techniker,,,1,,"Rosengarten, Wettingen",,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bertschinger, Otto, Techniker, Rosengarten, Wettingen",Wettingen,
+1910-einwohner-105-064,1910,105,einwohner,64,64,person,,0,Berner,,,,Heinrich,,,,Maler,,,1,,Langstrasse,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Berner, Heinrich, Maler, Langstrasse, Wettingen",Wettingen,
+1910-einwohner-105-065,1910,105,einwohner,65,65,person,,0,Bertschinger,,,,Otto,,,,Techniker,,,1,,Rosengarten,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bertschinger, Otto, Techniker, Rosengarten, Wettingen",Wettingen,
 1910-einwohner-105-066,1910,105,einwohner,66,66,person,,0,Berz,,,,Emil,,,,Schlosser,,,1,,Dorf,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Berz, Emil, Schlosser, Dorf",Wettingen,
 1910-einwohner-105-067,1910,105,einwohner,67,67,person,,1,Berz,1,,,Josef,,,,mech. Schreinerei,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— Josef, mech. Schreinerei",Wettingen,
-1910-einwohner-105-068,1910,105,einwohner,68,68,person,,0,Bickel,,,,Reinhold,,,,Schuhmacher,,,1,,"Klosterstrasse, Wettingen",,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bickel, Reinhold, Schuhmacher, Klosterstrasse, Wettingen",Wettingen,
+1910-einwohner-105-068,1910,105,einwohner,68,68,person,,0,Bickel,,,,Reinhold,,,,Schuhmacher,,,1,,Klosterstrasse,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bickel, Reinhold, Schuhmacher, Klosterstrasse, Wettingen",Wettingen,
 1910-einwohner-105-069,1910,105,einwohner,69,69,person,,0,Biland,,,,Emil,,,,Spenglermeister,,,1,,Dorf,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Biland, Emil, Spenglermeister, Dorf",Wettingen,
 1910-einwohner-105-070,1910,105,einwohner,70,70,person,,0,Binda,,,,Clementi,,,,Gipser,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Binda, Clementi, Gipser, Langenstein",Wettingen,
 1910-einwohner-105-071,1910,105,einwohner,71,71,person,,0,Binder,,,,Gottf,,,,Pfarrhelfer,,,1,,Dorf,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Binder, Gottf., Pfarrhelfer, Dorf",Wettingen,
 1910-einwohner-105-072,1910,105,einwohner,72,72,person,,1,Binder,1,,,Josef,,,,Maurer,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"— Josef, Maurer, Langenstein",Wettingen,
 1910-einwohner-105-073,1910,105,einwohner,73,73,person,,0,Bisig,,,,Albert,,,,Giesser,,,1,,Dorf,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bisig, Albert, Giesser, Dorf",Wettingen,
-1910-einwohner-105-074,1910,105,einwohner,74,74,person,,0,Blättler,,,,Josef,,,,Schreiner,,,1,,"Rebstock, Wettingen",,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Blättler, Josef, Schreiner, Rebstock, Wettingen",Wettingen,
-1910-einwohner-105-075,1910,105,einwohner,75,75,person,,0,Blanz,,,,Otto,,,,Schneider,,,1,,"Klosterstrasse, Wettingen",,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Blanz, Otto, Schneider, Klosterstrasse, Wettingen",Wettingen,
+1910-einwohner-105-074,1910,105,einwohner,74,74,person,,0,Blättler,,,,Josef,,,,Schreiner,,,1,,Rebstock,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Blättler, Josef, Schreiner, Rebstock, Wettingen",Wettingen,
+1910-einwohner-105-075,1910,105,einwohner,75,75,person,,0,Blanz,,,,Otto,,,,Schneider,,,1,,Klosterstrasse,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Blanz, Otto, Schneider, Klosterstrasse, Wettingen",Wettingen,
 1910-einwohner-105-076,1910,105,einwohner,76,76,person,,0,Bodo,,,,Giovanni,,,,Kostgeberei,,,1,,Altenburg,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bodo, Giovanni, Kostgeberei, Altenburg",Wettingen,
 1910-einwohner-105-077,1910,105,einwohner,77,77,person,,0,Bösch,,,,Heinrich,,,,Dreher,,,1,,Kloster,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bösch, Heinrich, Dreher, Kloster",Wettingen,
 1910-einwohner-105-078,1910,105,einwohner,78,78,person,,0,Bolliger,,,,Albert,,,,Sekretär,,,1,,,,,Wettingen,"qwen3.8-27b, Bild 2x",high,,"Bolliger, Albert, Sekretär, Langenstein",Wettingen,
@@ -6689,8 +6689,8 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-106-039,1910,106,einwohner,39,39,person,,0,Cometti,,,,Jakob,,,,Schreiner,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Cometti, Jakob, Schreiner, Dorf",Wettingen,
 1910-einwohner-106-040,1910,106,einwohner,40,40,person,,0,Dal Moro,,,,Bortole,,,,Händler,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Dal Moro, Bortole, Händler, Langenstein",Wettingen,
 1910-einwohner-106-041,1910,106,einwohner,41,41,person,,0,Darini,,,,Vinzenz,,,,Bäcker,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"Darini, Vinzenz, Bäcker, Altenburg",Wettingen,
-1910-einwohner-106-042,1910,106,einwohner,42,42,firma,,0,Darlehenskassaverein Wettingen,,,,,,,,,,,1,,H.,,,,"qwen3.8-27b, Bild 2x",high,,Darlehenskassaverein Wettingen H.,Wettingen,
-1910-einwohner-106-043,1910,106,einwohner,43,43,person,,0,De Taddeo,,,,Bernardo,,,,Gipsermeister,,,1,,"Austrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"De Taddeo, Bernardo, Gipsermeister, Austrasse, Wettingen",Wettingen,
+1910-einwohner-106-042,1910,106,einwohner,42,42,firma,,0,Darlehenskassaverein Wettingen,,,,,,,,,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,Darlehenskassaverein Wettingen H.,Wettingen,
+1910-einwohner-106-043,1910,106,einwohner,43,43,person,,0,De Taddeo,,,,Bernardo,,,,Gipsermeister,,,1,,Austrasse,,,,"qwen3.8-27b, Bild 2x",high,,"De Taddeo, Bernardo, Gipsermeister, Austrasse, Wettingen",Wettingen,
 1910-einwohner-106-044,1910,106,einwohner,44,44,person,,0,Diebold,,,,Eug,,,,Ingenieur,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Diebold, Eug., Ingenieur, Langenstein",Wettingen,
 1910-einwohner-106-045,1910,106,einwohner,45,45,person,,1,Diebold,1,,,Karl,,,,Tapezierer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Karl, Tapezierer, Langenstein",Wettingen,
 1910-einwohner-106-046,1910,106,einwohner,46,46,person,,0,Diener,,,,Rudolf,,,,Spinner,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Diener, Rudolf, Spinner, Kloster",Wettingen,
@@ -6701,7 +6701,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-106-051,1910,106,einwohner,51,51,person,,0,Duina,,,,Angelo,,,,Maler,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Duina, Angelo, Maler, Wettingen",Wettingen,
 1910-einwohner-106-052,1910,106,einwohner,52,52,person,,1,Duina,1,,,Primo,,,,Maler,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Primo, Maler, Langenstein",Wettingen,
 1910-einwohner-106-053,1910,106,einwohner,53,53,person,,0,Eckert,,,,Johann,,,,Mechaniker,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Eckert, Johann, Mechaniker, Dorf",Wettingen,
-1910-einwohner-106-054,1910,106,einwohner,54,54,person,,0,Egg,,,,Christian,,,,Schuhreparaturwerkstätte,,,1,,"Albertstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Egg, Christian, Schuhreparaturwerkstätte, Albertstrasse, Wettingen",Wettingen,
+1910-einwohner-106-054,1910,106,einwohner,54,54,person,,0,Egg,,,,Christian,,,,Schuhreparaturwerkstätte,,,1,,Albertstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Egg, Christian, Schuhreparaturwerkstätte, Albertstrasse, Wettingen",Wettingen,
 1910-einwohner-106-055,1910,106,einwohner,55,55,person,,0,Egloff,,,,Christof,,,,Bahnbeamter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Egloff, Christof, Bahnbeamter, Langenstein",Wettingen,
 1910-einwohner-106-056,1910,106,einwohner,56,56,person,,1,Egloff,1,,,Damian,,,,Schneider,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Damian, Schneider, Dorf",Wettingen,
 1910-einwohner-106-057,1910,106,einwohner,57,57,person,,1,Egloff,1,,,Eduard,,,,Maler,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Eduard, Maler, Berg",Wettingen,
@@ -6724,11 +6724,11 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-106-074,1910,106,einwohner,74,74,person,,0,Ernst,,,,Siegfried,,,,Landwirt,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Ernst, Siegfried, Landwirt, Dorf",Wettingen,
 1910-einwohner-106-075,1910,106,einwohner,75,75,person,,0,Esche,,,,Gustav,,,,Spinner,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Esche, Gustav, Spinner, Kloster",Wettingen,
 1910-einwohner-106-076,1910,106,einwohner,76,76,person,,0,Faveret,,,,Giacomo,,,,Handelsmann,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Faveret, Giacomo, Handelsmann, Langenstein",Wettingen,
-1910-einwohner-106-077,1910,106,einwohner,77,77,person,,0,Feller,,,,Karl,,,,Milchwändler,,,1,,"Klosterstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Feller, Karl, Milchwändler, Klosterstrasse, Wettingen",Wettingen,
+1910-einwohner-106-077,1910,106,einwohner,77,77,person,,0,Feller,,,,Karl,,,,Milchwändler,,,1,,Klosterstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Feller, Karl, Milchwändler, Klosterstrasse, Wettingen",Wettingen,
 1910-einwohner-106-078,1910,106,einwohner,78,78,person,,0,Fierz,,,,Julius,,,,Schneidermeister,,,1,,Station,,,,"qwen3.8-27b, Bild 2x",high,,"Fierz, Julius, Schneidermeister, Station",Wettingen,
 1910-einwohner-106-079,1910,106,einwohner,79,79,person,,0,Fisch,,,,Gottl,Dr.,,,Seminarlehrer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Fisch, Gottl., Dr. Seminarlehrer, Kloster",Wettingen,
 1910-einwohner-106-080,1910,106,einwohner,80,80,person,,0,Fischer,,,,Alois,,,,Zimmermann,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Fischer, Alois, Zimmermann, Langenstein",Wettingen,
-1910-einwohner-106-081,1910,106,einwohner,81,81,person,,1,Fischer,1,,,Casimir,,,,Bankbeamter,,,1,,"Schönaustrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Casimir, Bankbeamter, Schönaustrasse, Wettingen",Wettingen,
+1910-einwohner-106-081,1910,106,einwohner,81,81,person,,1,Fischer,1,,,Casimir,,,,Bankbeamter,,,1,,Schönaustrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Casimir, Bankbeamter, Schönaustrasse, Wettingen",Wettingen,
 1910-einwohner-106-082,1910,106,einwohner,82,82,person,,1,Fischer,1,,,Joh,,,,Schneider,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Joh., Schneider, Langenstein",Wettingen,
 1910-einwohner-106-083,1910,106,einwohner,83,83,person,,1,Fischer,1,,,Josef,,,,Zimmermann,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Zimmermann, Dorf",Wettingen,
 1910-einwohner-106-084,1910,106,einwohner,84,84,person,,1,Fischer,1,,,Kilian,,,,Schuhmacher,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Kilian, Schuhmacher, Dorf",Wettingen,
@@ -6740,18 +6740,18 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-106-090,1910,106,einwohner,90,90,person,,0,Foltre,,,,Vinz,,,,Kostgeber,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Foltre, Vinz., Kostgeber, Langenstein",Wettingen,
 1910-einwohner-106-091,1910,106,einwohner,91,91,person,,0,Fontana,,,,Valentino,,,,Maurer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Fontana, Valentino, Maurer, Langenstein",Wettingen,
 1910-einwohner-106-092,1910,106,einwohner,92,92,person,,0,Frei,,,,Franz Xaver,,,,Zimmermann,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Frei, Franz Xaver, Zimmermann, Dorf",Wettingen,
-1910-einwohner-106-093,1910,106,einwohner,93,93,person,,1,Frei,1,,,Gottfr,,,,Techniker,,,1,,"Heimstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Gottfr., Techniker, Heimstrasse, Wettingen",Wettingen,
+1910-einwohner-106-093,1910,106,einwohner,93,93,person,,1,Frei,1,,,Gottfr,,,,Techniker,,,1,,Heimstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Gottfr., Techniker, Heimstrasse, Wettingen",Wettingen,
 1910-einwohner-106-094,1910,106,einwohner,94,94,person,,1,Frei,1,,,Hans,,,,Bahnbeamter,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Hans, Bahnbeamter, Dorf",Wettingen,
 1910-einwohner-107-001,1910,107,einwohner,1,1,person,,0,Frei,,,,Hans,,,,Buchhalter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Frei, Hans, Buchhalter, Langenstein",Wettingen,
 1910-einwohner-107-002,1910,107,einwohner,2,2,person,,1,Frei,1,,,Hans,,,,Magaziner,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Hans, Magaziner, Dorf",Wettingen,
-1910-einwohner-107-003,1910,107,einwohner,3,3,person,,1,Frei,1,,,Ida,,,,Büralistin,,,1,,"Landstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Ida, Büralistin, Landstrasse, Wettingen",Wettingen,
+1910-einwohner-107-003,1910,107,einwohner,3,3,person,,1,Frei,1,,,Ida,,,,Büralistin,,,1,,Landstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Ida, Büralistin, Landstrasse, Wettingen",Wettingen,
 1910-einwohner-107-004,1910,107,einwohner,4,4,person,,1,Frei,1,,,Joh,,,,Jagdaufseher,,,1,,Herdern,,,,"qwen3.8-27b, Bild 2x",high,,"— Joh., Jagdaufseher, Herdern",Wettingen,
-1910-einwohner-107-005,1910,107,einwohner,5,5,person,,1,Frei,1,,,Josef,,,,Bierbrauer,,,1,,"Austrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Bierbrauer, Austrasse, Wettingen",Wettingen,
+1910-einwohner-107-005,1910,107,einwohner,5,5,person,,1,Frei,1,,,Josef,,,,Bierbrauer,,,1,,Austrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Bierbrauer, Austrasse, Wettingen",Wettingen,
 1910-einwohner-107-006,1910,107,einwohner,6,6,person,,0,Freiderich,,,,Anna,,,,Lehrerin,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Freiderich, Anna, Lehrerin, Wettingen",Wettingen,
 1910-einwohner-107-007,1910,107,einwohner,7,7,person,,1,Freiderich,1,,,Emilie,,,,Lehrerin,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Emilie, Lehrerin, Wettingen",Wettingen,
 1910-einwohner-107-008,1910,107,einwohner,8,8,person,,0,Frösch,,,,Hermann,,,,Zugführer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Frösch, Hermann, Zugführer, Kloster",Wettingen,
 1910-einwohner-107-009,1910,107,einwohner,9,9,person,,0,Frozza,,,,Angelo,,,,Schlosser,,,1,,Aesch,,,,"qwen3.8-27b, Bild 2x",high,,"Frozza, Angelo, Schlosser, Aesch",Wettingen,
-1910-einwohner-107-010,1910,107,einwohner,10,10,person,,0,Fuchs,,,,Franz,,,,Mechaniker,,,1,,"Schärtenstrasse, Wettingen",498,,,"qwen3.8-27b, Bild 2x",high,,"Fuchs, Franz, Mechaniker, Schärtenstrasse 498, Wettingen",Wettingen,
+1910-einwohner-107-010,1910,107,einwohner,10,10,person,,0,Fuchs,,,,Franz,,,,Mechaniker,,,1,,Schärtenstrasse,498,,,"qwen3.8-27b, Bild 2x",high,,"Fuchs, Franz, Mechaniker, Schärtenstrasse 498, Wettingen",Wettingen,
 1910-einwohner-107-011,1910,107,einwohner,11,11,person,,0,Fürer,,,,Vinzenz,,,,Spengler,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Fürer, Vinzenz, Spengler, Kloster",Wettingen,
 1910-einwohner-107-012,1910,107,einwohner,12,12,person,,0,Furter,,,,,,,,Postbureau,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Furter, Postbureau, Kloster",Wettingen,
 1910-einwohner-107-013,1910,107,einwohner,13,13,person,,0,Galeazzi,,,,Salvatori,,,,Schuhmacher,,,1,,,401,,,"qwen3.8-27b, Bild 2x",high,,"Galeazzi, Salvatori, Schuhmacher, Langenstein 401",Wettingen,
@@ -6762,27 +6762,27 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-107-018,1910,107,einwohner,18,18,person,,0,Ganna,,,,Joh,,,,Baumeister,,,1,,Dorf,,1,,"qwen3.8-27b, Bild 2x",high,,"Ganna, Joh., Baumeister, Dorf H. ☎",Wettingen,
 1910-einwohner-107-019,1910,107,einwohner,19,19,person,,0,Ganz,,,,Jakob,,,,Bautechnisches Bureau und Kunststeinfabrikation,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Ganz, Jakob, Bautechnisches Bureau und Kunststeinfabrikation, Dorf",Wettingen,
 1910-einwohner-107-020,1910,107,einwohner,20,20,person,,0,Garganigo,,,,Antonio,,,,Maurer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Garganigo, Antonio, Maurer, Langenstein",Wettingen,
-1910-einwohner-107-021,1910,107,einwohner,21,21,person,,0,Gebhard,,,,Josef,,,,Schlosser,,,1,,"Jakobstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Gebhard, Josef, Schlosser, Jakobstrasse, Wettingen",Wettingen,
+1910-einwohner-107-021,1910,107,einwohner,21,21,person,,0,Gebhard,,,,Josef,,,,Schlosser,,,1,,Jakobstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Gebhard, Josef, Schlosser, Jakobstrasse, Wettingen",Wettingen,
 1910-einwohner-107-022,1910,107,einwohner,22,22,person,,0,Gehrig,,,,Friedr,,,,Lokomotivführer,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Gehrig, Friedr., Lokomotivführer, Dorf",Wettingen,
 1910-einwohner-107-023,1910,107,einwohner,23,23,person,,0,Geissmann,,,,Emil,,,,Elektromonteur,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Geissmann, Emil, Elektromonteur, Dorf",Wettingen,
 1910-einwohner-107-024,1910,107,einwohner,24,24,person,,0,Gerspacher,,,,Ernst,,,,Maler,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Gerspacher, Ernst, Maler, Kloster",Wettingen,
 1910-einwohner-107-025,1910,107,einwohner,25,25,person,,0,Gieck,,,,Joachim,,,,Spengler,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Gieck, Joachim, Spengler, Dorf",Wettingen,
 1910-einwohner-107-026,1910,107,einwohner,26,26,person,,0,Gisel,,,,Hans,,,,Ingenieur,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Gisel, Hans, Ingenieur Langenstein",Wettingen,
-1910-einwohner-107-027,1910,107,einwohner,27,27,person,,0,Giselli,,,,Paul,,,,Schlosser,,,1,,"Jakobstr., Wettingen",505,,,"qwen3.8-27b, Bild 2x",high,,"Giselli, Paul, Schlosser, Jakobstr. 505, Wettingen",Wettingen,
+1910-einwohner-107-027,1910,107,einwohner,27,27,person,,0,Giselli,,,,Paul,,,,Schlosser,,,1,,Jakobstr.,505,,,"qwen3.8-27b, Bild 2x",high,,"Giselli, Paul, Schlosser, Jakobstr. 505, Wettingen",Wettingen,
 1910-einwohner-107-028,1910,107,einwohner,28,28,person,,0,Gläslé,,,,Albert,,,,,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Gläslé, Albert, Langenstein",Wettingen,
 1910-einwohner-107-029,1910,107,einwohner,29,29,person,,0,Glarner,,,,Bernhard,,,,Lokomotivführer,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"Glarner, Bernhard, Lokomotivführer Altenburg",Wettingen,
-1910-einwohner-107-030,1910,107,einwohner,30,30,person,,0,Gloor,,,,Ferdinand,,,,Bureauangestellter,,,1,,"Landstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Gloor, Ferdinand, Bureauangestellter, Landstrasse, Wettingen",Wettingen,
+1910-einwohner-107-030,1910,107,einwohner,30,30,person,,0,Gloor,,,,Ferdinand,,,,Bureauangestellter,,,1,,Landstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Gloor, Ferdinand, Bureauangestellter, Landstrasse, Wettingen",Wettingen,
 1910-einwohner-107-031,1910,107,einwohner,31,31,person,,0,Graf,,,,Hermann,,,,Schuhmacher,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Graf, Hermann, Schuhmacher, Kloster",Wettingen,
-1910-einwohner-107-032,1910,107,einwohner,32,32,person,,0,Gredér,,,,Oskar,,,,Gipser,,,1,,"Heimstr., Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Gredér, Oskar, Gipser, Heimstr., Wettingen",Wettingen,
+1910-einwohner-107-032,1910,107,einwohner,32,32,person,,0,Gredér,,,,Oskar,,,,Gipser,,,1,,Heimstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Gredér, Oskar, Gipser, Heimstr., Wettingen",Wettingen,
 1910-einwohner-107-033,1910,107,einwohner,33,33,person,,0,Grenninger,,,,Andreas,,,,Maurer,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"Grenninger, Andreas, Maurer, Altenburg",Wettingen,
 1910-einwohner-107-034,1910,107,einwohner,34,34,person,,0,Grimm,,,,Johann,,,,Schuhmacher,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Grimm, Johann, Schuhmacher, Langenstein",Wettingen,
-1910-einwohner-107-035,1910,107,einwohner,35,35,person,,0,Gross,,,,Heinrich,,,,Schmied,,,1,,"Jakobstr., Wettingen",502,,,"qwen3.8-27b, Bild 2x",high,,"Gross, Heinrich, Schmied, Jakobstr. 502, Wettingen",Wettingen,
+1910-einwohner-107-035,1910,107,einwohner,35,35,person,,0,Gross,,,,Heinrich,,,,Schmied,,,1,,Jakobstr.,502,,,"qwen3.8-27b, Bild 2x",high,,"Gross, Heinrich, Schmied, Jakobstr. 502, Wettingen",Wettingen,
 1910-einwohner-107-036,1910,107,einwohner,36,36,person,,0,Grossmann,,,,August,,,,Kommis,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Grossmann, August, Kommis, Dorf",Wettingen,
 1910-einwohner-107-037,1910,107,einwohner,37,37,person,,1,Grossmann,1,,,Franz Xaver,,,,Spinner,,,1,,Bahnhofstr.,,,,"qwen3.8-27b, Bild 2x",high,,"— Franz Xaver, Spinner, Bahnhofstr.",Wettingen,
 1910-einwohner-107-038,1910,107,einwohner,38,38,person,,0,Grünenfelder,,,,Joh,,,,Schuhmacher,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Grünenfelder, Joh., Schuhmacher, Dorf",Wettingen,
 1910-einwohner-107-039,1910,107,einwohner,39,39,person,,0,Götze,,,,Karl Paul,,,,Holzarbeiter,,,1,,,265,,,"qwen3.8-27b, Bild 2x",high,,"Götze, Karl Paul, Holzarbeiter, Langenstein 265",Wettingen,
 1910-einwohner-107-040,1910,107,einwohner,40,40,person,,0,Gorini,,,,Giuseppe,,,,Maurer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Gorini, Giuseppe, Maurer, Langenstein",Wettingen,
-1910-einwohner-107-041,1910,107,einwohner,41,41,person,,0,Gschwind,,,,Arnold,,,,Schneidermeister,,,1,,"Klosterstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Gschwind, Arnold, Schneidermeister, Klosterstrasse, Wettingen",Wettingen,
+1910-einwohner-107-041,1910,107,einwohner,41,41,person,,0,Gschwind,,,,Arnold,,,,Schneidermeister,,,1,,Klosterstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Gschwind, Arnold, Schneidermeister, Klosterstrasse, Wettingen",Wettingen,
 1910-einwohner-107-042,1910,107,einwohner,42,42,person,,0,Gubler,,,,Ernst,,,,Techniker,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Gubler, Ernst, Techniker, Langenstein",Wettingen,
 1910-einwohner-107-043,1910,107,einwohner,43,43,person,,0,Güller,,,,Gotthard,,,,Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Güller, Gotthard, Landwirt, Langenstein",Wettingen,
 1910-einwohner-107-044,1910,107,einwohner,44,44,person,,1,Güller,1,,,Karl,,,,Wegknecht,,,1,,im Aesch,,,,"qwen3.8-27b, Bild 2x",medium,,"— Karl, Wegknecht, im Aesch",Wettingen,street_rare
@@ -6791,8 +6791,8 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-107-047,1910,107,einwohner,47,47,person,,0,Günthard,,,,Jakob,,,,Bäcker,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Günthard, Jakob, Bäcker, Langenstein",Wettingen,
 1910-einwohner-107-048,1910,107,einwohner,48,48,person,,0,Guggerli,,,,,,Witwe,,Wirtin,,,1,,zum „Winkelried“,,1,,"qwen3.8-27b, Bild 2x",medium,,"Guggerli, Witwe, Wirtin zum „Winkelried“ ☎",Wettingen,street_rare
 1910-einwohner-107-049,1910,107,einwohner,49,49,person,,0,Gygax,,,,Ernst,,,,Zugführer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Gygax, Ernst, Zugführer Kloster",Wettingen,
-1910-einwohner-107-050,1910,107,einwohner,50,50,person,,0,Haas,,,,Franz,,,,Bäcker,,,1,,"zur Sonne, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Haas, Franz, Bäcker, zur Sonne, Wettingen",Wettingen,
-1910-einwohner-107-051,1910,107,einwohner,51,51,person,,0,Habermann,,,,Heinrich,,,,Ingenieur,,,1,,"Albertstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Habermann, Heinrich, Ingenieur, Albertstrasse, Wettingen",Wettingen,
+1910-einwohner-107-050,1910,107,einwohner,50,50,person,,0,Haas,,,,Franz,,,,Bäcker,,,1,,zur Sonne,,,,"qwen3.8-27b, Bild 2x",high,,"Haas, Franz, Bäcker, zur Sonne, Wettingen",Wettingen,
+1910-einwohner-107-051,1910,107,einwohner,51,51,person,,0,Habermann,,,,Heinrich,,,,Ingenieur,,,1,,Albertstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Habermann, Heinrich, Ingenieur, Albertstrasse, Wettingen",Wettingen,
 1910-einwohner-107-052,1910,107,einwohner,52,52,person,,0,Hächler,,,,Edwin,,,,Schlosser,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Hächler, Edwin, Schlosser, Langenstein",Wettingen,
 1910-einwohner-107-053,1910,107,einwohner,53,53,person,,0,Häfeli,,,,Gottfr,,,,Maler,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Häfeli, Gottfr., Maler, Kloster",Wettingen,
 1910-einwohner-107-054,1910,107,einwohner,54,54,person,,1,Häfeli,1,,,Huldreich,,,,Metzger und Pächter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Huldreich, Metzger und Pächter",Wettingen,
@@ -6805,8 +6805,8 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-107-061,1910,107,einwohner,61,61,person,,0,Haller,,,,Adolf,,,,Heizer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Haller, Adolf, Heizer, Kloster",Wettingen,
 1910-einwohner-107-062,1910,107,einwohner,62,62,person,,1,Haller,1,,,Adolf,,,,Landwirt,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Adolf, Landwirt, Wettingen",Wettingen,
 1910-einwohner-107-063,1910,107,einwohner,63,63,person,,1,Haller,1,,,Aug,,,,Heizer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Aug., Heizer, Kloster",Wettingen,
-1910-einwohner-107-064,1910,107,einwohner,64,64,person,,1,Haller,1,,,Hans,,,,Monteur,,,1,,"Austrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Hans, Monteur, Austrasse, Wettingen",Wettingen,
-1910-einwohner-107-065,1910,107,einwohner,65,65,person,,0,Halter,,,,Hermann,,,,Schlosser,,,1,,"Austrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Halter, Hermann, Schlosser, Austrasse, Wettingen",Wettingen,
+1910-einwohner-107-064,1910,107,einwohner,64,64,person,,1,Haller,1,,,Hans,,,,Monteur,,,1,,Austrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Hans, Monteur, Austrasse, Wettingen",Wettingen,
+1910-einwohner-107-065,1910,107,einwohner,65,65,person,,0,Halter,,,,Hermann,,,,Schlosser,,,1,,Austrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Halter, Hermann, Schlosser, Austrasse, Wettingen",Wettingen,
 1910-einwohner-107-066,1910,107,einwohner,66,66,person,,0,Hasler,,,,Friedrich,,,,Seminarverwalter,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Hasler, Friedrich, Seminarverwalter, Kloster",Wettingen,
 1910-einwohner-107-067,1910,107,einwohner,67,67,person,,0,Hausen,,,,Andreas,,,,Zimmermann,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Hausen, Andreas, Zimmermann, Langenstein",Wettingen,
 1910-einwohner-107-068,1910,107,einwohner,68,68,person,,0,Hauser,,,,Theodor,,,,Maurer,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Hauser, Theodor, Maurer, Dorf",Wettingen,
@@ -6891,10 +6891,10 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-108-062,1910,108,einwohner,62,62,person,,1,Kleiner,1,,,Gottfr,,,,Techniker,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Gottfr., Techniker, Kloster",Wettingen,
 1910-einwohner-108-063,1910,108,einwohner,63,63,person,,0,Kniehbiehler,,,,Friedrich,,,,Ingenieur,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Kniehbiehler, Friedrich, Ingenieur, Langenstein",Wettingen,
 1910-einwohner-108-064,1910,108,einwohner,64,64,person,,0,Koch,,,,Josef,,,,Metzger,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Koch, Josef, Metzger, Dorf",Wettingen,
-1910-einwohner-108-065,1910,108,einwohner,65,65,person,,0,Kohler,,,,Hans,,,,Bahnangestellter,,,1,,"Schar tenstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Kohler, Hans, Bahnangestellter, Schar tenstrasse, Wettingen",Wettingen,
+1910-einwohner-108-065,1910,108,einwohner,65,65,person,,0,Kohler,,,,Hans,,,,Bahnangestellter,,,1,,Schar tenstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Kohler, Hans, Bahnangestellter, Schar tenstrasse, Wettingen",Wettingen,
 1910-einwohner-108-066,1910,108,einwohner,66,66,person,,1,Kohler,1,,,Isidor,,,,Baumeister,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Isidor, Baumeister, Langenstein H.",Wettingen,
-1910-einwohner-108-067,1910,108,einwohner,67,67,firma,,0,Konsum-Verein Wettingen-Kloster,,,,,,,,,,,1,,H.,,,,"qwen3.8-27b, Bild 2x",high,,Konsum-Verein Wettingen-Kloster H.,Wettingen,
-1910-einwohner-108-068,1910,108,einwohner,68,68,firma,,0,Konsum-Verein Wett'gen-Langenstein,,,,,,,,,,,1,,H.,,,,"qwen3.8-27b, Bild 2x",high,,Konsum-Verein Wett'gen-Langenstein H.,Wettingen,
+1910-einwohner-108-067,1910,108,einwohner,67,67,firma,,0,Konsum-Verein Wettingen-Kloster,,,,,,,,,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,Konsum-Verein Wettingen-Kloster H.,Wettingen,
+1910-einwohner-108-068,1910,108,einwohner,68,68,firma,,0,Konsum-Verein Wett'gen-Langenstein,,,,,,,,,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,Konsum-Verein Wett'gen-Langenstein H.,Wettingen,
 1910-einwohner-108-069,1910,108,einwohner,69,69,person,,0,Kramer,,,,Johann,,,,Accordant,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Kramer, Johann, Accordant",Wettingen,
 1910-einwohner-108-070,1910,108,einwohner,70,70,person,,1,Kramer,1,,,Rob,,,,Monteur,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Rob., Monteur, Dorf",Wettingen,
 1910-einwohner-108-071,1910,108,einwohner,71,71,person,,0,Küng,,,,Joh,,,,Schreiner,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Küng, Joh., Schreiner, Langenstein",Wettingen,
@@ -6929,7 +6929,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-109-002,1910,109,einwohner,2,2,person,,1,Meier,1,,,Bernhard,,,,Briefträger,,,1,,"Dorf, Landstrasse",,,,"qwen3.8-27b, Bild 2x",high,,"— Bernhard, Briefträger, Dorf, Landstrasse",Wettingen,
 1910-einwohner-109-003,1910,109,einwohner,3,3,person,,1,Meier,1,,,Eduard,,,,Fuhrhalter,,,1,,Geiswis,,,,"qwen3.8-27b, Bild 2x",high,,"— Eduard, Fuhrhalter, Geiswis",Wettingen,
 1910-einwohner-109-004,1910,109,einwohner,4,4,person,,1,Meier,1,,,Eduard,,,,Landwirt,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Eduard, Landwirt, Dorf",Wettingen,
-1910-einwohner-109-005,1910,109,einwohner,5,5,person,,1,Meier,1,,,Emil,,,,Schlosser,,,1,,"Albertstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Emil, Schlosser, Albertstrasse, Wettingen",Wettingen,
+1910-einwohner-109-005,1910,109,einwohner,5,5,person,,1,Meier,1,,,Emil,,,,Schlosser,,,1,,Albertstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Emil, Schlosser, Albertstrasse, Wettingen",Wettingen,
 1910-einwohner-109-006,1910,109,einwohner,6,6,person,,1,Meier,1,,,Franz,,,,Fuhrhalter,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Franz, Fuhrhalter, Dorf",Wettingen,
 1910-einwohner-109-007,1910,109,einwohner,7,7,person,,1,Meier,1,,,Gallus,,,,Spinner,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Gallus, Spinner, Kloster",Wettingen,
 1910-einwohner-109-008,1910,109,einwohner,8,8,person,,1,Meier,1,,,Hermann,,,,Dreher,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Hermann, Dreher, Dorf",Wettingen,
@@ -6940,7 +6940,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-109-013,1910,109,einwohner,13,13,person,,1,Meier,1,,,Johann,,,,Lokomotivführer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Johann, Lokomotivführer, Kloster",Wettingen,
 1910-einwohner-109-014,1910,109,einwohner,14,14,person,,1,Meier,1,,,J,,,,Polizist,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— J., Polizist, Dorf",Wettingen,
 1910-einwohner-109-015,1910,109,einwohner,15,15,person,,1,Meier,1,,,Joh,,,,Schlosser,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Joh., Schlosser, Dorf",Wettingen,
-1910-einwohner-109-016,1910,109,einwohner,16,16,person,,1,Meier,1,,,Joh. Silvan,,,,Fabrikarbeiter,,,1,,"Landstrasse, Wettingen",268,,,"qwen3.8-27b, Bild 2x",high,,"— Joh. Silvan, Fabrikarbeiter, Landstrasse 268, Wettingen",Wettingen,
+1910-einwohner-109-016,1910,109,einwohner,16,16,person,,1,Meier,1,,,Joh. Silvan,,,,Fabrikarbeiter,,,1,,Landstrasse,268,,,"qwen3.8-27b, Bild 2x",high,,"— Joh. Silvan, Fabrikarbeiter, Landstrasse 268, Wettingen",Wettingen,
 1910-einwohner-109-017,1910,109,einwohner,17,17,person,,1,Meier,1,,,Josef,,,,Landwirt,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Landwirt, Dorf",Wettingen,
 1910-einwohner-109-018,1910,109,einwohner,18,18,person,,1,Meier,1,,,Josef,,,,Zimmermann,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Zimmermann, Dorf",Wettingen,
 1910-einwohner-109-019,1910,109,einwohner,19,19,person,,1,Meier,1,,,Julius,,,,Landwirt,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Julius, Landwirt, Dorf",Wettingen,
@@ -6948,7 +6948,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-109-021,1910,109,einwohner,21,21,person,,1,Meier,1,,,Robert,,,,Hauptmann,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Robert, Hauptmann, Dorf",Wettingen,
 1910-einwohner-109-022,1910,109,einwohner,22,22,person,,1,Meier,1,,,Rob,,,,Schreiner und Wirt,,,1,,"Kloster, Restaurant Klosterstübli",,,,"qwen3.8-27b, Bild 2x",medium,,"— Rob., Schreiner und Wirt, Kloster, Restaurant Klosterstübli",Wettingen,street_rare
 1910-einwohner-109-023,1910,109,einwohner,23,23,person,,1,Meier,1,,,Xaver,,,,Gemeinderat,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Xaver, Gemeinderat, Dorf",Wettingen,
-1910-einwohner-109-024,1910,109,einwohner,24,24,person,,1,Meier,1,,,Jak,Meister,,,Dreher,,,1,,"Klosterstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Meister, Jak., Dreher, Klosterstrasse, Wettingen",Wettingen,
+1910-einwohner-109-024,1910,109,einwohner,24,24,person,,1,Meier,1,,,Jak,Meister,,,Dreher,,,1,,Klosterstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Meister, Jak., Dreher, Klosterstrasse, Wettingen",Wettingen,
 1910-einwohner-109-025,1910,109,einwohner,25,25,person,,0,Mengozzo,,,,Antonio,,,,Maurer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Mengozzo, Antonio, Maurer, Langenstein",Wettingen,
 1910-einwohner-109-026,1910,109,einwohner,26,26,person,,0,Merkli,,,,Adolf,,,,Bahnarbeiter,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Merkli, Adolf, Bahnarbeiter, Dorf",Wettingen,
 1910-einwohner-109-027,1910,109,einwohner,27,27,person,,1,Merkli,1,,,Albrik,,,,Zimmermeister,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Albrik, Zimmermeister",Wettingen,
@@ -6961,7 +6961,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-109-034,1910,109,einwohner,34,34,person,,1,Merkli,1,,,Josef,,,,Schlosser,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Schlosser, Dorf",Wettingen,
 1910-einwohner-109-035,1910,109,einwohner,35,35,person,,1,Merkli,1,,,Isidor,,,,Landwirt,,,1,,Aesch,,,,"qwen3.8-27b, Bild 2x",high,,"— Isidor, Landwirt, Aesch",Wettingen,
 1910-einwohner-109-036,1910,109,einwohner,36,36,person,,1,Merkli,1,,,Walther,,,,Sekretär,,,1,,Aesch,,,,"qwen3.8-27b, Bild 2x",high,,"— Walther, Sekretär, Aesch",Wettingen,
-1910-einwohner-109-037,1910,109,einwohner,37,37,person,,0,Metzger,,,,Karl,,,,Mechaniker,,,1,,"Schar tenstrasse, Wettingen",405,,,"qwen3.8-27b, Bild 2x",high,,"Metzger, Karl, Mechaniker, Schar tenstrasse 405, Wettingen",Wettingen,
+1910-einwohner-109-037,1910,109,einwohner,37,37,person,,0,Metzger,,,,Karl,,,,Mechaniker,,,1,,Schar tenstrasse,405,,,"qwen3.8-27b, Bild 2x",high,,"Metzger, Karl, Mechaniker, Schar tenstrasse 405, Wettingen",Wettingen,
 1910-einwohner-109-038,1910,109,einwohner,38,38,person,,0,Meyer,,,,Josef,,,,Wirt,,,1,,Gaiswies,,,,"qwen3.8-27b, Bild 2x",medium,,"Meyer, Josef, Wirt, Gaiswies",Wettingen,street_rare
 1910-einwohner-109-039,1910,109,einwohner,39,39,person,,1,Meyer,1,,,Josef,,,,Jagdaufseher,,,1,,Mooshalde,,,,"qwen3.8-27b, Bild 2x",medium,,"— Josef, Jagdaufseher, Mooshalde",Wettingen,street_rare
 1910-einwohner-109-040,1910,109,einwohner,40,40,person,,1,Meyer,1,,,Wilhelm,,,,Fremdenschriftenführer u. Polizist,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Wilhelm, Fremdenschriftenführer u. Polizist, Wettingen",Wettingen,
@@ -6972,7 +6972,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-109-045,1910,109,einwohner,45,45,person,,0,Morell,,,,Eugen,,,,Schuhmacher,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Morell, Eugen, Schuhmacher, Dorf",Wettingen,
 1910-einwohner-109-046,1910,109,einwohner,46,46,person,,1,Morell,1,,,Gottfr,,,,Bureauangest.,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Gottfr., Bureauangest., Wettingen",Wettingen,
 1910-einwohner-109-047,1910,109,einwohner,47,47,person,,0,Most,,,,Albert,,,,Fabrikarbeiter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Most, Albert, Fabrikarbeiter, Langenstein",Wettingen,
-1910-einwohner-109-048,1910,109,einwohner,48,48,person,,0,Mühlemann,,,,Friedr,,,,Schlosser,,,1,,"Austr., Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Mühlemann, Friedr., Schlosser, Austr., Wettingen",Wettingen,
+1910-einwohner-109-048,1910,109,einwohner,48,48,person,,0,Mühlemann,,,,Friedr,,,,Schlosser,,,1,,Austr.,,,,"qwen3.8-27b, Bild 2x",high,,"Mühlemann, Friedr., Schlosser, Austr., Wettingen",Wettingen,
 1910-einwohner-109-049,1910,109,einwohner,49,49,person,,0,Müller,,,,Albert,,,,Repareteur,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Müller, Albert, Repareteur",Wettingen,
 1910-einwohner-109-050,1910,109,einwohner,50,50,person,,1,Müller,1,,,Bernhard,,,,Schreiner,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Bernhard, Schreiner, Dorf",Wettingen,
 1910-einwohner-109-051,1910,109,einwohner,51,51,person,,1,Müller,1,,,Friedr,,,,Zimmermann,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Friedr., Zimmermann, Langenstein",Wettingen,
@@ -6996,17 +6996,17 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-109-069,1910,109,einwohner,69,69,person,,1,Oeschger,1,,,Josef,,,,Dreher,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Dreher, Dorf",Wettingen,
 1910-einwohner-109-070,1910,109,einwohner,70,70,person,,0,Othlinghaus,,,,Heinrich,,,,Gärtner,,,1,,Seminar,,,,"qwen3.8-27b, Bild 2x",medium,,"Othlinghaus, Heinrich, Gärtner, Seminar",Wettingen,street_rare
 1910-einwohner-109-071,1910,109,einwohner,71,71,person,,0,Oser,,,,Ludwig,,,,Schlosser,,,1,,Aesch,,,,"qwen3.8-27b, Bild 2x",high,,"Oser, Ludwig, Schlosser, Aesch",Wettingen,
-1910-einwohner-109-072,1910,109,einwohner,72,72,person,,0,Ott,,,,Gottfried,,,,Fabrikarbeiter,,,1,,"Heimstrasse, Wettingen",602,,,"qwen3.8-27b, Bild 2x",high,,"Ott, Gottfried, Fabrikarbeiter, Heimstrasse 602, Wettingen",Wettingen,
+1910-einwohner-109-072,1910,109,einwohner,72,72,person,,0,Ott,,,,Gottfried,,,,Fabrikarbeiter,,,1,,Heimstrasse,602,,,"qwen3.8-27b, Bild 2x",high,,"Ott, Gottfried, Fabrikarbeiter, Heimstrasse 602, Wettingen",Wettingen,
 1910-einwohner-109-073,1910,109,einwohner,73,73,person,,0,Otto,,,,Christian,,,,,,,1,,"bei Häfeli, Metzger",,,,"qwen3.8-27b, Bild 2x",medium,,"Otto, Christian, bei Häfeli, Metzger",Wettingen,street_rare
 1910-einwohner-109-074,1910,109,einwohner,74,74,person,,0,Pfister,,,,Hermann,,,,Schreiner und Wirt,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Pfister, Hermann, Schreiner und Wirt, Dorf",Wettingen,
 1910-einwohner-109-075,1910,109,einwohner,75,75,person,,0,Pfiffer,,,,Ivo,,,,Seminarlehrer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Pfiffer, Ivo, Seminarlehrer, Kloster",Wettingen,
-1910-einwohner-109-076,1910,109,einwohner,76,76,person,,0,Pletscher,,,,Georg,,,,Ingenieur,,,1,,"Klosterstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Pletscher, Georg, Ingenieur, Klosterstrasse, Wettingen",Wettingen,
+1910-einwohner-109-076,1910,109,einwohner,76,76,person,,0,Pletscher,,,,Georg,,,,Ingenieur,,,1,,Klosterstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Pletscher, Georg, Ingenieur, Klosterstrasse, Wettingen",Wettingen,
 1910-einwohner-109-077,1910,109,einwohner,77,77,person,,0,Poli,,,,Franz,,,,Bäcker,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"Poli, Franz, Bäcker, Altenburg",Wettingen,
 1910-einwohner-109-078,1910,109,einwohner,78,78,person,,1,Poli,1,,,Franz,,,,Schlosser,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Franz, Schlosser, Langenstein",Wettingen,
 1910-einwohner-109-079,1910,109,einwohner,79,79,person,,0,Reidt,,,,Konrad,,,,Schreiner,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Reidt, Konrad, Schreiner, Langenstein",Wettingen,
 1910-einwohner-109-080,1910,109,einwohner,80,80,person,,0,Reimann,,,,"Franz, Josef",,,,Unternehmer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Reimann, Franz, Josef, Unternehmer, Langenstein",Wettingen,
 1910-einwohner-109-081,1910,109,einwohner,81,81,person,,0,Reimprecht,,,,Franz,,,,Brauer,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"Reimprecht, Franz, Brauer, Altenburg",Wettingen,
-1910-einwohner-109-082,1910,109,einwohner,82,82,person,,0,Reinhard,,,,Gotthard,,,,Gärtner,,,1,,"Schönaustrasse, Wettingen",607,,,"qwen3.8-27b, Bild 2x",high,,"Reinhard, Gotthard, Gärtner, Schönaustrasse 607, Wettingen",Wettingen,
+1910-einwohner-109-082,1910,109,einwohner,82,82,person,,0,Reinhard,,,,Gotthard,,,,Gärtner,,,1,,Schönaustrasse,607,,,"qwen3.8-27b, Bild 2x",high,,"Reinhard, Gotthard, Gärtner, Schönaustrasse 607, Wettingen",Wettingen,
 1910-einwohner-109-083,1910,109,einwohner,83,83,person,,0,Renold,,,,Jakob,,,,Gärtner,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Renold, Jakob, Gärtner, Langenstein",Wettingen,
 1910-einwohner-109-084,1910,109,einwohner,84,84,person,,0,Ribary,,,,Ulrich,Dr. med.,,,,,,1,,Kloster,,1,,"qwen3.8-27b, Bild 2x",high,,"Ribary, Ulrich, Dr. med., Kloster ☎",Wettingen,
 1910-einwohner-109-085,1910,109,einwohner,85,85,person,,0,Richner,,,,Hans,,,,Metzgermeister,,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Richner, Hans, Metzgermeister, Langenstein ☎",Wettingen,
@@ -7015,7 +7015,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-109-088,1910,109,einwohner,88,88,person,,0,Riser,,,,Adolf,,,,Monteur,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Riser, Adolf, Monteur, Langenstein",Wettingen,
 1910-einwohner-109-089,1910,109,einwohner,89,89,person,,0,Rizzardo,,,,Valentin,,,,Maurer,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Rizzardo, Valentin, Maurer, Dorf",Wettingen,
 1910-einwohner-109-090,1910,109,einwohner,90,90,person,,0,Rohner,,,,Bernhard,,,,Ziegelei,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Rohner, Bernhard, Ziegelei, Wettingen",Wettingen,
-1910-einwohner-109-091,1910,109,einwohner,91,91,person,,0,Rolle,,,,Gustav,,,,Maler,,,1,,"Schar tenstrasse, Wettingen",,,H.,"qwen3.8-27b, Bild 2x",high,,"Rolle, Gustav, Maler, Schar tenstrasse, Wettingen",Wettingen,
+1910-einwohner-109-091,1910,109,einwohner,91,91,person,,0,Rolle,,,,Gustav,,,,Maler,,,1,,Schar tenstrasse,,,H.,"qwen3.8-27b, Bild 2x",high,,"Rolle, Gustav, Maler, Schar tenstrasse, Wettingen",Wettingen,
 1910-einwohner-109-092,1910,109,einwohner,92,92,person,,0,Rosenbaum,,,,Joh,,,,Coiffeur,,,1,,,,,H.,"qwen3.8-27b, Bild 2x",high,,"Rosenbaum, Joh, Coiffeur, Langenstein",Wettingen,
 1910-einwohner-110-001,1910,110,einwohner,1,1,person,,0,Rosengarten,,,,,,,,"Gasthaus z., Jos. Laubi-Mäder, Bes.",,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Rosengarten, Gasthaus z., Jos. Laubi-Mäder, Bes.",Wettingen,
 1910-einwohner-110-002,1910,110,einwohner,2,2,person,,0,Rossi,,,,Egidio,,,,Fabrikarbeiter,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Rossi, Egidio, Fabrikarbeiter, Dorf",Wettingen,
@@ -7023,7 +7023,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-110-004,1910,110,einwohner,4,4,person,,0,Roth,,,,Gottfried,,,,Techniker,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Roth, Gottfried, Techniker, Kloster",Wettingen,
 1910-einwohner-110-005,1910,110,einwohner,5,5,person,,0,Rothenfluh,,,,Aug,,,,Schlosser,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Rothenfluh, Aug., Schlosser, Kloster",Wettingen,
 1910-einwohner-110-006,1910,110,einwohner,6,6,person,,1,Rothenfluh,1,,,Karl,,,,Schlosser,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Karl, Schlosser, Kloster",Wettingen,
-1910-einwohner-110-007,1910,110,einwohner,7,7,person,,0,Rottenmauer,,,,Heinrich,,,,Schuhmacher,,,1,,"Heimstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Rottenmauer, Heinrich, Schuhmacher, Heimstrasse, Wettingen",Wettingen,
+1910-einwohner-110-007,1910,110,einwohner,7,7,person,,0,Rottenmauer,,,,Heinrich,,,,Schuhmacher,,,1,,Heimstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Rottenmauer, Heinrich, Schuhmacher, Heimstrasse, Wettingen",Wettingen,
 1910-einwohner-110-008,1910,110,einwohner,8,8,person,,0,Ruef,,,,Friedr,,,,Photograph,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Ruef, Friedr., Photograph, Wettingen",Wettingen,
 1910-einwohner-110-009,1910,110,einwohner,9,9,person,,0,Rüesch,,,,Albert,,,,Dachdecker,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Rüesch, Albert, Dachdecker, Langenstein",Wettingen,
 1910-einwohner-110-010,1910,110,einwohner,10,10,person,,0,Rupp,,,,Tiber,,,,Spengler,,,1,,Rosengarten,,,,"qwen3.8-27b, Bild 2x",high,,"Rupp, Tiber, Spengler, Rosengarten",Wettingen,
@@ -7047,24 +7047,24 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-110-028,1910,110,einwohner,28,28,person,,0,Schmied,,,,Hans,,,,Wirt z. Sternen,,,1,,Kloster,,1,,"qwen3.8-27b, Bild 2x",high,,"Schmied, Hans, Wirt z. Sternen, Kloster ☎",Wettingen,
 1910-einwohner-110-029,1910,110,einwohner,29,29,person,,0,Schmidt,,,,Emil,,,,Schlosser,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Schmidt, Emil, Schlosser, Langenstein",Wettingen,
 1910-einwohner-110-030,1910,110,einwohner,30,30,person,,0,Schneider,,,,Albert,,,,Zimmermann,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Schneider, Albert, Zimmermann, Langenstein",Wettingen,
-1910-einwohner-110-031,1910,110,einwohner,31,31,person,,1,Schneider,1,,,Franz,,,,Schuhmacher,,,1,,"Heimstr., Wettingen",583,,,"qwen3.8-27b, Bild 2x",high,,"— Franz, Schuhmacher, Heimstr. 583, Wettingen",Wettingen,
-1910-einwohner-110-032,1910,110,einwohner,32,32,person,,1,Schneider,1,,,Hermann,,,,Briefträger,,,1,,"Austrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Hermann, Briefträger, Austrasse, Wettingen",Wettingen,
+1910-einwohner-110-031,1910,110,einwohner,31,31,person,,1,Schneider,1,,,Franz,,,,Schuhmacher,,,1,,Heimstr.,583,,,"qwen3.8-27b, Bild 2x",high,,"— Franz, Schuhmacher, Heimstr. 583, Wettingen",Wettingen,
+1910-einwohner-110-032,1910,110,einwohner,32,32,person,,1,Schneider,1,,,Hermann,,,,Briefträger,,,1,,Austrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Hermann, Briefträger, Austrasse, Wettingen",Wettingen,
 1910-einwohner-110-033,1910,110,einwohner,33,33,person,,1,Schneider,1,,,Samuel,,,,Schreiner,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"— Samuel, Schreiner, Altenburg",Wettingen,
 1910-einwohner-110-034,1910,110,einwohner,34,34,person,,0,Schöttli,,,,Konrad,,,,,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Schöttli, Konrad, Langenstein",Wettingen,
 1910-einwohner-110-035,1910,110,einwohner,35,35,person,,0,Schöttle,,,,Georg,,,,Maurer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Schöttle, Georg, Maurer, Langenstein",Wettingen,
 1910-einwohner-110-036,1910,110,einwohner,36,36,person,,0,Schranner,,,,Bernhard,,,,Bahnarbeiter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Schranner, Bernhard, Bahnarbeiter, Langenstein",Wettingen,
 1910-einwohner-110-037,1910,110,einwohner,37,37,person,,1,Schranner,1,,,Heinrich,,,,Lehrer,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Heinrich, Lehrer, Dorf",Wettingen,
-1910-einwohner-110-038,1910,110,einwohner,38,38,person,,0,Schröder,,,,Ella,,,,Maschinenschreiberin,,,1,,"Austrasse, Wettingen",458,,,"qwen3.8-27b, Bild 2x",high,,"Schröder, Ella, Maschinenschreiberin, Austrasse 458, Wettingen",Wettingen,
+1910-einwohner-110-038,1910,110,einwohner,38,38,person,,0,Schröder,,,,Ella,,,,Maschinenschreiberin,,,1,,Austrasse,458,,,"qwen3.8-27b, Bild 2x",high,,"Schröder, Ella, Maschinenschreiberin, Austrasse 458, Wettingen",Wettingen,
 1910-einwohner-110-039,1910,110,einwohner,39,39,person,,0,Schulthess,,,,Rudolf,,,,Kaufmann,,,1,,Schöneck,570,,,"qwen3.8-27b, Bild 2x",medium,,"Schulthess, Rudolf, Kaufmann, Schöneck 570",Wettingen,street_rare
-1910-einwohner-110-040,1910,110,einwohner,40,40,person,,0,Schwarz,,,,Gottfried,,,,Gasthaus z. Sonne,,,1,,Wettingen H.,,1,,"qwen3.8-27b, Bild 2x",high,,"Schwarz, Gottfried, Gasthaus z. Sonne, Wettingen H. ☎",Wettingen,
+1910-einwohner-110-040,1910,110,einwohner,40,40,person,,0,Schwarz,,,,Gottfried,,,,Gasthaus z. Sonne,,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Schwarz, Gottfried, Gasthaus z. Sonne, Wettingen H. ☎",Wettingen,
 1910-einwohner-110-041,1910,110,einwohner,41,41,person,,0,Schweizer,,,,Mathias,,,,Kondukteur,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Schweizer, Mathias, Kondukteur, Kloster",Wettingen,
 1910-einwohner-110-042,1910,110,einwohner,42,42,person,,0,Schwertfeger,,,,Albert,,,,Wagner,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Schwertfeger, Albert, Wagner, Dorf",Wettingen,
 1910-einwohner-110-043,1910,110,einwohner,43,43,person,,0,Seiler,,,,Karl,,,,Masch.-Techniker,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Seiler, Karl, Masch.-Techniker, Kloster",Wettingen,
-1910-einwohner-110-044,1910,110,einwohner,44,44,person,,0,Seiter,,,,Alexander,,,,Koch,,,1,,"Albertstr., Wettingen",526,,,"qwen3.8-27b, Bild 2x",high,,"Seiter, Alexander, Koch, Albertstr. 526, Wettingen",Wettingen,
+1910-einwohner-110-044,1910,110,einwohner,44,44,person,,0,Seiter,,,,Alexander,,,,Koch,,,1,,Albertstr.,526,,,"qwen3.8-27b, Bild 2x",high,,"Seiter, Alexander, Koch, Albertstr. 526, Wettingen",Wettingen,
 1910-einwohner-110-045,1910,110,einwohner,45,45,person,,0,Senn,,,,Joh,,,,Blattmacher,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Senn, Joh., Blattmacher, Dorf",Wettingen,
 1910-einwohner-110-046,1910,110,einwohner,46,46,person,,0,Sigel,,,,Hermann,,,,Kommis,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Sigel, Hermann, Kommis, Langenstein",Wettingen,
 1910-einwohner-110-047,1910,110,einwohner,47,47,person,,0,Silvestrini,,,,Curico,,,,Maurer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Silvestrini, Curico, Maurer, Langenstein",Wettingen,
-1910-einwohner-110-048,1910,110,einwohner,48,48,person,,0,Simonelli,,,,Joh,,,,Baumeister,,,1,,Wettingen H.,,,,"qwen3.8-27b, Bild 2x",high,,"Simonelli, Joh., Baumeister, Wettingen H.",Wettingen,
+1910-einwohner-110-048,1910,110,einwohner,48,48,person,,0,Simonelli,,,,Joh,,,,Baumeister,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Simonelli, Joh., Baumeister, Wettingen H.",Wettingen,
 1910-einwohner-110-049,1910,110,einwohner,49,49,person,,0,Spälte,,,,Heinrich,,,,Heizer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Spälte, Heinrich, Heizer, Kloster",Wettingen,
 1910-einwohner-110-050,1910,110,einwohner,50,50,person,,0,Spengler,,,,Karl,,,,Metzgermeister,,,1,,Dorf,,1,,"qwen3.8-27b, Bild 2x",high,,"Spengler, Karl, Metzgermeister, Dorf ☎",Wettingen,
 1910-einwohner-110-051,1910,110,einwohner,51,51,person,,0,Spillmann,,,,Julius,,,,Reisender,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Spillmann, Julius, Reisender, Langenstein",Wettingen,
@@ -7082,20 +7082,20 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-110-063,1910,110,einwohner,63,63,person,,1,Spörri,1,,,Josef,,,,Schulabwart,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Schulabwart",Wettingen,
 1910-einwohner-110-064,1910,110,einwohner,64,64,person,,1,Spörri,1,,,Josef,,,,Wasserwart,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Wasserwart, Dorf",Wettingen,
 1910-einwohner-110-065,1910,110,einwohner,65,65,person,,1,Spörri,1,,,Traugott,,,,Landwirt,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Traugott, Landwirt, Dorf",Wettingen,
-1910-einwohner-110-066,1910,110,einwohner,66,66,person,,0,Stauss,,,,Samuel,,,,Schlosser,,,1,,"Heimstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Stauss, Samuel, Schlosser, Heimstrasse, Wettingen",Wettingen,
+1910-einwohner-110-066,1910,110,einwohner,66,66,person,,0,Stauss,,,,Samuel,,,,Schlosser,,,1,,Heimstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Stauss, Samuel, Schlosser, Heimstrasse, Wettingen",Wettingen,
 1910-einwohner-110-067,1910,110,einwohner,67,67,person,,0,Steimer,,,,Abdon,,,,Verwalter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Steimer, Abdon, Verwalter, Langenstein",Wettingen,
 1910-einwohner-110-068,1910,110,einwohner,68,68,person,,1,Steimer,1,,,Bernhard,,,,Landwirt,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Bernhard, Landwirt, Dorf",Wettingen,
-1910-einwohner-110-069,1910,110,einwohner,69,69,person,,1,Steimer,1,,,Karl,,,,Schlosser,,,1,,"Schartenstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Karl, Schlosser, Schartenstrasse, Wettingen",Wettingen,
+1910-einwohner-110-069,1910,110,einwohner,69,69,person,,1,Steimer,1,,,Karl,,,,Schlosser,,,1,,Schartenstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Karl, Schlosser, Schartenstrasse, Wettingen",Wettingen,
 1910-einwohner-110-070,1910,110,einwohner,70,70,person,,1,Steimer,1,,,Josef,,,,Landwirt,,,1,,Oberdorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Landwirt, Oberdorf",Wettingen,
 1910-einwohner-110-071,1910,110,einwohner,71,71,person,,1,Steimer,1,,,Robert,,,,Gasheizer,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Robert, Gasheizer, Dorf",Wettingen,
 1910-einwohner-110-072,1910,110,einwohner,72,72,person,,1,Steimer,1,,,Robert,,,,Landwirt,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Robert, Landwirt, Dorf",Wettingen,
 1910-einwohner-110-073,1910,110,einwohner,73,73,person,,1,Steimer,1,,,Theodor,,,,Landwirt,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Theodor, Landwirt, Dorf",Wettingen,
 1910-einwohner-110-074,1910,110,einwohner,74,74,person,,0,Steinemann,,,,Karl,,,,Maler,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Steinemann, Karl, Maler, Dorf",Wettingen,
-1910-einwohner-110-075,1910,110,einwohner,75,75,person,,0,Stöcker,,,,Fritz,,,,Spengler,,,1,,"Heimstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Stöcker, Fritz, Spengler, Heimstrasse, Wettingen",Wettingen,
+1910-einwohner-110-075,1910,110,einwohner,75,75,person,,0,Stöcker,,,,Fritz,,,,Spengler,,,1,,Heimstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Stöcker, Fritz, Spengler, Heimstrasse, Wettingen",Wettingen,
 1910-einwohner-110-076,1910,110,einwohner,76,76,person,,0,Stöckli,,,,Johann,,,,Bäcker,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Stöckli, Johann, Bäcker, Dorf",Wettingen,
 1910-einwohner-110-077,1910,110,einwohner,77,77,person,,1,Stöckli,1,,,Josef,,,,Bauschlosser,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Bauschlosser, Langenstein",Wettingen,
 1910-einwohner-110-078,1910,110,einwohner,78,78,person,,0,Stöhr,,,,Julius,,,,Schreiner,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Stöhr, Julius, Schreiner, Dorf",Wettingen,
-1910-einwohner-110-079,1910,110,einwohner,79,79,person,,0,Streiff,,,,Fridolin,,,,Mechaniker,,,1,,"Heimstr., Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Streiff, Fridolin, Mechaniker, Heimstr., Wettingen",Wettingen,
+1910-einwohner-110-079,1910,110,einwohner,79,79,person,,0,Streiff,,,,Fridolin,,,,Mechaniker,,,1,,Heimstr.,,,,"qwen3.8-27b, Bild 2x",high,,"Streiff, Fridolin, Mechaniker, Heimstr., Wettingen",Wettingen,
 1910-einwohner-110-080,1910,110,einwohner,80,80,person,,0,Strub,,,,Anton,,,,Lokomotivführer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Strub, Anton, Lokomotivführer, Kloster",Wettingen,
 1910-einwohner-110-081,1910,110,einwohner,81,81,person,,0,Studer,,,,Johann,,,,Dachdecker,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Studer, Johann, Dachdecker, Langenstein",Wettingen,
 1910-einwohner-110-082,1910,110,einwohner,82,82,person,,1,Studer,1,,,Max,,,,Schlosser,,,1,,Schartenstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Max, Schlosser, Schartenstrasse",Wettingen,
@@ -7103,13 +7103,13 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-110-084,1910,110,einwohner,84,84,person,,1,Süssli,1,,,August,,,,Bahnangestellter,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— August, Bahnangestellter, Kloster",Wettingen,
 1910-einwohner-110-085,1910,110,einwohner,85,85,person,,0,Sütterlin,,,,Ernst,,,,Nachtwächter,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Sütterlin, Ernst, Nachtwächter, Langenstein",Wettingen,
 1910-einwohner-110-086,1910,110,einwohner,86,86,person,,0,Suter,,,,Albert,,,,Lehrer,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Suter, Albert, Lehrer, Dorf",Wettingen,
-1910-einwohner-110-087,1910,110,einwohner,87,87,person,,1,Suter,1,,,Heinrich,,,,"Mercerie-, Manufakturwaren-, Schuh- und Spezeriehandlung",,,1,,Kloster H.,,,,"qwen3.8-27b, Bild 2x",medium,,"— Heinrich, Mercerie-, Manufakturwaren-, Schuh- und Spezeriehandlung, Kloster H.",Wettingen,street_rare
+1910-einwohner-110-087,1910,110,einwohner,87,87,person,,1,Suter,1,,,Heinrich,,,,"Mercerie-, Manufakturwaren-, Schuh- und Spezeriehandlung",,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",medium,,"— Heinrich, Mercerie-, Manufakturwaren-, Schuh- und Spezeriehandlung, Kloster H.",Wettingen,street_rare
 1910-einwohner-110-088,1910,110,einwohner,88,88,person,,1,Suter,1,,,Josef,,,,Schmied,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Schmied, Langenstein",Wettingen,
 1910-einwohner-111-001,1910,111,einwohner,1,1,person,,0,Täubele,,,,Friedrich,,,,Techniker,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Täubele, Friedrich, Techniker, Langenstein",Wettingen,
-1910-einwohner-111-002,1910,111,einwohner,2,2,person,,0,Thoman,,,,Friedrich,,,,Bureauangestellter,,,1,,"Austrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Thoman, Friedrich, Bureauangestellter, Austrasse, Wettingen",Wettingen,
+1910-einwohner-111-002,1910,111,einwohner,2,2,person,,0,Thoman,,,,Friedrich,,,,Bureauangestellter,,,1,,Austrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Thoman, Friedrich, Bureauangestellter, Austrasse, Wettingen",Wettingen,
 1910-einwohner-111-003,1910,111,einwohner,3,3,person,,0,Tomas,,,,Xaver,,,,Schreiner,,,1,,Märzengasse Wettingen,,,,"qwen3.8-27b, Bild 2x",medium,,"Tomas, Xaver, Schreiner, Märzengasse Wettingen",Wettingen,street_rare
-1910-einwohner-111-004,1910,111,einwohner,4,4,person,,0,Trachsel,,,,Albert,,,,Heizer,,,1,,"Klosterstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Trachsel, Albert, Heizer, Klosterstrasse, Wettingen",Wettingen,
-1910-einwohner-111-005,1910,111,einwohner,5,5,person,,0,Trinkler,,,,Laurenz,,,,Schmid,,,1,,"Busberg, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Trinkler, Laurenz, Schmid, Busberg, Wettingen",Wettingen,
+1910-einwohner-111-004,1910,111,einwohner,4,4,person,,0,Trachsel,,,,Albert,,,,Heizer,,,1,,Klosterstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Trachsel, Albert, Heizer, Klosterstrasse, Wettingen",Wettingen,
+1910-einwohner-111-005,1910,111,einwohner,5,5,person,,0,Trinkler,,,,Laurenz,,,,Schmid,,,1,,Busberg,,,,"qwen3.8-27b, Bild 2x",high,,"Trinkler, Laurenz, Schmid, Busberg, Wettingen",Wettingen,
 1910-einwohner-111-006,1910,111,einwohner,6,6,person,,0,Trostel,,,,Karl,,,,Spenglermeister,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Trostel, Karl, Spenglermeister, Kloster",Wettingen,
 1910-einwohner-111-007,1910,111,einwohner,7,7,person,,1,Trostel,1,,,Otto,,,,Spengler,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Otto, Spengler, Kloster",Wettingen,
 1910-einwohner-111-008,1910,111,einwohner,8,8,person,,0,Trottman,,,,Gottfr,,,,Briefträger,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Trottman, Gottfr, Briefträger, Kloster",Wettingen,
@@ -7118,7 +7118,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-111-011,1910,111,einwohner,11,11,person,,1,Unvericht,1,,,Hans,,,,Gerichtskassier,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Hans, Gerichtskassier, Dorf",Wettingen,
 1910-einwohner-111-012,1910,111,einwohner,12,12,person,,1,Unvericht,1,,,Robert,,,,Schmied,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Robert, Schmied, Dorf",Wettingen,
 1910-einwohner-111-013,1910,111,einwohner,13,13,person,,0,Urech,,,,Johann,,,,Zimmermann,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Urech, Johann, Zimmermann, Kloster",Wettingen,
-1910-einwohner-111-014,1910,111,einwohner,14,14,person,,1,Urech,1,,,Otto,,,,Maurer,,,1,,"Kloster, Langenstein",,,,"qwen3.8-27b, Bild 2x",high,,"— Otto, Maurer, Kloster, Langenstein",Wettingen,
+1910-einwohner-111-014,1910,111,einwohner,14,14,person,,1,Urech,1,,,Otto,,,,Maurer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Otto, Maurer, Kloster, Langenstein",Wettingen,
 1910-einwohner-111-015,1910,111,einwohner,15,15,person,,0,Ursprung,,,,Josef,,,,Schlosser,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Ursprung, Josef, Schlosser, Dorf",Wettingen,
 1910-einwohner-111-016,1910,111,einwohner,16,16,person,,0,Utzinge,,,,Hans,,,,Kaufmann,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Utzinge, Hans, Kaufmann, Langenstein",Wettingen,
 1910-einwohner-111-017,1910,111,einwohner,17,17,person,,0,Vendrasco,,,,Anton,,,,Maurer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Vendrasco, Anton, Maurer, Wettingen",Wettingen,
@@ -7139,7 +7139,7 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-111-032,1910,111,einwohner,32,32,person,,0,Wey,,,,Josef,,,,Schmied,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Wey, Josef, Schmied, Dorf",Wettingen,
 1910-einwohner-111-033,1910,111,einwohner,33,33,person,,0,Widmer,,,,Albrik,,,,Bahnarbeiter,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"Widmer, Albrik, Bahnarbeiter, Dorf",Wettingen,
 1910-einwohner-111-034,1910,111,einwohner,34,34,person,,1,Widmer,1,,,Gottfried,,,,Schlosser,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Gottfried, Schlosser, Dorf",Wettingen,
-1910-einwohner-111-035,1910,111,einwohner,35,35,person,,1,Widmer,1,,,Hermann,,,,Schreiner,,,1,,"Langstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Hermann, Schreiner, Langstrasse, Wettingen",Wettingen,
+1910-einwohner-111-035,1910,111,einwohner,35,35,person,,1,Widmer,1,,,Hermann,,,,Schreiner,,,1,,Langstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Hermann, Schreiner, Langstrasse, Wettingen",Wettingen,
 1910-einwohner-111-036,1910,111,einwohner,36,36,person,,1,Widmer,1,,,Jos,,,,Giesser,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Jos., Giesser, Dorf",Wettingen,
 1910-einwohner-111-037,1910,111,einwohner,37,37,person,,0,Wiederkehr,,,,Arnold,,,,Coiffeur,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Wiederkehr, Arnold, Coiffeur, Langenstein",Wettingen,
 1910-einwohner-111-038,1910,111,einwohner,38,38,person,,1,Wiederkehr,1,,,Damian,,,,Zimmermann,,,1,,Dorf,,,,"qwen3.8-27b, Bild 2x",high,,"— Damian, Zimmermann, Dorf",Wettingen,
@@ -7147,15 +7147,15 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-111-040,1910,111,einwohner,40,40,person,,1,Wiederkehr,1,,,Heinrich,,,,Maurer,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Heinrich, Maurer, Kloster",Wettingen,
 1910-einwohner-111-041,1910,111,einwohner,41,41,person,,1,Wiederkehr,1,,,Josef,,,,Bäcker,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Josef, Bäcker, Kloster",Wettingen,
 1910-einwohner-111-042,1910,111,einwohner,42,42,person,,1,Wiederkehr,1,,,Rudolf,,,,Schmied,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Rudolf, Schmied, Kloster",Wettingen,
-1910-einwohner-111-043,1910,111,einwohner,43,43,person,,0,Wietlisbach,,,,Josef,,,,Zimmermann,,,1,,"Heimstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Wietlisbach, Josef, Zimmermann, Heimstrasse, Wettingen",Wettingen,
-1910-einwohner-111-044,1910,111,einwohner,44,44,person,,0,Wildt,,,,Albert,,,,Bierbrauer,,,1,,"Klosterstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Wildt, Albert, Bierbrauer, Klosterstrasse, Wettingen",Wettingen,
-1910-einwohner-111-045,1910,111,einwohner,45,45,person,,0,Willi,,,,Albert,,,,Buchdrucker,,,1,,"Austrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"Willi, Albert, Buchdrucker, Austrasse, Wettingen",Wettingen,
+1910-einwohner-111-043,1910,111,einwohner,43,43,person,,0,Wietlisbach,,,,Josef,,,,Zimmermann,,,1,,Heimstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Wietlisbach, Josef, Zimmermann, Heimstrasse, Wettingen",Wettingen,
+1910-einwohner-111-044,1910,111,einwohner,44,44,person,,0,Wildt,,,,Albert,,,,Bierbrauer,,,1,,Klosterstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Wildt, Albert, Bierbrauer, Klosterstrasse, Wettingen",Wettingen,
+1910-einwohner-111-045,1910,111,einwohner,45,45,person,,0,Willi,,,,Albert,,,,Buchdrucker,,,1,,Austrasse,,,,"qwen3.8-27b, Bild 2x",high,,"Willi, Albert, Buchdrucker, Austrasse, Wettingen",Wettingen,
 1910-einwohner-111-046,1910,111,einwohner,46,46,person,,0,Wirz,,,,Hans,,,,Küfer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Wirz, Hans, Küfer",Wettingen,
 1910-einwohner-111-047,1910,111,einwohner,47,47,person,,1,Wirz,1,,,Ludwig,,,,Giesser,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"— Ludwig, Giesser, Altenburg",Wettingen,
 1910-einwohner-111-048,1910,111,einwohner,48,48,person,,0,Wörndle,,,,Joh. Leo,,,,Verwalter,,,1,,Geiswis,,,,"qwen3.8-27b, Bild 2x",high,,"Wörndle, Joh. Leo, Verwalter, Geiswis",Wettingen,
 1910-einwohner-111-049,1910,111,einwohner,49,49,person,,0,Wolf,,,,Leonhard,,,,Kontorist,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Wolf, Leonhard, Kontorist, Kloster",Wettingen,
 1910-einwohner-111-050,1910,111,einwohner,50,50,person,,0,Würsch,,,,Bernhard,,,,Landwirt,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Würsch, Bernhard, Landwirt, Kloster",Wettingen,
-1910-einwohner-111-051,1910,111,einwohner,51,51,person,,1,Würsch,1,,,,,Witwe,,Wirtin,,,1,,"Bahnrestaurant, Wettingen",,1,,"qwen3.8-27b, Bild 2x",high,,"— Witwe, Wirtin, Bahnrestaurant, Wettingen ☎",Wettingen,
+1910-einwohner-111-051,1910,111,einwohner,51,51,person,,1,Würsch,1,,,,,Witwe,,Wirtin,,,1,,Bahnrestaurant,,1,,"qwen3.8-27b, Bild 2x",high,,"— Witwe, Wirtin, Bahnrestaurant, Wettingen ☎",Wettingen,
 1910-einwohner-111-052,1910,111,einwohner,52,52,person,,1,Würsch,1,,,Alfred,Dr.,,,Fürsprech,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"— Alfred, Dr., Fürsprech, Kloster",Wettingen,
 1910-einwohner-111-053,1910,111,einwohner,53,53,person,,0,Zäh,,,,Otto,,,,Brauer,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Zäh, Otto, Brauer, Langenstein",Wettingen,
 1910-einwohner-111-054,1910,111,einwohner,54,54,person,,0,Zangerl,,,,Christian,,,,Monteur,,,1,,Rosengarten,,,,"qwen3.8-27b, Bild 2x",high,,"Zangerl, Christian, Monteur, Rosengarten",Wettingen,
@@ -7169,12 +7169,12 @@ entry_id,volume,page,section,line_from,line_to,entry_type,citizen_flag,dash_pref
 1910-einwohner-111-062,1910,111,einwohner,62,62,person,,0,Zeller,,,,Emil,,,,Monteur,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Zeller, Emil, Monteur, Kloster",Wettingen,
 1910-einwohner-111-063,1910,111,einwohner,63,63,person,,0,Ziegra,,,,Karl,,,,Schlosser,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"Ziegra, Karl, Schlosser, Altenburg",Wettingen,
 1910-einwohner-111-064,1910,111,einwohner,64,64,person,,1,Ziegra,1,,,Max,,,,Schriftsetzer,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"— Max, Schriftsetzer, Altenburg",Wettingen,
-1910-einwohner-111-065,1910,111,einwohner,65,65,person,,1,Ziegra,1,,,Paul,,,,Monteur,,,1,,"Klosterstrasse, Wettingen",,,,"qwen3.8-27b, Bild 2x",high,,"— Paul, Monteur, Klosterstrasse, Wettingen",Wettingen,
+1910-einwohner-111-065,1910,111,einwohner,65,65,person,,1,Ziegra,1,,,Paul,,,,Monteur,,,1,,Klosterstrasse,,,,"qwen3.8-27b, Bild 2x",high,,"— Paul, Monteur, Klosterstrasse, Wettingen",Wettingen,
 1910-einwohner-111-066,1910,111,einwohner,66,66,person,,0,Zimmermann,,,,Robert,,,,Zimmermann,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Zimmermann, Robert, Zimmermann, Kloster",Wettingen,
 1910-einwohner-111-067,1910,111,einwohner,67,67,person,,0,Zubler,,,,Ernst,,,,Techniker,,,1,,,,,,"qwen3.8-27b, Bild 2x",high,,"Zubler, Ernst, Techniker, Langenstein",Wettingen,
 1910-einwohner-111-068,1910,111,einwohner,68,68,person,,0,Zubler,,,,Wilhelm,,,,Monteur,,,1,,Kloster,,,,"qwen3.8-27b, Bild 2x",high,,"Zubler, Wilhelm, Monteur, Kloster",Wettingen,
 1910-einwohner-111-069,1910,111,einwohner,69,69,person,,0,Zürcher,,,,Silvan,,,,Wirt zum Friedheim,,,1,,Dorf,,1,,"qwen3.8-27b, Bild 2x",high,,"Zürcher, Silvan, Wirt zum Friedheim, Dorf ☎",Wettingen,
-1910-einwohner-111-070,1910,111,einwohner,70,70,person,,0,Zumerele,,,,Dominico,,,,Maurer,,,1,,"Langstrasse, Wettingen",401,,,"qwen3.8-27b, Bild 2x",high,,"Zumerele, Dominico, Maurer, Langstrasse 401, Wettingen",Wettingen,
+1910-einwohner-111-070,1910,111,einwohner,70,70,person,,0,Zumerele,,,,Dominico,,,,Maurer,,,1,,Langstrasse,401,,,"qwen3.8-27b, Bild 2x",high,,"Zumerele, Dominico, Maurer, Langstrasse 401, Wettingen",Wettingen,
 1910-einwohner-111-071,1910,111,einwohner,71,71,person,,0,Zumsteg,,,,Burkhard,,,,Handl.,,,1,,Altenburg,,,,"qwen3.8-27b, Bild 2x",high,,"Zumsteg, Burkhard, Handl., Altenburg",Wettingen,
 1910-einwohner-111-072,1910,111,einwohner,72,72,firma,,0,Zweifel-Stehli & Cie.,,,,,,,,"Baumwollspinnerei, -Weberei und -Zwirnerei H.",,,1,,,,1,,"qwen3.8-27b, Bild 2x",high,,"Zweifel-Stehli & Cie., Baumwollspinnerei, -Weberei und -Zwirnerei H. ☎ Wettingen",Wettingen,
 1910-einwohner-111-074,1910,111,einwohner,74,74,person,,0,Ducrot,,,,Albert,,,,Förster und Gemeindeschreiber,,,1,,,,,1. Wohlenschwil.,"qwen3.8-27b, Bild 2x",high,,"Ducrot, Albert, Förster und Gemeindeschreiber",Wohlenschwil,

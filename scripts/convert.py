@@ -122,6 +122,21 @@ def place_of(text: str) -> str:
     return ""
 
 
+def clean_street(street: str, number: str) -> str:
+    """Strasse ohne Ortsnamen und ohne doppelte Hausnummer: «Bruggerstrasse 25, Baden H.» → «Bruggerstrasse».
+
+    Ein Ortsname allein ist keine Strasse («Brunner, Wilhelm, Würenlos»)."""
+    parts = []
+    for part in street.split(","):
+        part = re.sub(r"\s*(?:\bH\.|☎.*)$", "", part).strip()
+        if not part or key(part) in PLACES:
+            continue
+        if number:
+            part = re.sub(rf"\s+{re.escape(number)}\s*$", "", part)
+        parts.append(part)
+    return ", ".join(parts)
+
+
 def muni_at(volume: str, page: int, seq: int) -> str:
     cur = ""
     for (p, s), m in MUNI_STARTS[volume]:
@@ -169,9 +184,10 @@ def convert(volume: str) -> tuple[list[dict], Counter]:
             muni = place_of(r["text"])
         else:
             muni = muni_at(volume, page, seq)
-        street = r["street"].strip()
-        if muni and key(street) and PLACES.get(key(street)) == muni:
-            street = ""  # «Brunner, Wilhelm, Würenlos»: Ort, keine Strasse
+        street, number = clean_street(r["street"], r["building_no"]), r["building_no"].strip()
+        m = re.match(r"^(.*\D)\s+(\d+\s?[a-z]?)$", street)
+        if m and not number:  # «Bruggerstrasse 25» ohne Nummernfeld
+            street, number = m.group(1).strip(), m.group(2).replace(" ", "")
         flags = [f for f in r["qa_flags"].split(";") if f]
         firm = bool(FIRM.search(f"{surname} {r['forename']} {r['text'][:60]}")) and not WIDOW.search(r["text"])
         out.append({
@@ -183,7 +199,7 @@ def convert(volume: str) -> tuple[list[dict], Counter]:
             "alliance_name": r["alliance_name"], "maiden_name": "", "forename": r["forename"].strip(" ."),
             "title": r["title"], "civil_status": r["civil_status"], "relation": "",
             "occupation_raw": r["occupation"], "origin_raw": r["origin"], "origin_canton": "",
-            "address_seq": "1", "address_role": "", "street_raw": street, "building_no": r["building_no"],
+            "address_seq": "1", "address_role": "", "street_raw": street, "building_no": number,
             "phone_flag": "1" if r["phone"].strip() else "", "heading": r["heading"],
             "parse_method": METHOD,
             "parse_confidence": "medium" if {"street_rare", "hyphen", "unreadable", "surname_split"} & set(flags)
