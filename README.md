@@ -9,6 +9,19 @@ Telefonbüchern und den anderen Adressbüchern verknüpft werden.
 | Adressbuch Baden 1900 inkl. Ennetbaden | 62 | 1 136 | 743 | Baden, Ennetbaden |
 | Adressbuch für Stadt und Bezirk Baden 1910 | 212 | 6 534 | 1 754 | Bezirk Baden, 29 Gemeinden |
 
+## Seite
+
+Durchsuchbare Seite mit allen Einträgen, Filtern nach Band, Gemeinde, Konfidenz und Hinweis und
+Flagging je Zeile (wie bei [Aarau](https://thodel.github.io/adressbuecher-aarau/) und
+[Basel](https://thodel.github.io/adressbuecher-basel/)): https://thodel.github.io/adressbuecher-baden/
+
+- `python scripts/90_seite.py --out web/index.html` baut sie lokal aus `data/csv/`; GitHub Actions
+  (`.github/workflows/pages.yml`) baut und veröffentlicht sie bei jedem Push, der die Daten oder das
+  Skript ändert. `web/index.html` ist nicht eingecheckt.
+- Flags von der Seite: CSV exportieren, `python scripts/91_merge_flags.py <datei.csv>`, committen;
+  die Seite zeigt sie danach als «gemeldet».
+- Seitenbilder zeigt die Seite keine (siehe Lizenz).
+
 ## Dateien
 
 Schema wie [adressbuecher-aarau](https://github.com/thodel/adressbuecher-aarau), dazu die
