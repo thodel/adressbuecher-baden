@@ -18,6 +18,15 @@ Flagging je Zeile (wie bei [Aarau](https://thodel.github.io/adressbuecher-aarau/
 - `python scripts/90_seite.py --out web/index.html` baut sie lokal aus `data/csv/`; GitHub Actions
   (`.github/workflows/pages.yml`) baut und veröffentlicht sie bei jedem Push, der die Daten oder das
   Skript ändert. `web/index.html` ist nicht eingecheckt.
+- Karte: `python scripts/92_karte.py --out web/karte.html` (Kreise je Gemeinde und Strasse).
+- Verknüpfungen in `web/`, mit den Skripten erzeugt und eingecheckt, damit der Bau ohne Netz und ohne
+  vernetzte-schweiz läuft:
+  - `telefon.csv` (`scripts/80_telefon.py --vs …`): Einträge mit ☎ → PTT-Telefonbuch (gedruckte Nummer + Name,
+    sonst Verknüpfung von Vernetzte Schweiz), mit Link auf die Person und das Seitenbild; Commit in `telefon_source.txt`.
+  - `baende.csv` (`scripts/81_baende.py`): dieselbe Person im anderen Band.
+  - `normdaten.csv` (`scripts/82_normdaten.py --vs …`): ungeprüfte Kandidaten aus HLS und Wikidata.
+  - `geo/` (`scripts/10_geo.py`): Strassen nach OpenStreetMap (Nominatim, Cache in `geo/nominatim_cache.json`), Gemeinden aus den Telefonbuch-Daten.
+  - Je Zeile ausserdem ein Link auf die Siegfriedkarte des Jahres (swisstopo Zeitreise).
 - Flags von der Seite: CSV exportieren, `python scripts/91_merge_flags.py <datei.csv>`, committen;
   die Seite zeigt sie danach als «gemeldet».
 - Seitenbilder zeigt die Seite keine (siehe Lizenz).

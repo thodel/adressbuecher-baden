@@ -1,0 +1,780 @@
+municipality,street_norm,entries,method,lat,lon,osm_name
+Baden,12 Zürcherstrasse,1,street,47.470101,8.305718,"12, Zürcherstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Aeussere Ziegelhütte,4,none,,,
+Baden,Alexander,1,street,47.472532,8.309919,"Grosser Alexander, 2, Untere Halde, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Au strasse,3,none,,,
+Baden,Aue,13,free,47.467854,8.309235,"Aue, Von Rechenberg-Weg, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Austrasse,18,none,,,
+Baden,Bad-strasse,7,street,47.474599,8.308126,"Badstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Badener Warenhalle, Schlossbergplatz",1,none,,,
+Baden,Badhalde,5,none,,,
+Baden,Badstr. R,2,street,47.474599,8.308126,"Badstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Badstrasse,431,street,47.474599,8.308126,"Badstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Badstrasse (Bank),1,none,,,
+Baden,Bahnhof,3,none,,,
+Baden,Bahnhof Oberstadt,3,none,,,
+Baden,Bahnhof Unterstadt,1,none,,,
+Baden,Bahnhof-Oberstadt,1,none,,,
+Baden,"Bahnhofhotel, Bahnhofplatz",1,none,,,
+Baden,Bahnhofplatz,40,street,47.476221,8.308996,"Bahnhofplatz, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Bahnhofplatz, gegenüber Hotel Post",1,none,,,
+Baden,Bahnhofstrasse,7,none,,,
+Baden,Bahnhofweg,12,none,,,
+Baden,Bahnhofweg gegenüber der Post,2,none,,,
+Baden,Bahnhofwegasse,1,none,,,
+Baden,Belvedere,1,street,47.472520,8.297565,"Belvédère, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Belvédère,4,street,47.472520,8.297565,"Belvédère, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Brauerei Müller,1,none,,,
+Baden,Brenntweg,1,street,47.475591,8.308299,"Brenntweg, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Brennweg,6,none,,,
+Baden,Brennwegasse,1,none,,,
+Baden,Brug- gerstrasse,2,none,,,
+Baden,Brugerstrasse,2,none,,,
+Baden,Brugg erstrasse,13,none,,,
+Baden,Bruggerstrasse,369,street,47.478683,8.303241,"Bruggerstrasse, ABB Turbo Systems AG, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Bruggestrasse,1,none,,,
+Baden,Bruggger- strasse,3,none,,,
+Baden,"Brugggerstr., Blechwarenfabrik",1,none,,,
+Baden,Brugggerstrasse,32,none,,,
+Baden,"Brunnenstübli, Cordulaplatz",1,none,,,
+Baden,Brunnmatt,4,street,47.464715,8.305224,"Brunnmattstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Buggerstrasse,1,none,,,
+Baden,Burghalde,6,street,47.471478,8.305476,"Burghalde, 6, Mellingerstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Sv"
+Baden,Burghaldenstrasse,7,street,47.472510,8.302586,"Burghaldenstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Bären, Grosse Bäder",1,none,,,
+Baden,Café Post,1,none,,,
+Baden,Casino,3,street,47.478833,8.310529,"Grand Casino Baden, 2, Haselstrasse, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Chalet Belvédère,1,none,,,
+Baden,"Chalet Berna, Park-strasse",1,none,,,
+Baden,Cordula- platz,1,street,47.472107,8.306704,"Cordulaplatz, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Cordulaplatz,37,street,47.472107,8.306704,"Cordulaplatz, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Cordulaplatz. R,1,street,47.472107,8.306704,"Cordulaplatz, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Dammstrasse,5,street,47.478897,8.308474,"Dammstrasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Damsau,4,free,47.459758,8.304633,"Damsau, Vitaparcours, A1;A3, Dättwil AG, Baden, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Dufourstrasse,9,none,,,
+Baden,Dynamo- u. Haselstrasse,1,none,,,
+Baden,Dynamonstrasse,2,none,,,
+Baden,Dynamostrasse,102,street,47.476729,8.305793,"Dynamostrasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Dynamostrasse, Gstühl",1,none,,,
+Baden,Ecke Hirschlistrasse und Bahnhofweg,1,none,,,
+Baden,Ehreningerstrasse,1,none,,,
+Baden,Eichthal,1,none,,,
+Baden,Eintracht,1,none,,,
+Baden,Eisenbahnweg,1,street,47.475887,8.308613,"Eisenbahnweg, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Electricitätswerk,1,none,,,
+Baden,Falken,1,free,47.471834,8.305622,"Falken, Schlossbergweg, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Falken, Mellingerstrasse",1,free,47.471438,8.305478,"Falken Snack, 6, Mellingerstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera /"
+Baden,Feldweg,10,none,,,
+Baden,Fr. Gartenstrasse,1,none,,,
+Baden,Freihof,1,free,47.478924,8.311771,"Freihof, Bäderstrasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Freihof, Badstrasse",1,none,,,
+Baden,Friedhofstrasse,1,none,,,
+Baden,Friedhofweg,8,street,47.489875,8.257545,"Friedhofweg, Turgi, Baden, Bezirk Baden, Aargau, 5300, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Friedhofweg, Reithalle",1,none,,,
+Baden,Gartenstrasse,85,street,47.475999,8.303387,"Gartenstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Gartenstrasse, Reithalle",1,none,,,
+Baden,Gattrenstrasse,1,none,,,
+Baden,"Gemse, Rathausgasse",1,none,,,
+Baden,Geschäftshaus Wiesenstrasse,1,none,,,
+Baden,Gesellenhaus,1,none,,,
+Baden,"Gesellenhaus, Mittlere Gasse",1,none,,,
+Baden,Gr. Bäder,4,street,47.481006,8.313408,"Grosse Bäder, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Gra. Hotel,1,none,,,
+Baden,Grabenstrasse,16,street,47.471688,8.308066,"Grabenstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Grand Hotel,2,none,,,
+Baden,Grand Hôtel,1,none,,,
+Baden,Grd. Hôtel,1,none,,,
+Baden,"Grd. Hôtel Bank in Baden, A.-G., Badstrasse",1,none,,,
+Baden,Grenzstein,3,none,,,
+Baden,Grosse Bäder,38,street,47.481006,8.313408,"Grosse Bäder, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Grosse Bäder (Ochsen),1,none,,,
+Baden,Gstühi,3,none,,,
+Baden,Gstühl,59,street,47.475603,8.305497,"Gstühlstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Gstühl platz,1,street,47.475088,8.305905,"Gstühlplatz, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Gstühl-platz,1,street,47.475088,8.305905,"Gstühlplatz, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Gstühlplatz,72,street,47.475088,8.305905,"Gstühlplatz, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Hahnrain,2,street,47.474047,8.305805,"Hahnrainweg, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Hahnrainweg,8,street,47.474047,8.305805,"Hahnrainweg, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Halde,169,free,47.471760,8.308217,"Halde, Grabenstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Halde (Kronengasse,1,none,,,
+Baden,Halde 5 und Filiale Grosse Bäder,1,none,,,
+Baden,Haseistrasse,1,none,,,
+Baden,Hasel,62,street,47.477555,8.304740,"Haselstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Hasel, Bruggerstrasse",1,none,,,
+Baden,Haselst,1,none,,,
+Baden,Haselstrasse,73,street,47.477555,8.304740,"Haselstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Hint. Mäderstrasse,2,none,,,
+Baden,Hintere Metzgasse,2,none,,,
+Baden,Hintere Mäderstrasse,29,none,,,
+Baden,Hinterweg,2,street,47.474649,8.309000,"Hinterweg, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Hirschlistübli, Bruggerstrasse",1,none,,,
+Baden,"Hirschlüstübli, Brug-gerstrasse",1,none,,,
+Baden,Hotel Bahnhof,2,none,,,
+Baden,"Hotel Blume, Kurplatz",1,free,47.480474,8.313659,"Atrium-Hotel-Blume, 4, Kurplatz, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Hotel Centra,1,none,,,
+Baden,Hotel Krone,1,none,,,
+Baden,Hotel Römerhof,1,none,,,
+Baden,Hägelerstrasse,2,street,47.478850,8.280708,"Hägelerstrasse, Allmend, Baldegg, Turgi, Baden, Bezirk Baden, Aargau, 5300, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Innere Ziegelhütte, Mellingerstrasse",1,none,,,
+Baden,Kapelerhof,1,none,,,
+Baden,Kappelerhof,35,street,47.484533,8.292868,"Kraftwerk Kappelerhof, 2834, Im Roggebode, Kappelerhof, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera /"
+Baden,Kapplerhof,1,none,,,
+Baden,Kasino,1,none,,,
+Baden,Kirchhofplatz,2,none,,,
+Baden,Kirchplatz,27,street,47.472872,8.308209,"Kirchplatz, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Kirchplatz 10 u. Halde 29,1,none,,,
+Baden,Klösterli,1,free,47.470447,8.304009,"Klösterli, Mellingerstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizr"
+Baden,"Klösterli, Mellingerstrasse",1,free,47.470447,8.304009,"Klösterli, Mellingerstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizr"
+Baden,Kosthaus,15,none,,,
+Baden,Kreuzlibergstrasse,7,street,47.463236,8.300710,"Kreuzlibergstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Kronengasse,156,street,47.473187,8.309771,"Kronengasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Kunstgütli,1,free,47.475558,8.305745,"Kunstgütli, Gstühlstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Kunstgütti, Bruggerstrasse",1,none,,,
+Baden,Kurhaus,1,none,,,
+Baden,Kurhausstrasse,1,none,,,
+Baden,Kurplatz,19,street,47.480513,8.313778,"Kurplatz, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Landvogteischloss,2,street,47.472863,8.310997,"Landvogteischloss, 2, Wettingerstrasse, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Langensteinstrasse,1,none,,,
+Baden,Liebenfels,1,free,47.460713,8.306782,"Liebenfels, Zürcherstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Limatpromenade,1,none,,,
+Baden,Limmathof,1,free,47.480205,8.313851,"Limmathof Baden Hotel & Novum Spa, Limmatpromenade, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svi"
+Baden,"Limmathof, Grosse Bäder",1,none,,,
+Baden,Lägernst. asse,1,none,,,
+Baden,Lägernstrasse,14,street,47.471055,8.317344,"Lägernstrasse, Baden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Ländleweg,1,none,,,
+Baden,Ländli,5,street,47.467014,8.307246,"Ländliweg, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Ländliweg,10,street,47.467014,8.307246,"Ländliweg, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Lö- wenplatz,1,none,,,
+Baden,"Löwen, Haselstrasse",2,none,,,
+Baden,Löwen- platz,1,street,47.472980,8.308077,"Löwenplatz, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Löwenplatz,30,street,47.472980,8.308077,"Löwenplatz, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,M. Gasse,2,street,47.471639,8.307081,"Weite Gasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Marienheim, Moserstrasse",1,none,,,
+Baden,Martinsberg,7,free,47.480472,8.296596,"Martinsberg, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Martinsbergerstrasse,2,none,,,
+Baden,Martinsbergstrasse,25,street,47.474815,8.303649,"Martinsbergstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Martinsbergweg,2,none,,,
+Baden,Meierhof,9,free,47.468889,8.285718,"Meierhof, Münzlishausen, Baldegg, Dättwil AG, Baden, Bezirk Baden, Aargau, 5405, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Meierhof, Mellingerstrasse",1,free,47.467309,8.291712,"Schule Meierhof, Mellingerstrasse, Münzlishausen, Baldegg, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suis"
+Baden,Melingerstrasse,1,none,,,
+Baden,Melling erstrasse,6,none,,,
+Baden,Mellinger-strasse,1,street,47.468607,8.297815,"Mellingerstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Mellingerstrase,1,none,,,
+Baden,Mellingerstrasse,212,street,47.468607,8.297815,"Mellingerstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Mellingerstrasse und Kreuzlibergstrasse,1,none,,,
+Baden,"Mellingerstrasse, 15. Gipsmühle",1,none,,,
+Baden,Mellingersttasse,1,none,,,
+Baden,Metzgasse,4,none,,,
+Baden,Metzgergasse,7,none,,,
+Baden,Metzggasse,6,street,47.472147,8.307088,"Vordere Metzggasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Meyerhof Mellingerstrasse,1,none,,,
+Baden,"Meyerhof, Mellingerstrasse",1,none,,,
+Baden,Mittelgasse,1,none,,,
+Baden,Mittl. Gasse,5,none,,,
+Baden,Mittlere Gasse,54,street,47.472512,8.307251,"Mittlere Gasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Mittlere Halde,37,none,,,
+Baden,Mittleres Kosthaus,3,none,,,
+Baden,Moserstrasse,1,none,,,
+Baden,Moserweg,5,street,47.475105,8.307921,"Moserweg, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Mäderstrasse,20,street,47.477265,8.303269,"Mäderstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Neubau Kunstgüetli,1,none,,,
+Baden,Niclausenstiege,4,none,,,
+Baden,Niklausenstiege,2,none,,,
+Baden,Niklausstiege,1,street,47.473119,8.306822,"St. Niklausstiege, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Ob. Bahnhofstrasse,2,none,,,
+Baden,Ob. Gasse,10,street,47.472658,8.307223,"Obere Gasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Ob. Halde,5,street,47.472704,8.309361,"Obere Halde, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Ober Gasse,1,none,,,
+Baden,Obere Bahnhofstrasse,25,none,,,
+Baden,Obere Gasse,82,street,47.472658,8.307223,"Obere Gasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Obere Halde,40,street,47.472704,8.309361,"Obere Halde, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Oberes Elektrizitätswerk,1,none,,,
+Baden,Oberes Kosthaus,2,none,,,
+Baden,Oberstadt,5,street,47.469572,8.305312,"Oberstadtstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Ochsen, Badstrasse",2,none,,,
+Baden,Paradies,1,street,47.471218,8.284743,"Paradiesweg, Münzlishausen, Baldegg, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Paradiesplatz,2,none,,,
+Baden,Parkstrasse,40,street,47.479473,8.309431,"Parkstrasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Pfaffenkappe,8,none,,,
+Baden,Polizeiposten,1,none,,,
+Baden,Postgebäude,3,none,,,
+Baden,"Postgebäude, Badstrasse",1,none,,,
+Baden,Postplatz,9,none,,,
+Baden,"Quellenhof, Badstrasse",1,none,,,
+Baden,Rathaus,2,none,,,
+Baden,Rathausg. R,1,street,47.473144,8.308465,"Rathausgasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Rathausgasse,107,street,47.473144,8.308465,"Rathausgasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Rathausgasse, Schartenfels",1,none,,,
+Baden,Rathausgässchen,4,none,,,
+Baden,Rebgarten,1,none,,,
+Baden,"Rest. Schöna u, Wettingerstrasse",1,none,,,
+Baden,Rest. Telegraph,1,none,,,
+Baden,Restaurant „Telegraph“,1,none,,,
+Baden,"Rheinfelder-bierhalle, Halde",1,none,,,
+Baden,Rieden bei Baden,2,none,,,
+Baden,Roth. Thurm,1,none,,,
+Baden,Ruhfels,4,street,47.463847,8.306845,"Ruhfelsweg, Dättwil AG, Baden, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Ruhfels, Zürcherstrasse",1,none,,,
+Baden,Russische Villa,1,none,,,
+Baden,Römerstrasse,41,street,47.481322,8.301204,"Römerstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Rütistrasse,16,street,47.453343,8.303603,"Rütistrasse, Dättwil AG, Baden, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Schadenmühle,1,free,47.469043,8.299262,"Schadenmühle, Mellingerstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Sv"
+Baden,Schar tenstrasse,3,none,,,
+Baden,Scharfenstrasse,13,none,,,
+Baden,Schartenenstrasse,1,none,,,
+Baden,Schartenstrasse,21,street,47.472169,8.314758,"Schartenstrasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Scharthenstrasse,1,none,,,
+Baden,Schlossberg,7,free,47.473592,8.307600,"Schlossbergplatz, Allmend, Baden, Bezirk Baden, Aargau, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Schlossbergplatz,30,street,47.473592,8.307600,"Schlossbergplatz, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Schlossbergstrasse,1,none,,,
+Baden,Schlossbergweg,4,street,47.472292,8.305483,"Schlossbergweg, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Schlossplatz,1,none,,,
+Baden,Schlossr,1,none,,,
+Baden,Schlossrain,9,none,,,
+Baden,Schlössligut,1,none,,,
+Baden,Schulhaus- platz,1,free,47.471587,8.307833,"Schulhausplatz, Grabenstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svi"
+Baden,Schulhausplatz,28,free,47.471587,8.307833,"Schulhausplatz, Grabenstrasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svi"
+Baden,Schwerstrasse,1,none,,,
+Baden,Schwerststrasse,1,none,,,
+Baden,Schwertstrasse,1,street,47.477650,8.309413,"Schwertstrasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Schönaustrasse,38,street,47.469946,8.315730,"Schönaustrasse, Baden, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Seminarstrasse,29,street,47.471412,8.312266,"Seminarstrasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Spitalmühle,2,none,,,
+Baden,"Spitalmühle, Theaterplatz",1,none,,,
+Baden,Spitalquartier,3,none,,,
+Baden,Staadhof,2,none,,,
+Baden,Stadthaus,1,none,,,
+Baden,Stadthof,2,none,,,
+Baden,Stadtthor,2,none,,,
+Baden,Talacker,1,none,,,
+Baden,Thal- acker,1,none,,,
+Baden,Thalacker,22,none,,,
+Baden,Thalacker (Villa Nieriker),1,none,,,
+Baden,Thalackerstrasse,2,none,,,
+Baden,Theaterplatz,35,street,47.473999,8.308824,"Theaterplatz, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Theaterstrasse,10,street,47.474346,8.308326,"Theaterstrasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Theaterwegasse,2,none,,,
+Baden,Tschori,4,none,,,
+Baden,Unt. Kosthaus,1,none,,,
+Baden,Unt. Mühle,1,none,,,
+Baden,Untere Halde,5,street,47.472358,8.309628,"Untere Halde, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Untere Mäderstrasse,1,none,,,
+Baden,Untere Mühle,1,none,,,
+Baden,Unteres Elektrizitätswerk,2,none,,,
+Baden,Unteres Kosthaus,4,none,,,
+Baden,Verenahof,7,none,,,
+Baden,"Verenahof, Grosse Bäder",2,none,,,
+Baden,"Villa Burghalde, Mellingerstrasse",1,none,,,
+Baden,Villa Kreuzliberg,1,none,,,
+Baden,Villa Römerburg,1,none,,,
+Baden,"Villa Römerburg, Römerstrasse",1,none,,,
+Baden,Vord. Mäderstrasse,1,none,,,
+Baden,Vordere Metzgasse,4,none,,,
+Baden,Vordere Metzggasse,7,street,47.472147,8.307088,"Vordere Metzggasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Vordere Mäderstrasse,47,none,,,
+Baden,Vorst,1,none,,,
+Baden,Vorstadt,155,none,,,
+Baden,Vorstadt Baden,1,none,,,
+Baden,W. Gasse,14,street,47.471639,8.307081,"Weite Gasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,W. Gasse. R,1,none,,,
+Baden,Weite Gasse,262,street,47.471639,8.307081,"Weite Gasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Weite Gasse 11 u. Römerstr. b. Castell,1,none,,,
+Baden,Weite Gasse 11 und Badstrasse zum Castell,1,none,,,
+Baden,Weite Gasse und Theaterplatz,1,none,,,
+Baden,Weitegasse,1,none,,,
+Baden,Wettingerstrasse,68,street,47.471243,8.313746,"Wettingerstrasse, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Wiesenstrasse,40,street,47.477125,8.301068,"Wiesenstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"Wärterhaus, b. Stadtweiher",1,none,,,
+Baden,Zürcherstasse,1,none,,,
+Baden,Zürcherstrasse,207,street,47.459253,8.306887,"Zürcherstrasse, Dättwil AG, Baden, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Baden,Zürcherstrasse (Ländliweg),1,none,,,
+Baden,Zürchervorstadt,1,none,,,
+Baden,b. Belvédère,1,street,47.472520,8.297565,"Belvédère, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,b. d. Bank Baden,1,none,,,
+Baden,bei der Bank Baden,1,none,,,
+Baden,beim Bahnhofübergang,1,none,,,
+Baden,beim Bruggerthor,1,none,,,
+Baden,beim Kurhaus,1,none,,,
+Baden,beim Spital,5,none,,,
+Baden,gegenüber dem Kurgarten,1,none,,,
+Baden,grosse Bäder,2,street,47.481006,8.313408,"Grosse Bäder, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,im Gstühl,1,street,47.475155,8.304474,"Im Gstühl, 2, Rütistrasse, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,im Meierhof,1,none,,,
+Baden,in Baden,1,free,47.495480,8.252635,"Kraftwerk und ehemalige Spinnereien in Turgi, Bahnhofstrasse, Turgi, Baden, Bezirk Baden, Aargau, 5300, Schweiz / Suisse"
+Baden,m. Gasse,1,street,47.471639,8.307081,"Weite Gasse, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,mittl. Gasse,2,none,,,
+Baden,mittlere Mühle,1,none,,,
+Baden,ob. Bahnhofplatz,1,none,,,
+Baden,ob. Bahnhofstrasse,1,none,,,
+Baden,obere Bahnhofstrasse,1,none,,,
+Baden,obere Halde,1,street,47.472704,8.309361,"Obere Halde, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,rechtes Limmatufer,1,none,,,
+Baden,"rechtes Limmatufer, Comptoir",1,none,,,
+Baden,"unteres Kosthaus, Aue",1,none,,,
+Baden,"z. Adlerstübli, Mittlere Gasse",1,none,,,
+Baden,z. Au,2,none,,,
+Baden,z. Aue,1,none,,,
+Baden,z. Brücke,1,street,47.472697,8.310640,"Holzbrücke, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"z. Dynamo, Dynamostrasse",1,street,47.476729,8.305793,"Dynamostrasse, Allmend, Baden, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Baden,z. Eichthal,1,none,,,
+Baden,z. Flora,2,street,47.493355,8.254005,"Floraweg, Turgi, Baden, Bezirk Baden, Aargau, 5300, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"z. Flora, Grabenstrasse",1,none,,,
+Baden,"z. Gemse, Rathaus-gasse",1,none,,,
+Baden,"z. Heimat, Rathausgasse",1,none,,,
+Baden,z. Hirschlüstübli,1,none,,,
+Baden,z. Kappelerh,1,none,,,
+Baden,z. Kappelerhof,1,free,47.482565,8.287042,"Kappelerhof, Baden, Bezirk Baden, Aargau, 5415, Schweiz / Suisse / Svizzera / Svizra"
+Baden,z. Kreuzliberg,1,street,47.463435,8.298475,"Kreuzliberg, Allmend, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,z. Martinsberg,1,street,47.474815,8.303649,"Martinsbergstrasse, Allmend, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,z. Ochsen,1,none,,,
+Baden,"z. Paradies, Mittlere Gasse",1,none,,,
+Baden,"z. Post, Bahnhofplatz",1,none,,,
+Baden,z. Promenade,1,none,,,
+Baden,z. Rathauskeller,1,none,,,
+Baden,"z. Rose, Weite Gasse",1,none,,,
+Baden,"z. Salmen, Badstrasse",1,none,,,
+Baden,z. Schlossberg,1,free,47.473592,8.307600,"Schlossbergplatz, Allmend, Baden, Bezirk Baden, Aargau, Schweiz / Suisse / Svizzera / Svizra"
+Baden,"z. Sense, Badstrasse",1,none,,,
+Baden,z. Stadtthor,1,none,,,
+Baden,z. Verenahof,1,none,,,
+Baden,z. mittl. Mühle,1,none,,,
+Baden,z. äussern Ziegelhütte,1,none,,,
+Baden,z. „Hörnli“,1,none,,,
+Baden,z. „Paradies“,2,street,47.471218,8.284743,"Paradiesweg, Münzlishausen, Baldegg, Dättwil AG, Baden, Bezirk Baden, Aargau, 5400, Schweiz / Suisse / Svizzera / Svizra"
+Baden,z. „Röslì“,1,none,,,
+Baden,z. „Schweizerhof“,1,none,,,
+Baden,z. „Schönau“,1,street,47.469946,8.315730,"Schönaustrasse, Baden, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Baden,z. „alten Farb.“,1,none,,,
+Baden,z. „frohen Aussicht“,1,none,,,
+Baden,"zum Bazar, Bad-strasse",1,none,,,
+Baden,zum Parkhof,2,none,,,
+Baden,zur Au,2,none,,,
+Baden,zur Rosenlaube beim Casino,1,none,,,
+Baden,Äussere Ziegelhütte,1,none,,,
+Baden,Äusseres Kosthaus,1,none,,,
+Baden,äussere Ziegelhütte,1,none,,,
+Bergdietikon,Baltenschwil-Berg-Dietikon,4,none,,,
+Bergdietikon,Berg-Dietikon-Baltenschwil,1,none,,,
+Bergdietikon,Bergdietikon-Kindhausen,1,none,,,
+Bergdietikon,Bergli,1,free,47.391299,8.389411,"Bergli, Honerethof, Baltenschwil, Bergdietikon, Bezirk Baden, Aargau, 8962, Schweiz / Suisse / Svizzera / Svizra"
+Bergdietikon,Bernold,2,free,47.389080,8.385857,"Bernold, Bergdietikon, Bezirk Baden, Aargau, 8962, Schweiz / Suisse / Svizzera / Svizra"
+Bergdietikon,"Fellhandlung, Herrenberg",1,none,,,
+Bergdietikon,Gwinden,2,free,47.382305,8.387768,"Gwinden, Honerethof, Bernold, Bergdietikon, Bezirk Baden, Aargau, 8962, Schweiz / Suisse / Svizzera / Svizra"
+Bergdietikon,Herrenberg,1,street,47.381391,8.382082,"Herrenberg, Honerethof, Herrenberg, Bergdietikon, Bezirk Baden, Aargau, 8962, Schweiz / Suisse / Svizzera / Svizra"
+Bergdietikon,Hohlenstrass,2,none,,,
+Bergdietikon,Kindhausen-Berg-Dietikon,1,none,,,
+Bergdietikon,Langenmoos,1,none,,,
+Bergdietikon,Ried,1,free,47.392054,8.371535,"Ried, Kindhausen, Bergdietikon, Bezirk Baden, Aargau, 8962, Schweiz / Suisse / Svizzera / Svizra"
+Bergdietikon,Wiesental,2,street,47.389890,8.393051,"Wiesentalstrasse, Honerethof, Baltenschwil, Bergdietikon, Bezirk Baden, Aargau, 8962, Schweiz / Suisse / Svizzera / Sviz"
+Bergdietikon,z. Schweizerhüsli,1,none,,,
+Bergdietikon,zur alten Post,1,none,,,
+Birmenstorf (AG),Birmenst,1,none,,,
+Birmenstorf (AG),Danielen,2,none,,,
+Birmenstorf (AG),Gasthof z. Adler,1,none,,,
+Birmenstorf (AG),"Handelsmühle, zur Lindmühle",1,none,,,
+Birmenstorf (AG),Kornels,7,none,,,
+Birmenstorf (AG),Lettenburen,1,none,,,
+Birmenstorf (AG),Lindenmühle,1,none,,,
+Birmenstorf (AG),Lindmühle,1,free,47.452946,8.255818,"Naturschutzgebiet Lindmühle, Lindmüliweg, Im Grüt, Oberhard, Birmenstorf, Bezirk Baden, Aargau, 5413, Schweiz / Suisse /"
+Birmenstorf (AG),Oberhard,1,free,47.460405,8.264015,"Oberhard, Birmenstorf, Bezirk Baden, Aargau, 5413, Schweiz / Suisse / Svizzera / Svizra"
+Birmenstorf (AG),Rest. z. Frohsinn,1,none,,,
+Birmenstorf (AG),Stutzburen,3,none,,,
+Birmenstorf (AG),a. Müsslen,1,none,,,
+Birmenstorf (AG),a. Oberhard,2,street,47.460973,8.254755,"31a, Oberhardstrasse, Oberhard, Birmenstorf, Bezirk Baden, Aargau, 5413, Schweiz / Suisse / Svizzera / Svizra"
+Birmenstorf (AG),auf Egg,9,none,,,
+Birmenstorf (AG),auf Eschenb,1,none,,,
+Birmenstorf (AG),auf Eschenbach,1,none,,,
+Birmenstorf (AG),auf Muntwyl,1,none,,,
+Birmenstorf (AG),auf Müsslen,7,none,,,
+Birmenstorf (AG),auf Oberhard,2,none,,,
+Birmenstorf (AG),im Feldschl,1,none,,,
+Birmenstorf (AG),im Grüt,1,free,47.453737,8.255303,"Im Grüt, Oberhard, Birmenstorf, Bezirk Baden, Aargau, 5413, Schweiz / Suisse / Svizzera / Svizra"
+Birmenstorf (AG),z. Adler,1,none,,,
+Birmenstorf (AG),z. Frohsinn,1,none,,,
+Birmenstorf (AG),z. Lindmühle,1,none,,,
+Dättwil,auf Baldegg,1,none,,,
+Dättwil,z. Bahnhof,1,none,,,
+Dättwil,z. Sonnengütti,2,none,,,
+Ennetbaden,(Schützenhaus),1,free,47.477583,8.317123,"Schützenhaus, Ehrendingerstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Alte Ehrendingerstrasse,2,none,,,
+Ennetbaden,Aue R,1,none,,,
+Ennetbaden,Bad- strasse,1,street,47.480793,8.315074,"Badstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Badstrasse,47,street,47.480793,8.315074,"Badstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Branerei,1,none,,,
+Ennetbaden,Bruggerstrasse,1,none,,,
+Ennetbaden,Café National,1,none,,,
+Ennetbaden,Café du Pont,1,none,,,
+Ennetbaden,Casinost rasse,2,none,,,
+Ennetbaden,Casinostrasse,14,none,,,
+Ennetbaden,Casinotrasse,1,none,,,
+Ennetbaden,Conrad Küpfer,1,none,,,
+Ennetbaden,Ehrendingerstrasse,9,street,47.481993,8.328643,"Ehrendingerstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Felsene gg,2,none,,,
+Ennetbaden,Felsene ggasse,1,none,,,
+Ennetbaden,Felseneg,1,none,,,
+Ennetbaden,Felsenegg,2,none,,,
+Ennetbaden,Felseneggasse,2,none,,,
+Ennetbaden,"Franz Widmer, Besitzer",1,none,,,
+Ennetbaden,Gasthaus zur Post,1,none,,,
+Ennetbaden,Geisberg,8,none,,,
+Ennetbaden,Geissberg,3,free,47.486340,8.321140,"Geissberg, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Grendelstrasse,67,street,47.478386,8.316739,"Grendelstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Grindelstrasse,1,none,,,
+Ennetbaden,Hans Heitz-Kern,1,none,,,
+Ennetbaden,Hertenstein,1,street,47.484130,8.311447,"Hertenstein, 80, Hertensteinstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Hotel Jura,1,none,,,
+Ennetbaden,Höhtal,1,street,47.478603,8.318344,"Höhtalstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,"J. Bilgerig, Besitzer",1,none,,,
+Ennetbaden,"Kapelerhof, Oberdorfstrasse",1,none,,,
+Ennetbaden,Kasinostasse,1,none,,,
+Ennetbaden,Kasinostrasse,52,none,,,
+Ennetbaden,Laden Schulhausplatz,1,none,,,
+Ennetbaden,Limmatau,11,free,47.475548,8.310554,"Limmatau, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Neue Ehrendingerstrasse,1,none,,,
+Ennetbaden,Neue Ehreningerstrasse,3,none,,,
+Ennetbaden,Neues Quartier,1,none,,,
+Ennetbaden,Oberdorf,24,street,47.477543,8.313449,"Oberdorfstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Oberdorf-Ennetbaden,1,free,47.477543,8.313449,"Oberdorfstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Oberdorfstrasse,4,street,47.477543,8.313449,"Oberdorfstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Pfauenstr. R,1,none,,,
+Ennetbaden,Pfauenstrasse,2,none,,,
+Ennetbaden,R,3,free,47.478576,8.315387,"Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,"Rathausgasse, Brugg erstrasse, Zürcherstrasse, Wettingerstrasse",1,none,,,
+Ennetbaden,"Rathausgasse, Bruggerstrasse, Zürcherstrasse, Schönau",1,none,,,
+Ennetbaden,Rest. Hertenstein,1,none,,,
+Ennetbaden,Restauration Hertenstein,1,none,,,
+Ennetbaden,Rössligasse,64,none,,,
+Ennetbaden,"Rössligasse, Neues Quar- tier",1,none,,,
+Ennetbaden,"Rössligasse, neues Quartier",1,none,,,
+Ennetbaden,Sch lössli,1,none,,,
+Ennetbaden,Schlössligut,6,none,,,
+Ennetbaden,"Schlössligut, Stadthof Baden",1,none,,,
+Ennetbaden,Schützenhaus,2,free,47.477583,8.317123,"Schützenhaus, Ehrendingerstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Sohn,1,none,,,
+Ennetbaden,Sonnenb,1,none,,,
+Ennetbaden,Sonnenberg,15,free,47.475843,8.316356,"Sonnenberg, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Sonnenberg- strasse,1,street,47.475995,8.311475,"Sonnenbergstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Sonnenbergstrasse,43,street,47.475995,8.311475,"Sonnenbergstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,Vater,1,none,,,
+Ennetbaden,beim Twerenbold,1,none,,,
+Ennetbaden,im Hotel Adler,2,none,,,
+Ennetbaden,im Rütli,1,none,,,
+Ennetbaden,z. Café,1,none,,,
+Ennetbaden,z. Engel,1,none,,,
+Ennetbaden,z. Jura,1,none,,,
+Ennetbaden,z. Limmatau. R,1,none,,,
+Ennetbaden,z. Ochsen,1,none,,,
+Ennetbaden,z. Pfauen,1,none,,,
+Ennetbaden,z. Rössli,1,none,,,
+Ennetbaden,z. Schlössli,1,street,47.476277,8.312845,"Schlösslistrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,z. Sonne,2,none,,,
+Ennetbaden,z. „Adler“,1,none,,,
+Ennetbaden,z. „Alpenrose“,1,none,,,
+Ennetbaden,z. „Hirschen“,1,none,,,
+Ennetbaden,z. „Rebstock“,1,none,,,
+Ennetbaden,z. „Rütli“,1,none,,,
+Ennetbaden,z. „Schwanen“,1,none,,,
+Ennetbaden,z. „Sonnenberg“,1,street,47.475995,8.311475,"Sonnenbergstrasse, Ennetbaden, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Ennetbaden,z. „Sternen“,1,none,,,
+Ennetbaden,zum Felsene gg,1,none,,,
+Ennetbaden,zur Sonne,1,none,,,
+Fislisbach,Adolfs,2,none,,,
+Fislisbach,Badenerstrasse,2,street,47.443849,8.307092,"Badenerstrasse, Fislisbach, Bezirk Baden, Aargau, 5442, Schweiz / Suisse / Svizzera / Svizra"
+Fislisbach,Lindenwirts,1,none,,,
+Fislisbach,Mellingerstrasse,2,street,47.428467,8.284522,"Mellingerstrasse, Fislisbach, Bezirk Baden, Aargau, 5442, Schweiz / Suisse / Svizzera / Svizra"
+Fislisbach,Schönbühl,2,street,47.435368,8.287817,"Schönbühlstrasse, Fislisbach, Bezirk Baden, Aargau, 5442, Schweiz / Suisse / Svizzera / Svizra"
+Fislisbach,z. Alpenrösli,1,none,,,
+Fislisbach,z. Linde,1,none,,,
+Fislisbach,z. Sommerhalde,1,street,47.442755,8.283514,"Sommerhalde, Fislisbach, Bezirk Baden, Aargau, 5442, Schweiz / Suisse / Svizzera / Svizra"
+Fislisbach,zum Rössli,1,none,,,
+Gebenstorf,Gebenstorf-Reuss,1,none,,,
+Gebenstorf,Limmathal,1,none,,,
+Gebenstorf,Petersberg,4,free,47.468520,8.261735,"Petersberg, Gebenstorf, Bezirk Baden, Aargau, 5412, Schweiz / Suisse / Svizzera / Svizra"
+Gebenstorf,Petersbgasse,1,none,,,
+Gebenstorf,Reuss-Gebenstorf,15,free,47.479510,8.231662,"Reuss, Landstrasse, Vogelsang, Gebenstorf, Bezirk Baden, Aargau, 5412, Schweiz / Suisse / Svizzera / Svizra"
+Gebenstorf,Schwabenberg,2,free,47.474694,8.263656,"Schwabenberg, Petersberg, Gebenstorf, Bezirk Baden, Aargau, 5412, Schweiz / Suisse / Svizzera / Svizra"
+Gebenstorf,Vogelsang-Gebeinstorf,2,none,,,
+Gebenstorf,Vogelsang-Geben-storf,1,none,,,
+Gebenstorf,Vogelsang-Gebenstorf,6,free,47.494378,8.240396,"Vogelsang, Gebenstorf, Bezirk Baden, Aargau, 5412, Schweiz / Suisse / Svizzera / Svizra"
+Gebenstorf,zum Löwen,1,none,,,
+Killwangen,Gasthaus z. Fahr,1,none,,,
+Killwangen,Killwangen-Oberdorf,1,none,,,
+Killwangen,Ober-dorf,2,none,,,
+Killwangen,Oberdorf,12,none,,,
+Killwangen,Oberdorf-Killwangen,1,none,,,
+Killwangen,Sennenberg,2,street,47.425311,8.333151,"Sennenberg, Killwangen, Bezirk Baden, Aargau, 8956, Schweiz / Suisse / Svizzera / Svizra"
+Killwangen,Steinig,7,street,47.430627,8.354627,"Im Steinig, Alte Post, Killwangen, Bezirk Baden, Aargau, 8956, Schweiz / Suisse / Svizzera / Svizra"
+Killwangen,Unter-dorf,4,none,,,
+Killwangen,Unterdorf,8,none,,,
+Killwangen,b. Bahnhof,1,street,47.434125,8.349998,"6b, Bahnhofstrasse, Alte Post, Killwangen, Bezirk Baden, Aargau, 8956, Schweiz / Suisse / Svizzera / Svizra"
+Killwangen,beim Bahnhof,2,none,,,
+Killwangen,im Steinbruch,1,none,,,
+Killwangen,z. Fahr,1,none,,,
+Killwangen,z. Schweizerhüsli,1,none,,,
+Killwangen,zur Fahr,1,none,,,
+Künten,Künten-Sulz,8,free,47.388227,8.327111,"Schultz Künten, Mühlemattweg, Sulz, Künten, Bezirk Baden, Aargau, 5444, Schweiz / Suisse / Svizzera / Svizra"
+Künten,Sulz-Künten,1,free,47.380976,8.321952,"Sulz, Künten, Bezirk Baden, Aargau, 5444, Schweiz / Suisse / Svizzera / Svizra"
+Künten,z. Fahr,1,none,,,
+Mellingen,Alemändli,1,none,,,
+Mellingen,Allemandli,3,none,,,
+Mellingen,Allmandli,1,none,,,
+Mellingen,Antoni Vorstadt,9,none,,,
+Mellingen,Antoni-Vorst,2,none,,,
+Mellingen,Antoni-Vorstadt,3,none,,,
+Mellingen,Bahn-hofstrasse,2,none,,,
+Mellingen,Bahnhofstrasse,52,street,47.428683,8.277834,"Bahnhofstrasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Bruggerstrasse,13,street,47.420516,8.270577,"Bruggerstrasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Bruggestrasse,1,none,,,
+Mellingen,Bürgerrasil,1,none,,,
+Mellingen,Filiale Mellingen,1,none,,,
+Mellingen,Gr. Kirch-gasse,1,none,,,
+Mellingen,Gr. Kirchgasse,12,street,47.418470,8.273904,"Grosse Kirchgasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Grosse Kirchgasse,22,street,47.418470,8.273904,"Grosse Kirchgasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Haupt-strasse,1,none,,,
+Mellingen,Hauptgasse,2,street,47.418582,8.273362,"Hauptgasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Hauptstrasse,52,none,,,
+Mellingen,Hir-schengasse,2,none,,,
+Mellingen,Hirschen-gasse,4,none,,,
+Mellingen,Hirschengasse,38,none,,,
+Mellingen,Kirchgasse,6,street,47.417777,8.274786,"Kleine Kirchgasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Kirchggasse,1,none,,,
+Mellingen,Kirchplatz,2,none,,,
+Mellingen,Kl. Gartengässli,1,street,47.417714,8.274154,"Kleines Gartengässli, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Kl. Kirchgasse,12,street,47.417777,8.274786,"Kleine Kirchgasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Kleine Kirch-gasse,1,none,,,
+Mellingen,Kleine Kirchgasse,12,street,47.417777,8.274786,"Kleine Kirchgasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Lindenplatz,4,free,47.418128,8.271885,"Mellingen Lindenplatz, Birrfeldstrasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,"Milchzentrale, Hauptstrasse",1,none,,,
+Mellingen,Postplatz,15,none,,,
+Mellingen,Reussbrücke,1,street,47.419041,8.274085,"Reussbrücke, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Scheu-nengasse,1,none,,,
+Mellingen,Scheunen-gasse,1,none,,,
+Mellingen,Scheunengasse,13,street,47.418861,8.272365,"Scheunengasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Spitalweg,9,none,,,
+Mellingen,Stetter-strasse,1,street,47.418858,8.276624,"Stetterstrasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Stetterstrasse,12,street,47.418858,8.276624,"Stetterstrasse, Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,Trotte,1,none,,,
+Mellingen,"z. Frohsinn, Bahnhof-strasse",1,none,,,
+Mellingen,z. Scharfen Eck,1,none,,,
+Mellingen,z. sch. Eck,1,free,47.419513,8.274659,"Mellingen, Bezirk Baden, Aargau, 5507, Schweiz / Suisse / Svizzera / Svizra"
+Mellingen,zum Bazar,1,none,,,
+Mellingen,zum Turm,1,none,,,
+Neuenhof,Klosterrüti,2,street,47.456103,8.309117,"Klosterrütistrasse, Neuenhof, Bezirk Baden, Aargau, 5432, Schweiz / Suisse / Svizzera / Svizra"
+Neuenhof,Klostrüti-Neuenhof,1,none,,,
+Neuenhof,Kreuzstein,1,free,47.453733,8.321517,"Kreuzstein, Zürcherstrasse, Neuenhof, Bezirk Baden, Aargau, 5432, Schweiz / Suisse / Svizzera / Svizra"
+Neuenhof,auf Küsler,1,none,,,
+Niederrohrdorf,Deger ten,1,none,,,
+Niederrohrdorf,Gipsstrasse,1,none,,,
+Niederrohrdorf,Holzrüti,8,street,47.414272,8.290232,"Holzrüti, Niederrohrdorf, Bezirk Baden, Aargau, 5443, Schweiz / Suisse / Svizzera / Svizra"
+Niederrohrdorf,Kalberwand,1,none,,,
+Niederrohrdorf,Kalberweid,1,none,,,
+Niederrohrdorf,Oberdorf,2,street,47.423809,8.306069,"Oberdorfstrasse, Vogelrüti, Niederrohrdorf, Bezirk Baden, Aargau, 5443, Schweiz / Suisse / Svizzera / Svizra"
+Niederrohrdorf,Rohrdorf,1,street,47.420201,8.307729,"Kita Rohrdorf, 24, Rebhaldenweg, Vogelrüti, Niederrohrdorf, Bezirk Baden, Aargau, 5443, Schweiz / Suisse / Svizzera / Sv"
+Niederrohrdorf,a. Stein,2,none,,,
+Niederrohrdorf,alt Lehrer's,1,none,,,
+Niederrohrdorf,am Stein,2,none,,,
+Niederrohrdorf,z. Sonne,1,none,,,
+Niederrohrdorf,zum Central,1,none,,,
+Oberehrendingen,Gypsstrasse,1,none,,,
+Oberehrendingen,Höhtal,2,none,,,
+Oberehrendingen,Kalberweid,1,none,,,
+Oberehrendingen,Stein,3,street,47.492749,8.348566,"Am Stein, Oberehrendingen, Ehrendingen, Bezirk Baden, Aargau, 5420, Schweiz / Suisse / Svizzera / Svizra"
+Oberehrendingen,Unterdorf,1,none,,,
+Oberehrendingen,a. Stein,1,street,47.492749,8.348566,"Am Stein, Oberehrendingen, Ehrendingen, Bezirk Baden, Aargau, 5420, Schweiz / Suisse / Svizzera / Svizra"
+Oberehrendingen,alt Schulhaus,1,none,,,
+Oberehrendingen,z. Frohsinn,1,none,,,
+Oberrohrdorf,Ober-Rohrdorf-Starets wil,1,none,,,
+Oberrohrdorf,Ober-Rohrdorf-Staretschwil,3,none,,,
+Oberrohrdorf,Staretschwil - Ober-Rohrdorf,1,free,47.425172,8.310792,"Staretschwil, Badenerstrasse, Oberrohrdorf, Bezirk Baden, Aargau, 5452, Schweiz / Suisse / Svizzera / Svizra"
+Oberrohrdorf,Staretschwil-Ober-Rohrdorf,1,free,47.425172,8.310792,"Staretschwil, Badenerstrasse, Oberrohrdorf, Bezirk Baden, Aargau, 5452, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Aesch b Kirchdorf,1,none,,,
+Obersiggenthal,Aesch b. Kirchdorf,3,none,,,
+Obersiggenthal,Aesch bei Kirchdorf,3,free,47.491985,8.279760,"Aesch, Landstrasse, Tromsberg, Nussbaumen AG, Obersiggenthal, Bezirk Baden, Aargau, 5416, Schweiz / Suisse / Svizzera / "
+Obersiggenthal,Bändler,2,none,,,
+Obersiggenthal,Böndler,2,free,47.496462,8.291636,"Böndler, Nussbaumen AG, Obersiggenthal, Bezirk Baden, Aargau, 5415, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Ebne,2,street,47.492842,8.308155,"Schützenhaus Ebne, 180, Bike-Trail, Böndler, Nussbaumen AG, Obersiggenthal, Bezirk Baden, Aargau, 5415, Schweiz / Suisse"
+Obersiggenthal,Hertenstein,11,street,47.487112,8.307127,"Hertensteinstrasse, Hertenstein AG, Obersiggenthal, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Hertenstein-Ober-Siggenthal,1,free,47.488036,8.312230,"Hertenstein, Weidweg, Hertenstein AG, Obersiggenthal, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Homberg,3,street,47.490543,8.295350,"Hombergstrasse, Böndler, Nussbaumen AG, Obersiggenthal, Bezirk Baden, Aargau, 5415, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Homburg bei Nussbaumen,1,none,,,
+Obersiggenthal,Häfeler,10,street,47.485981,8.299701,"Häfelerweg, Rieden AG, Obersiggenthal, Bezirk Baden, Aargau, 5415, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Kirchdoof,1,none,,,
+Obersiggenthal,Kirchdorf-Ober-Siggenthal,2,free,47.501160,8.284681,"200 Jahre Kanton Aargau, Tromsberg, Kirchdorf AG, Obersiggenthal, Bezirk Baden, Aargau, 5416, Schweiz / Suisse / Svizzer"
+Obersiggenthal,Ober-Nussbaumen-Ober-Siggenthal,1,free,47.501160,8.284681,"200 Jahre Kanton Aargau, Tromsberg, Kirchdorf AG, Obersiggenthal, Bezirk Baden, Aargau, 5416, Schweiz / Suisse / Svizzer"
+Obersiggenthal,Ober-Siggenthal - Ober-Nussbaumen,1,free,47.501160,8.284681,"200 Jahre Kanton Aargau, Tromsberg, Kirchdorf AG, Obersiggenthal, Bezirk Baden, Aargau, 5416, Schweiz / Suisse / Svizzer"
+Obersiggenthal,Ober-Siggenthal- Kirchdorf,1,free,47.501160,8.284681,"200 Jahre Kanton Aargau, Tromsberg, Kirchdorf AG, Obersiggenthal, Bezirk Baden, Aargau, 5416, Schweiz / Suisse / Svizzer"
+Obersiggenthal,Ober-Siggenthal-Kirch-dorf,1,none,,,
+Obersiggenthal,Rieden-Ober-Siggen-thal,1,none,,,
+Obersiggenthal,Rieden-Ober-Siggenthal,5,free,47.483668,8.302771,"Rieden AG, Obersiggenthal, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Tromsberg,17,street,47.499001,8.283046,"Tromsberg, Kirchdorf AG, Obersiggenthal, Bezirk Baden, Aargau, 5416, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Unter - Nussbaumen- Ober-Siggenthal,1,free,47.488598,8.291565,"Unterbodenweg, Böndler, Nussbaumen AG, Obersiggenthal, Bezirk Baden, Aargau, 5415, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Unter-Nuss-baumen-Ober-Siggenthal,1,none,,,
+Obersiggenthal,Unter-Nussbaumen-Ober-Siggenthal,6,free,47.488598,8.291565,"Unterbodenweg, Böndler, Nussbaumen AG, Obersiggenthal, Bezirk Baden, Aargau, 5415, Schweiz / Suisse / Svizzera / Svizra"
+Obersiggenthal,Unter-Nussbaumenv. Ober-Siggenthal,2,none,,,
+Obersiggenthal,Unternussbaumen-Obersiggenthal,1,none,,,
+Obersiggenthal,Unternussbaumen—Ober-Siggenthal,1,none,,,
+Obersiggenthal,z. Paradies,1,street,47.494928,8.273099,"Paradiesstrasse, Tromsberg, Kirchdorf AG, Obersiggenthal, Bezirk Baden, Aargau, 5416, Schweiz / Suisse / Svizzera / Sviz"
+Remetschwil,Busslingen-Remetschwil,1,free,47.410514,8.315864,"Busslingen, Remetschwil, Bezirk Baden, Aargau, 5453, Schweiz / Suisse / Svizzera / Svizra"
+Remetschwil,Kreuzstrasse,1,none,,,
+Remetschwil,Sennhof,10,free,47.406410,8.341752,"Sennhof, Remetschwil, Bezirk Baden, Aargau, 5453, Schweiz / Suisse / Svizzera / Svizra"
+Remetschwil,z. Post,1,none,,,
+Spreitenbach,Badnerstrasse,7,none,,,
+Spreitenbach,Bollhof,2,none,,,
+Spreitenbach,Fabrikstrasse,1,none,,,
+Spreitenbach,Hof Heitersberg,3,none,,,
+Spreitenbach,Obere Mühle,1,none,,,
+Spreitenbach,im Kessel,8,none,,,
+Spreitenbach,z. Central,1,none,,,
+Spreitenbach,z. Kreuzplatz,1,free,47.417940,8.365964,"Kreuzplatz, Halde, Spreitenbach, Bezirk Baden, Aargau, 8957, Schweiz / Suisse / Svizzera / Svizra"
+Spreitenbach,z. Lindenheim,1,none,,,
+Spreitenbach,z. Obstgarten,1,free,47.418665,8.367653,"Obstgarten, Shopping-Center, Spreitenbach, Bezirk Baden, Aargau, 8957, Schweiz / Suisse / Svizzera / Svizra"
+Spreitenbach,z. Rosenhain,1,none,,,
+Spreitenbach,z. Schmiede,1,none,,,
+Spreitenbach,z. Steinacker,2,street,47.419644,8.369936,"Steinackerstrasse, Shopping-Center, Spreitenbach, Bezirk Baden, Aargau, 8957, Schweiz / Suisse / Svizzera / Svizra"
+Spreitenbach,z. Zentral,1,none,,,
+Spreitenbach,zum Obstgarten,2,none,,,
+Spreitenbach,zum Steinacker,1,none,,,
+Spreitenbach,zum Wiesengrund,2,none,,,
+Stetten (AG),Au,2,free,47.399458,8.307401,"Stetten, Bezirk Baden, Aargau, 5608, Schweiz / Suisse / Svizzera / Svizra"
+Stetten (AG),Eichhof,3,free,47.406588,8.293946,"Eichhof, Stetten, Bezirk Baden, Aargau, 5608, Schweiz / Suisse / Svizzera / Svizra"
+Stetten (AG),Eichhof-Stetten,1,free,47.406588,8.293946,"Eichhof, Stetten, Bezirk Baden, Aargau, 5608, Schweiz / Suisse / Svizzera / Svizra"
+Stetten (AG),Eichholz,1,none,,,
+Stetten (AG),Gespis,1,none,,,
+Stetten (AG),Hinterdorf,5,none,,,
+Stetten (AG),Künterstrasse,1,street,47.397344,8.311661,"Künterstrasse, Stetten, Bezirk Baden, Aargau, 5608, Schweiz / Suisse / Svizzera / Svizra"
+Stetten (AG),Mellingerstrasse,4,street,47.402117,8.304931,"Mellingerstrasse, Stetten, Bezirk Baden, Aargau, 5608, Schweiz / Suisse / Svizzera / Svizra"
+Stetten (AG),Mitteldorf,11,none,,,
+Stetten (AG),Oberdorf,16,street,47.400008,8.308668,"Oberdorfstrasse, Stetten, Bezirk Baden, Aargau, 5608, Schweiz / Suisse / Svizzera / Svizra"
+Stetten (AG),Salzauswäge,1,none,,,
+Stetten (AG),Stetten-Mitteldorf,1,none,,,
+Stetten (AG),Stetten-Oberdorf,3,free,47.399989,8.307620,"Stetten Dorfplatz, Oberdorfstrasse, Stetten, Bezirk Baden, Aargau, 5608, Schweiz / Suisse / Svizzera / Svizra"
+Stetten (AG),Stetten-Unterdorf,2,none,,,
+Stetten (AG),Unterdorf,16,street,47.399687,8.305726,"Unterdorfstrasse, Stetten, Bezirk Baden, Aargau, 5608, Schweiz / Suisse / Svizzera / Svizra"
+Stetten (AG),Unterdorf-Stetten,1,free,47.399687,8.305726,"Unterdorfstrasse, Stetten, Bezirk Baden, Aargau, 5608, Schweiz / Suisse / Svizzera / Svizra"
+Stetten (AG),bei d. Kirche,1,none,,,
+Stetten (AG),bei der Kirche,4,none,,,
+Stetten (AG),in der Au,1,none,,,
+Stetten (AG),z. Krone,1,none,,,
+Stetten (AG),zur Krone,1,none,,,
+Turgi,Klohn-hof,1,none,,,
+Turgi,Klonhof,1,none,,,
+Turgi,Neuburen,2,none,,,
+Turgi,Station Turgi — Ober-Siggingen,1,none,,,
+Turgi,Turgi- und Umgebung,1,none,,,
+Turgi,z. Bahnhof,1,street,47.491322,8.255878,"Bahnhofstrasse, Turgi, Baden, Bezirk Baden, Aargau, 5300, Schweiz / Suisse / Svizzera / Svizra"
+Turgi,z. Bazar,1,none,,,
+Turgi,z. Diana,1,none,,,
+Turgi,z. Wilerhof,2,none,,,
+Turgi,zum Bazar,2,none,,,
+Turgi,zur Krone,1,none,,,
+Unterehrendingen,Gypsabrik,1,none,,,
+Unterehrendingen,Klon-hof,1,none,,,
+Unterehrendingen,Klonhof,2,street,47.497815,8.354443,"Klonhofstrasse, Unterehrendingen, Ehrendingen, Bezirk Baden, Aargau, 5420, Schweiz / Suisse / Svizzera / Svizra"
+Unterehrendingen,z. Engel,1,none,,,
+Untersiggenthal,Auhof,1,none,,,
+Untersiggenthal,Ennetburgi-Unter-Siggenthal,1,none,,,
+Untersiggenthal,Ennetnurgi-Unter-Siggenthal,1,none,,,
+Untersiggenthal,Enneturgi-Unter-Siggenthal,3,none,,,
+Untersiggenthal,Gasthaus z. Bären,1,none,,,
+Untersiggenthal,Gasthaus zum Löwen,1,none,,,
+Untersiggenthal,Hölzle,7,none,,,
+Untersiggenthal,Mooshof,1,none,,,
+Untersiggenthal,Reckenberg,3,street,47.501190,8.271087,"Reckenbergstrasse, Untersiggenthal, Bezirk Baden, Aargau, 5416, Schweiz / Suisse / Svizzera / Svizra"
+Untersiggenthal,Rickenberg,1,none,,,
+Untersiggenthal,Rütteli,3,none,,,
+Untersiggenthal,Schachen,1,free,47.507040,8.246713,"Friedhof Schachen, Untersiggenthal, Bezirk Baden, Aargau, Schweiz / Suisse / Svizzera / Svizra"
+Untersiggenthal,Schiffmühle,7,street,47.491248,8.260375,"Schiffmühlestrasse, Untersiggenthal, Bezirk Baden, Aargau, 5300, Schweiz / Suisse / Svizzera / Svizra"
+Untersiggenthal,Siggental,1,none,,,
+Untersiggenthal,Stalden,1,street,47.505566,8.255391,"Staldenstrasse, Untersiggenthal, Bezirk Baden, Aargau, 5417, Schweiz / Suisse / Svizzera / Svizra"
+Untersiggenthal,Stat. Siggental,2,none,,,
+Untersiggenthal,Steinebühl,5,none,,,
+Untersiggenthal,Stroppel,1,street,47.502633,8.239876,"Kraftwerk Stroppel, 32, Stroppelstrasse, Untersiggenthal, Bezirk Baden, Aargau, 5417, Schweiz / Suisse / Svizzera / Sviz"
+Untersiggenthal,Unter-Siggenthal- Ober-Siggingen,1,none,,,
+Untersiggenthal,Unter-Siggingen - Unter-Siggenthal,2,none,,,
+Untersiggenthal,Unter-Siggingen-Unter-Siggenthal,1,none,,,
+Untersiggenthal,Wasserfallen,1,street,47.497030,8.264871,"Wasserfallenweg, Untersiggenthal, Bezirk Baden, Aargau, 5417, Schweiz / Suisse / Svizzera / Svizra"
+Untersiggenthal,Wasserfallen - Unter-Sig-genthal,1,none,,,
+Untersiggenthal,Wasserfallen - Unter-Siggenthal,1,free,47.497030,8.264871,"Wasserfallenweg, Untersiggenthal, Bezirk Baden, Aargau, 5417, Schweiz / Suisse / Svizzera / Svizra"
+Untersiggenthal,Werben,3,street,47.494790,8.259975,"Werbenstrasse, Untersiggenthal, Bezirk Baden, Aargau, 5300, Schweiz / Suisse / Svizzera / Svizra"
+Untersiggenthal,in Stroppel,1,none,,,
+Wettingen,488 Austrasse,1,street,47.467987,8.314823,"Austrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Aesch,8,free,47.469150,8.344196,"Aesch, Wettingen, Bezirk Baden, Aargau, 8430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Albertstrasse,5,street,47.468966,8.317231,"Albertstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Altenburg,28,street,47.465575,8.315768,"Altenburgstrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Austrasse,11,street,47.467987,8.314823,"Austrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Austrasse Wettingen,1,free,47.467987,8.314823,"Austrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Bahnhofstrasse,1,street,47.461118,8.323312,"Bahnhofstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Bahnrestaurant,1,none,,,
+Wettingen,Bangensteinerstrasse,1,none,,,
+Wettingen,Berg-Wettingen,2,free,47.471634,8.343391,"Bergstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Bifangstrasse,1,street,47.462184,8.338790,"Bifangstrasse, Wettingen, Bezirk Baden, Aargau, 8430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Busberg,1,none,,,
+Wettingen,Dorf,161,street,47.467075,8.332446,"Dorfstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,"Dorf, Bifangstrasse",1,free,47.466193,8.330714,"Kindergarten Dorf, 1, Bifangstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,"Dorf, Gänzelis",1,none,,,
+Wettingen,"Dorf, Landstrasse",1,none,,,
+Wettingen,"Dorf, Sebastians",1,none,,,
+Wettingen,Gaiswies,1,none,,,
+Wettingen,Gaiswis,1,none,,,
+Wettingen,Geiswis,7,none,,,
+Wettingen,Heimstrasse,11,street,47.469473,8.316244,"Heimstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Herdern,2,none,,,
+Wettingen,Jakobstrasse,7,street,47.469433,8.316911,"Jakobstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Kloster,104,street,47.455399,8.314197,"Klosterstrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,"Kloster, Restaurant Klosterstübli",1,none,,,
+Wettingen,Klosterstrasse,10,street,47.455399,8.314197,"Klosterstrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Landstrasse,4,street,47.464357,8.329771,"Landstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Langstrasse,5,none,,,
+Wettingen,Mooshalde,1,none,,,
+Wettingen,Märzengasse Wettingen,1,free,47.465081,8.334184,"Märzengasse, Wettingen, Bezirk Baden, Aargau, 8430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Oberdorf,1,none,,,
+Wettingen,Rebstock,1,free,47.464500,8.329417,"Rebstock, Landstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Rosengarten,5,street,47.469847,8.321068,"Rosengartenstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Schar tenstrasse,3,none,,,
+Wettingen,Schartenstrasse,2,street,47.469356,8.323884,"Schartenstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Schlössli Wettingen,1,none,,,
+Wettingen,Schärtenstrasse,1,street,47.469356,8.323884,"Schartenstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Schönaustrasse,2,street,47.467552,8.313545,"Schönaustrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Schöneck,1,none,,,
+Wettingen,"Schöneegg, Kloster",1,none,,,
+Wettingen,Seminar,1,street,47.461206,8.315235,"Seminarstrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Seminar Wettingen,3,free,47.461206,8.315235,"Seminarstrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,Station,2,street,47.463315,8.313676,"Restaurant Station Skarabäus, 71, Seminarstrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / S"
+Wettingen,Wettingen-Langenstein,1,none,,,
+Wettingen,Wettingen-Station,1,free,47.459683,8.316054,"Wettingen, 12, Güterstrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,"bei Häfeli, Metzger",1,none,,,
+Wettingen,im Aesch,1,none,,,
+Wettingen,z. Grenzstein,1,none,,,
+Wettingen,z. Kreuz,1,none,,,
+Wettingen,z. Maiengrün,1,none,,,
+Wettingen,z. Rebstock,2,none,,,
+Wettingen,z. Rosengarten,1,street,47.469847,8.321068,"Rosengartenstrasse, Wettingen, Bezirk Baden, Aargau, 5430, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,z. Schartenfels,1,street,47.473485,8.318278,"Schartenfelsstrasse, Wettingen, Bezirk Baden, Aargau, 5408, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,z. Schönegg,1,none,,,
+Wettingen,z. Winkelried,1,street,47.463933,8.315562,"Winkelriedstrasse, Wettingen, Bezirk Baden, Aargau, 4530, Schweiz / Suisse / Svizzera / Svizra"
+Wettingen,zum Maiengrün,1,none,,,
+Wettingen,zum Marmorfels,1,none,,,
+Wettingen,"zum Marmorfels, Dorf",1,none,,,
+Wettingen,zum Schartenfels,1,free,47.474366,8.314616,"Informationen zum Ausblick, Schartenfelsstrasse, Wettingen, Bezirk Baden, Aargau, 5401, Schweiz / Suisse / Svizzera / Sv"
+Wettingen,zum Zentral,1,none,,,
+Wettingen,zum „Grenzstein“,1,none,,,
+Wettingen,zum „Winkelried“,1,none,,,
+Wettingen,zur Schönegg,1,none,,,
+Wettingen,zur Sonne,2,none,,,
+Würenlingen,im Bändli,1,none,,,
+Würenlingen,z. Rössli,1,none,,,
+Würenlos,Gasthaus zum Rössli,1,none,,,
+Würenlos,Neri's,1,none,,,
+Würenlos,Oetlikon,1,free,47.448873,8.376733,"Oetlikon, Würenlos, Bezirk Baden, Aargau, 8115, Schweiz / Suisse / Svizzera / Svizra"
+Würenlos,Oetlikon-Würenlos,1,free,47.448873,8.376733,"Oetlikon, Würenlos, Bezirk Baden, Aargau, 8115, Schweiz / Suisse / Svizzera / Svizra"
+Würenlos,Reidhard's,1,none,,,
+Würenlos,Wagner's,1,none,,,
+Würenlos,Walker's,1,none,,,
+Würenlos,am Bach,1,street,47.444706,8.364818,"Am Bach, Oetlikon, Würenlos, Bezirk Baden, Aargau, 5436, Schweiz / Suisse / Svizzera / Svizra"
+Würenlos,auf Gipf,1,none,,,
+Würenlos,im Bick,1,none,,,
+Würenlos,im Erliacker,1,none,,,
+Würenlos,z. Steinhof,1,street,47.444576,8.360164,"Steinhof, Würenlos, Bezirk Baden, Aargau, 5436, Schweiz / Suisse / Svizzera / Svizra"
+Würenlos,zum Bahnhof,1,none,,,
+Würenlos,zum Steinadler,1,none,,,
+Würenlos,zur Blume,1,none,,,
