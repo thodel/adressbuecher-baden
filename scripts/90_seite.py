@@ -27,6 +27,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 norm_street = importlib.import_module("10_geo").norm_street
+import site_nav  # noqa: E402  gemeinsame Navigation und Feldsuche aller Adressbuch-Seiten
 
 CSV_DIR = Path("data/csv")
 REVIEW = Path("data/review/flags.csv")
@@ -121,20 +122,25 @@ def tel_stat() -> str:
 
 
 def load(files: list[str], cols: list[str]) -> list[list[str]]:
-    rows = []
+    """Zeilen in der Reihenfolge von cols; weitere CSV-Spalten werden an cols angehängt (nur für die Feldsuche)."""
+    rows, csv_rows, fieldnames = [], [], []
     for f in files:
         p = CSV_DIR / f
         if not p.exists():
             continue
         with p.open(encoding="utf-8") as fh:
-            for r in csv.DictReader(fh):
-                r["qa_flags"] = " ".join(x for x in r.get("qa_flags", "").replace(";", " ").split())
-                r["telefon"] = PHONE.get(r["entry_id"], "")
-                r["street_key"] = norm_street(r["street_raw"]) if r.get("street_raw") else ""
-                r["other_volume"] = OTHER.get(r["entry_id"], "")
-                r["authority"] = AUTH.get(r["entry_id"], "")
-                r["zeitreise"] = ""  # im Browser aus GEO
-                rows.append([r.get(c, "") for c in cols])
+            reader = csv.DictReader(fh)
+            csv_rows += list(reader)
+            fieldnames += [c for c in reader.fieldnames if c not in fieldnames]
+    cols += site_nav.extra_columns(csv_rows, fieldnames, cols)
+    for r in csv_rows:
+        r["qa_flags"] = " ".join(x for x in r.get("qa_flags", "").replace(";", " ").split())
+        r["telefon"] = PHONE.get(r["entry_id"], "")
+        r["street_key"] = norm_street(r["street_raw"]) if r.get("street_raw") else ""
+        r["other_volume"] = OTHER.get(r["entry_id"], "")
+        r["authority"] = AUTH.get(r["entry_id"], "")
+        r["zeitreise"] = ""  # im Browser aus GEO
+        rows.append([r.get(c, "") for c in cols])
     return rows
 
 
@@ -232,10 +238,12 @@ footer { color: var(--muted); font-size: 0.8rem; }
 footer a { color: var(--accent); }
 #toast { position: fixed; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); right: calc(12px + env(safe-area-inset-right, 0px)); background: var(--fg); color: var(--bg); padding: 8px 14px; border-radius: 8px; font-size: 0.9rem; }
 @media (max-width: 600px) { body { font-size: 14px; } th, td { max-width: 22ch; } td.act input[type="text"] { width: 9ch; } .flagbar .sub { display: none; } .wrap { min-height: 70vh; } }
+__NAVCSS__
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
+__CITYBAR__
 <header>
-  <nav class="nav"><a href="./">Baden</a> · <a href="karte.html">Karte</a> · <a href="https://thodel.github.io/adressbuecher-aarau/">Adressbücher Aarau</a> · <a href="https://thodel.github.io/adressbuecher-basel/">Adressbücher Basel</a> · <a href="https://thodel.github.io/vernetzte-schweiz/">Vernetzte Schweiz</a> · <a href="__REPO__">Repo</a></nav>
+  __CITYNAV__
   <h1>Adressbücher Baden 1900 und 1910</h1>
   <p class="sub">Stand __DATE__ · Einwohnerverzeichnisse und Berufsregister der Stadt Baden (1900, mit Ennetbaden) und des Bezirks Baden (1910, 29 Gemeinden).</p>
 </header>
@@ -291,6 +299,7 @@ footer a { color: var(--accent); }
   <input id="q" type="search" placeholder="Suchen: Name, Beruf, Strasse, Rubrik, ID …" aria-label="Suchen">
   <span class="count" id="count" aria-live="polite"></span>
 </div>
+__FSPANEL__
 <div class="flagbar">
   <span><span class="n" id="nflags">0</span> Flags in diesem Browser · <span id="nreported">0</span> bereits im Repo gemeldet</span>
   <button class="btn primary" id="dl">Flags als CSV herunterladen</button>
@@ -303,6 +312,8 @@ footer a { color: var(--accent); }
 <footer>Daten CC0 1.0 · Code MIT · Quelle für <a href="https://thodel.github.io/vernetzte-schweiz/">Vernetzte Schweiz 1860–1914</a></footer>
 <div id="toast" hidden></div>
 <script>
+__FSJS__
+const FSTX = __FSTX__;
 const DATA = __DATA__;
 const LABELS = __LABELS__;
 const QA = __QA__;
@@ -392,13 +403,16 @@ function syncUrl() {
   if (vol.value) p.set('vol', vol.value); if (gem.value) p.set('gem', gem.value);
   if (conf.value) p.set('conf', conf.value); if (qa.value) p.set('qa', qa.value); if (tel.value) p.set('tel', tel.value); if (strF) p.set('str', strF);
   if (q.value.trim()) p.set('q', q.value.trim());
-  history.replaceState(null, '', location.pathname + '?' + p.toString());
+  FS.toParams(p);
+  history.replaceState(null, '', location.pathname + '?' + p.toString() + (location.hash === '#suche' ? '#suche' : ''));
 }
+let fsTab = '';
 function render() {
   for (const b of tabsEl.children) b.setAttribute('aria-selected', b.dataset.k === tab);
   gemOptions();
   const d = DATA[tab], needle = q.value.trim().toLowerCase(), v = vol.value, g = gem.value, c = conf.value, h = qa.value;
-  const oi = d.cols.indexOf('other_volume');
+  const oi = d.cols.indexOf('other_volume'), hide = d.hide;
+  if (tab !== fsTab) { fsTab = tab; FS.refresh(); }
   const ci = d.cols.indexOf('parse_confidence'), gi = d.cols.indexOf('municipality'), hi = d.cols.indexOf('qa_flags');
   const pi = d.cols.indexOf('phone_flag'), ti = d.cols.indexOf('telefon'), t = tel.value, ki = d.cols.indexOf('street_key');
   $('strchip').hidden = !strF;
@@ -410,12 +424,13 @@ function render() {
     && (!t || (t === '1' ? r[pi] === '1' : t === 'link' ? !!r[ti] : r[pi] === '1' && !r[ti]))
     && (!h || (h === '-' ? !r[hi] : (' ' + r[hi] + ' ').includes(' ' + h + ' ')))
     && (!onlyflag.checked || flags[tab + '|' + r[0]] || reported[tab + '|' + r[0]])
-    && (!needle || r.filter((_, i) => i !== oi).join(' ').toLowerCase().includes(needle)));
-  thead.innerHTML = '<tr><th>Flag</th>' + d.cols.filter(cc => cc !== 'street_key').map(cc => `<th>${esc(LABELS[cc] || cc)}</th>`).join('') + '</tr>';
+    && (!needle || r.filter((_, i) => i !== oi).join(' ').toLowerCase().includes(needle))
+    && FS.test(r, d.cols));
+  thead.innerHTML = '<tr><th>Flag</th>' + d.cols.filter(cc => !hide.includes(cc)).map(cc => `<th>${esc(LABELS[cc] || cc)}</th>`).join('') + '</tr>';
   tbody.innerHTML = rows.slice(0, shown).map(r => {
     const key = tab + '|' + r[0];
     const cls = (flags[key] && flags[key].reason ? 'flagged ' : '') + (reported[key] ? 'reported' : '');
-    return `<tr class="${cls}" title="${reported[key] ? esc('gemeldet: ' + reported[key].reason + ' ' + reported[key].note) : ''}">${actCell(tab, r)}${r.map((vv, i) => d.cols[i] === 'street_key' ? '' : cell(tab, d.cols[i], vv, r)).join('')}</tr>`;
+    return `<tr class="${cls}" title="${reported[key] ? esc('gemeldet: ' + reported[key].reason + ' ' + reported[key].note) : ''}">${actCell(tab, r)}${r.map((vv, i) => hide.includes(d.cols[i]) ? '' : cell(tab, d.cols[i], vv, r)).join('')}</tr>`;
   }).join('');
   more.hidden = rows.length <= shown;
   count.textContent = `${Math.min(shown, rows.length).toLocaleString('de-CH')} von ${rows.length.toLocaleString('de-CH')} Zeilen`;
@@ -460,6 +475,7 @@ if (P.get('tel')) tel.value = P.get('tel');
 $('strclear').onclick = () => { strF = ''; shown = PAGE; render(); };
 if (P.get('q')) q.value = P.get('q');
 if (P.get('gem')) { gemOptions(); const o = document.createElement('option'); o.value = P.get('gem'); gem.appendChild(o); gem.value = P.get('gem'); }
+FS.init({ cols: () => DATA[tab].cols, skip: ['street_key', 'zeitreise', 'telefon', 'other_volume', 'authority'], labels: LABELS, tx: FSTX, first: 'surname', onChange: () => { shown = PAGE; render(); } });
 render();
 </script>
 </html>
@@ -474,7 +490,7 @@ def main() -> None:
     for key, label, files, cols in TABS:
         rows = load(files, cols)
         if rows:
-            data[key] = {"label": label, "cols": cols, "rows": rows}
+            data[key] = {"label": label, "cols": cols, "rows": rows, "hide": cols[cols.index("street_key"):]}
             print(f"{label}: {len(rows)} Zeilen")
     n_ein = Counter(r[1] for r in data["einwohner"]["rows"])
     n_ber = Counter(r[1] for r in data["berufe"]["rows"])
@@ -482,7 +498,10 @@ def main() -> None:
     no_gem = sum(1 for r in data["berufe"]["rows"] if r[1] == "1910" and not r[gi])
     fmt = lambda n: f"{n:,}".replace(",", "\u202f")
     reported = load_flags()
-    html = (TEMPLATE.replace("__DATA__", json.dumps(data, ensure_ascii=False, separators=(",", ":")))
+    html = (TEMPLATE.replace("__CITYBAR__", site_nav.city_bar("baden")).replace("__CITYNAV__", site_nav.city_nav("Baden 1900/1910", REPO_URL, "entries"))
+            .replace("__NAVCSS__", site_nav.CSS).replace("__FSPANEL__", site_nav.search_panel())
+            .replace("__FSJS__", site_nav.FIELD_SEARCH_JS).replace("__FSTX__", json.dumps(site_nav.fs_texts(), ensure_ascii=False))
+            .replace("__DATA__", json.dumps(data, ensure_ascii=False, separators=(",", ":")))
             .replace("__LABELS__", json.dumps(LABELS, ensure_ascii=False))
             .replace("__QA__", json.dumps(QA, ensure_ascii=False))
             .replace("__GEO__", json.dumps(GEO, ensure_ascii=False, separators=(",", ":")))

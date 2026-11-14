@@ -21,6 +21,7 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+import site_nav  # noqa: E402  gemeinsame Navigation
 norm_street = importlib.import_module("10_geo").norm_street
 
 CSV_DIR = Path("data/csv")
@@ -94,9 +95,11 @@ select:focus-visible, input:focus-visible { outline: 2px solid var(--accent); ou
 .leaflet-popup-content { font-size: 14px; }
 .leaflet-popup-content b { font-weight: 700; }
 @media (max-width: 600px) { #map { min-height: 65vh; } }
+__NAVCSS__
 </style>
+__CITYBAR__
 <header>
-  <nav class="nav"><a href="./">Baden: Einträge</a> · <a href="karte.html">Karte</a> · <a href="https://thodel.github.io/vernetzte-schweiz/">Vernetzte Schweiz</a> · <a href="__REPO__">Repo</a></nav>
+  __CITYNAV__
   <h1>Karte: Adressbücher Baden 1900 und 1910</h1>
   <p class="sub">Stand __DATE__ · Kreisfläche = Zahl der Einträge. Gemeinden 1914 (blau) und Strassen (rot, Lage nach OpenStreetMap, heutige Strassenmitte). __UNPLACED__</p>
 </header>
@@ -179,7 +182,7 @@ def main() -> None:
     fmt = lambda x: f"{x:,}".replace(",", "\u202f")
     unplaced = (f"{len(S)} von {len(street)} Strassennamen verortet; {fmt(lost_entries)} von {fmt(total)} Einträgen mit "
                 f"Strasse liegen an Strassen ohne Punkt (anderer Name heute oder Lesefehler).")
-    html = (TEMPLATE.replace("__MUNI__", json.dumps(M, ensure_ascii=False, separators=(",", ":")))
+    html = (TEMPLATE.replace("__CITYBAR__", site_nav.city_bar('baden', 'de')).replace("__CITYNAV__", site_nav.city_nav('Baden 1900/1910', 'https://github.com/thodel/adressbuecher-baden', "map", 'de')).replace("__NAVCSS__", site_nav.CSS).replace("__MUNI__", json.dumps(M, ensure_ascii=False, separators=(",", ":")))
             .replace("__STREETS__", json.dumps(S, ensure_ascii=False, separators=(",", ":")))
             .replace("__UNPLACED__", unplaced).replace("__REPO__", REPO_URL)
             .replace("__DATE__", date.today().strftime("%d.%m.%Y")))
