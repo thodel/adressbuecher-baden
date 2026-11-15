@@ -36,6 +36,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 forename_score = importlib.import_module("81_baende").forename_score
 
 CITY = Path.cwd().name.removeprefix("adressbuecher-")  # baden, bern, …
+CITY_LABEL = CITY.capitalize()  # Gemeinde, wo die CSV keine Spalte municipality haben (Aarau, Basel)
 CSV_DIR = Path("data/csv")
 QWEN = Path("data/qwen")
 OUT = Path("web/telefon.csv")
@@ -61,6 +62,8 @@ def same_name(a: str, b: str) -> bool:
 def qwen_numbers() -> dict[tuple[str, int, int], str]:
     """(Band, Seite, Nr. auf der Seite) → gedruckte Telefonnummer, wenn eine dasteht (nicht nur ☎)."""
     out = {}
+    if not QWEN.exists():  # Aarau, Basel: keine qwen-Lesung, also keine gedruckten Nummern
+        return out
     for d in QWEN.iterdir():
         p = d / "entries.csv"
         if not p.exists():
@@ -82,9 +85,11 @@ def main() -> None:
                             capture_output=True, text=True).stdout.strip()
 
     entries = []
-    for f in sorted(p.name for p in CSV_DIR.glob("04_*.csv")):  # Einwohner, Berufe, ggf. Gemeinden
+    for f in sorted(p.name for p in CSV_DIR.glob("04_*.csv") if "probe" not in p.name):  # Einwohner, Berufe, ggf. Gemeinden
         with (CSV_DIR / f).open(encoding="utf-8") as fh:
-            entries += [r for r in csv.DictReader(fh) if r["phone_flag"] == "1"]
+            entries += [r for r in csv.DictReader(fh) if r.get("phone_flag") == "1"]
+    for r in entries:
+        r["municipality"] = r.get("municipality") or CITY_LABEL
     nums = qwen_numbers()
     munis = {r["municipality"] for r in entries if r["municipality"]}
 

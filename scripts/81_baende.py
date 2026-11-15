@@ -28,7 +28,11 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-norm_street = importlib.import_module("10_geo").norm_street
+try:  # Baden, Bern, Lausanne: Normalisierung aus 10_geo; Aarau, Basel: einfache Fassung
+    norm_street = importlib.import_module("10_geo").norm_street
+except (ModuleNotFoundError, AttributeError):
+    def norm_street(s: str) -> str:
+        return re.sub(r"\s+", " ", s.replace("ß", "ss")).strip(" .,;")
 
 CSV_DIR = Path("data/csv")
 OUT = Path("web/baende.csv")
@@ -61,10 +65,11 @@ def forename_score(a: str, b: str) -> int | None:
 
 def load() -> list[dict]:
     rows = []
-    for f in sorted(p.name for p in CSV_DIR.glob("04_*.csv")):  # Einwohner, Berufe, ggf. Gemeinden
+    for f in sorted(p.name for p in CSV_DIR.glob("04_*.csv") if "probe" not in p.name):  # Einwohner, Berufe, ggf. Gemeinden
         with (CSV_DIR / f).open(encoding="utf-8") as fh:
             for r in csv.DictReader(fh):
                 r["tab"] = tab = r["section"]
+                r["municipality"] = r.get("municipality") or Path.cwd().name.removeprefix("adressbuecher-").capitalize()
                 r["k_sur"] = fold(r["surname"]).replace(" ", "")
                 r["k_occ"] = fold(r["occupation_raw"] or (r["heading"] if tab == "berufe" else ""))[:5]
                 r["k_st"] = norm_street(r["street_raw"]).lower() if r["street_raw"] else ""
