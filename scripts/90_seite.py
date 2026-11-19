@@ -28,6 +28,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 norm_street = importlib.import_module("10_geo").norm_street
 import site_nav  # noqa: E402  gemeinsame Navigation und Feldsuche aller Adressbuch-Seiten
+import site_fonts  # noqa: E402  Schriften lokal (fonts/)
 
 CSV_DIR = Path("data/csv")
 REVIEW = Path("data/review/flags.csv")
@@ -159,7 +160,7 @@ TEMPLATE = r"""<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Adressbücher Baden 1900/1910</title>
 <meta name="description" content="Einträge der Adressbücher von Baden (Aargau) 1900 und 1910, maschinell gelesen mit qwen3.8, durchsuchbar nach Name, Beruf, Strasse und Gemeinde.">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap">
+<link rel="stylesheet" href="fonts/fonts.css">
 <style>
 /* Layout: Werkzeug wie Aarau/Basel — Kopf mit Hinweis und Filtern, darunter eine Tabelle, die den Rest füllt. */
 :root {
@@ -517,6 +518,7 @@ def main() -> None:
             .replace("__DATE__", date.today().strftime("%d.%m.%Y")))
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(html, encoding="utf-8")
+    site_fonts.copy(args.out)
     print(f"{len(reported)} gemeldete Flags → {args.out} ({args.out.stat().st_size / 1e6:.1f} MB)")
 
 
