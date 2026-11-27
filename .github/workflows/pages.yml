@@ -1,4 +1,4 @@
-name: Seite auf GitHub Pages
+name: Suche und Kontrollseite auf GitHub Pages
 
 on:
   push:
@@ -7,6 +7,7 @@ on:
       - "data/csv/**"
       - "data/review/**"
       - "scripts/**"
+      - "fonts/**"
       - "web/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
@@ -30,8 +31,9 @@ jobs:
           python-version: "3.12"
       - name: Seite bauen
         run: |
-          python scripts/90_seite.py --out _site/index.html
+          python scripts/90_seite.py --out _site/korrektur/index.html
           python scripts/92_karte.py --out _site/karte.html
+          python scripts/89_suche.py --out _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

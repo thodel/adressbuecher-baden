@@ -11,13 +11,15 @@ Telefonbüchern und den anderen Adressbüchern verknüpft werden.
 
 ## Seite
 
-Durchsuchbare Seite mit allen Einträgen, Filtern nach Band, Gemeinde, Konfidenz und Hinweis und
-Flagging je Zeile (wie bei [Aarau](https://thodel.github.io/adressbuecher-aarau/) und
-[Basel](https://thodel.github.io/adressbuecher-basel/)): https://thodel.github.io/adressbuecher-baden/
-
-- `python scripts/90_seite.py --out web/index.html` baut sie lokal aus `data/csv/`; GitHub Actions
-  (`.github/workflows/pages.yml`) baut und veröffentlicht sie bei jedem Push, der die Daten oder das
-  Skript ändert. `web/index.html` ist nicht eingecheckt.
+- Suche über alle Bände (Liste, Karte, Facetten Band/Teil/Gemeinde/Strasse/Beruf, Zeitstrahl) mit Seite je Eintrag:
+  https://thodel.github.io/adressbuecher-baden/ (`python scripts/89_suche.py --out _site` mit dem gemeinsamen
+  `scripts/site_search.py`; im Pages-Bau als letzter Schritt).
+- Korrekturmodus: Kontrollseite mit allen Einträgen, Filtern nach Band, Gemeinde, Konfidenz und Hinweis und
+  Flagging je Zeile (wie bei [Aarau](https://thodel.github.io/adressbuecher-aarau/) und
+  [Basel](https://thodel.github.io/adressbuecher-basel/)): https://thodel.github.io/adressbuecher-baden/korrektur/
+- `python scripts/90_seite.py --out web/index.html` baut die Kontrollseite lokal aus `data/csv/`; GitHub Actions
+  (`.github/workflows/pages.yml`) baut alles nach `_site/` (Kontrollseite unter `korrektur/`) und veröffentlicht es
+  bei jedem Push, der die Daten oder die Skripte ändert. `web/index.html` und `_site/` sind nicht eingecheckt.
 - Karte: `python scripts/92_karte.py --out web/karte.html` (Kreise je Gemeinde und Strasse).
 - Verknüpfungen in `web/`, mit den Skripten erzeugt und eingecheckt, damit der Bau ohne Netz und ohne
   vernetzte-schweiz läuft:
